@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A platform that oversees the operation and optimization of DC microgrids within ports, industries, data centers, and buildings, ensuring efficient energy distribution and reliability.
+
+2. **Hybrid AC-DC Power Inverters**: Devices designed to facilitate seamless integration between existing AC infrastructure and new DC systems in various sectors, enabling gradual transition without major disruptions.
+
+3. **DC-Powered Electric Vehicle (EV) Charging Infrastructure**: Fast-charging stations specifically optimized for DC power delivery to electric vehicles, improving charging efficiency and reducing conversion losses at ports and other facilities.
+
+4. **DC Load Balancing Technology**: Advanced algorithms and systems that manage and balance loads within a DC network, enhancing performance and energy savings in data centers and industrial settings.
+
+5. **Renewable Energy Integration Module**: A system focused on optimizing the integration of renewable energy sources into existing DC infrastructures, maximizing their contribution to overall energy supply in buildings and industries.

@@ -1,0 +1,9 @@
+Solution 1: Modular Direct Current Power Distribution System for Buildings: A scalable and flexible DC power distribution system designed for easy installation in buildings, providing improved energy efficiency, reduced cabling costs, and minimized conversion losses.
+
+Solution 2: DC Microgrid Control and Optimization Software for Ports: Advanced software to manage and optimize the operation of DC microgrids within ports, ensuring efficient energy usage, demand management, and seamless integration with various port equipment and renewable energy sources.
+
+Solution 3: High-Power DC Charging Infrastructure for Electric Vehicles in Industry: A robust high-power charging infrastructure for electric vehicles at industrial sites, enabling rapid charging, reducing downtime, and supporting the electrification of industrial fleets.
+
+Solution 4: DC Power-to-Heat Conversion Systems for Data Centers: Energy-efficient systems that convert excess DC power in data centers into thermal energy for space heating or hot water generation, minimizing waste heat emissions and improving overall energy efficiency.
+
+Solution 5: Smart Building Energy Management System with DC Integration: An intelligent building energy management system that integrates DC distribution, enabling real-time monitoring, control, and optimization of energy consumption within buildings, improving comfort, safety, and efficiency.

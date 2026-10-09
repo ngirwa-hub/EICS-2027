@@ -1,0 +1,5 @@
+1. DC Microgrids for Ports: A decentralized power system that enables energy efficiency and redundancy in port infrastructure, supporting critical operations such as cargo handling and transportation.
+2. Industrial DC Traction Systems: An electric traction system utilizing high-performance DC motors and drives for efficient power transmission in industrial applications like steel mills, cement factories, and mining operations.
+3. DC Fuel Cells for Data Centers: A clean energy solution that uses hydrogen fuel cells to convert DC power into heat and water, providing reliable and sustainable energy supply to data centers while reducing carbon footprint.
+4. DC Lighting Systems for Buildings: An LED-based lighting system that operates on low-voltage DC power, offering improved energy efficiency, longer lifespan, and easier maintenance compared to traditional AC lighting systems.
+5. Smart Grid Integration for DC Solutions: A comprehensive solution that integrates DC microgrids with smart grid infrastructure, enabling seamless interaction between renewable energy sources and load management systems in buildings and industrial applications.

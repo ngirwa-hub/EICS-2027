@@ -1,0 +1,13 @@
+1. Ports
+   - Offshore Wind for Port Infrastructure: Utilizing offshore wind turbines to power port infrastructure, reducing reliance on fossil fuels and emissions.
+    
+2. Industry
+   - DC-based Smart Manufacturing: Implementing DC-powered smart manufacturing systems to improve efficiency and reduce energy waste.
+   
+3. Data Centers
+   - Liquid Cooling System using DC: Utilizing direct current in liquid cooling systems for data centers, reducing energy consumption and costs.
+   
+4. Buildings
+   - DC-based Home Automation: Implementing DC-powered home automation systems to optimize energy usage and improve comfort.
+
+Note: The above solutions were not included in the earlier list of 11 proposed DC solutions for the Shift2DC project.

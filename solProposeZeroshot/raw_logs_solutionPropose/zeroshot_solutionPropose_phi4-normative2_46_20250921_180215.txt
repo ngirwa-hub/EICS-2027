@@ -1,0 +1,9 @@
+1. **DC Microgrid Systems**: Integrated networks that allow ports, industries, data centers, and buildings to operate efficiently using direct current, minimizing conversion losses and enhancing energy reliability.
+
+2. **DC Power Management Software**: Intelligent platforms designed to optimize power distribution and consumption in DC grids across various sectors, ensuring efficient use of resources and reducing waste.
+
+3. **DC-Coupled Renewable Energy Integration**: Solutions that directly connect renewable energy sources like solar panels and wind turbines to DC systems without intermediate AC conversion, enhancing efficiency and sustainability.
+
+4. **Advanced Thermal Management for DC Systems**: Techniques and devices that manage heat production in high-power DC environments, crucial for maintaining performance and safety in data centers and industrial applications.
+
+5. **DC Energy Harvesting Technologies**: Methods for capturing and converting ambient energy (e.g., light or motion) directly into usable DC power, which can be particularly beneficial for powering low-energy devices within buildings and ports.

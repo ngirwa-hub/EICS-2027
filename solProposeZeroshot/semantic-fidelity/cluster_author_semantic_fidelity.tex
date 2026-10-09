@@ -1,0 +1,21 @@
+\begin{table*}[h!]
+\caption{Semantic fidelity scores between the authored final solutions and the merged cluster evidence.}
+\label{tab:cluster_author_semantic_fidelity}
+\begin{tabular}{@{} c p{0.28\textwidth} c c c c c c c @{}}
+\toprule
+Sol. & Final Solution & Clusters & F1 (Key) & F1 (Obj+Desc) & P (Key) & P (Obj+Desc) & R (Key) & R (Obj+Desc) \\
+\midrule
+1 & electric vehicles charging stations & 0 & 0.915 & 0.906 & 0.938 & 0.922 & 0.894 & 0.891 \\
+2 & Intelligent Building Energy Management System (IBEMS) & 1,2,4 & 0.840 & 0.855 & 0.880 & 0.879 & 0.803 & 0.834 \\
+3 & solar PV tracking and power systems & 5,7 & 0.854 & 0.852 & 0.905 & 0.874 & 0.809 & 0.832 \\
+4 & battery energy storage systems & 6 & 0.912 & 0.882 & 0.933 & 0.905 & 0.891 & 0.859 \\
+5 & LED lighting systems & 3 & 0.883 & 0.866 & 0.912 & 0.892 & 0.856 & 0.842 \\
+\bottomrule
+\end{tabular}
+
+\vspace{2mm}
+\begin{minipage}{\textwidth}
+\footnotesize
+\textit{Key:} P = Precision, R = Recall, F1 = harmonic mean of precision and recall; Key = authored \texttt{key\_phrases} scored against merged source \texttt{sample\_titles} and \texttt{summary}; Obj+Desc = authored \texttt{objective} and \texttt{description} scored against merged source \texttt{explanations\_text}.
+\end{minipage}
+\end{table*}

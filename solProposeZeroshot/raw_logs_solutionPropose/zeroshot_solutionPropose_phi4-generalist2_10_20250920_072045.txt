@@ -1,0 +1,9 @@
+1. **DC Power Distribution Units: Modular power distribution units designed for efficient DC power delivery within industrial settings and data centers, reducing conversion losses by minimizing AC-DC conversions.**
+
+2. **DC Microgrid Controllers: Advanced control systems that manage the flow of electricity in DC microgrids at ports or buildings, ensuring stable operation and optimizing renewable energy integration.**
+
+3. **DC Lighting Systems: Energy-efficient lighting solutions that operate directly on DC power, commonly used in data centers to reduce conversion losses associated with traditional AC lighting systems.**
+
+4. **High-Efficiency DC Motors: Motors designed specifically for use with DC power, offering improved efficiency for industrial machinery and equipment, reducing energy consumption compared to AC motors.**
+
+5. **DC-Powered Desalination Units: Desalination units that utilize direct current for energy input, potentially enhancing efficiency in water treatment processes at coastal ports or regions requiring sustainable freshwater solutions.**

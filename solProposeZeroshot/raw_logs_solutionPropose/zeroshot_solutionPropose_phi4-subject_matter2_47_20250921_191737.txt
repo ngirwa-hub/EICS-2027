@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A software platform that optimizes the operation and integration of various DC power sources within microgrids at ports, industries, data centers, and buildings, enhancing energy efficiency and reliability.
+
+2. **DC Power Quality Monitoring Device**: A device designed to continuously monitor and report on power quality metrics in DC systems, ensuring stable and efficient operations across different applications like ports and industrial setups.
+
+3. **Modular DC Distribution Panels**: Configurable panels that facilitate the easy distribution of DC power within buildings or data centers, allowing for flexible expansion as energy needs grow without extensive infrastructure changes.
+
+4. **Integrated Renewable Energy Interface**: A solution that seamlessly integrates renewable energy sources such as solar and wind with existing DC networks in industrial settings, improving sustainability and reducing dependency on fossil fuels.
+
+5. **DC-AC Hybrid Inverter System**: An advanced system capable of efficiently converting DC to AC power when necessary while maximizing the use of direct current in applications where it is more beneficial, like in data centers that primarily run on DC loads.

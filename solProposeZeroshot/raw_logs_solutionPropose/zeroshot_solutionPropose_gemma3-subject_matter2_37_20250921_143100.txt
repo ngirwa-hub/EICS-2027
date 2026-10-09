@@ -1,0 +1,5 @@
+1. DC-Based Power Distribution Units (PDUs): Intelligent PDUs designed for DC microgrids, providing voltage regulation, power monitoring, and load balancing within DC systems.
+2. DC-Native Energy Management Systems (EMS): EMS platforms specifically designed to optimize energy usage and manage distributed renewable generation within DC environments, offering advanced control and forecasting capabilities.
+3. High-Efficiency DC Lighting Systems: LED lighting solutions powered directly from DC sources, eliminating AC-DC conversion losses and improving energy efficiency in buildings and industrial facilities.
+4. DC-Compatible Motor Drives: Direct DC motor drives for industrial applications and port equipment, reducing conversion losses and improving motor control performance compared to traditional AC drives.
+5. Bidirectional DC Power Transfer Systems: Enables power sharing between buildings or industrial facilities within a DC microgrid, allowing for optimized resource utilization and increased resilience.

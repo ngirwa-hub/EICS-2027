@@ -1,0 +1,9 @@
+1. **DC Microgrid Control System**: A centralized or decentralized system that optimizes energy distribution within a DC microgrid, enhancing efficiency and reliability in sectors like ports and industry.
+
+2. **DC-Powered Electric Vehicle Charging Infrastructure**: Infrastructure designed for charging electric vehicles using direct current, reducing conversion losses and increasing efficiency at ports and urban areas with high vehicle density.
+
+3. **Integrated Solar-DC Hybrid Systems**: Combines solar photovoltaic panels directly with DC systems to optimize energy use in data centers by minimizing AC-DC conversions and maximizing renewable integration.
+
+4. **Building Integrated Photovoltaics (BIPV) for DC Use**: Solar panels integrated into building materials, such as roofs or facades, that supply direct current electricity to the building's electrical system, enhancing energy efficiency and aesthetic appeal.
+
+5. **DC-Based Smart Lighting Systems**: Energy-efficient lighting systems powered by DC that integrate with smart controls to reduce energy consumption in buildings and industrial settings.

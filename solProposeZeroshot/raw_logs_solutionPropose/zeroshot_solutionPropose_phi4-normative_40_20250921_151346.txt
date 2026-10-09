@@ -1,0 +1,9 @@
+1. **DC Microgrid System for Ports**: A localized energy network using DC technology that integrates renewable sources and improves energy efficiency at ports by reducing conversion losses.
+
+2. **Industrial Energy Management Platform**: An AI-driven platform designed for optimizing energy consumption in industrial settings by leveraging real-time data to control DC-powered machinery and systems efficiently.
+
+3. **DC-Powered Data Center Cooling Systems**: Innovative cooling solutions utilizing direct current technology to enhance the thermal management of data centers, reducing reliance on traditional AC systems and improving overall energy efficiency.
+
+4. **Smart DC Building Management System (BMS)**: A centralized platform using DC networks to monitor and control building operations like lighting, HVAC, and appliances for optimized energy use and increased sustainability in buildings.
+
+5. **DC Power Distribution Architecture**: A tailored infrastructure that supports efficient distribution of direct current throughout an industrial or commercial facility, minimizing losses associated with AC-DC conversion and enhancing reliability.

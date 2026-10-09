@@ -1,0 +1,14 @@
+1. Smart Grid Connected DC: A solution that integrates renewable energy sources and smart grid technologies for DC power distribution in ports, industry, data centers, and buildings.
+   Explanation: This technology allows for efficient management of energy supply and demand while reducing greenhouse gas emissions.
+
+2. Microgrid DC Solution: A solution that enables localized and decentralized energy management systems in ports, industry, data centers, and buildings.
+   Explanation: It promotes energy independence and resilience by allowing for the integration of multiple distributed energy resources.
+
+3. Efficient DC Lighting System: A solution that replaces traditional AC lighting systems with efficient DC LED lights in ports, industry, data centers, and buildings.
+   Explanation: It reduces energy consumption and maintenance costs while providing better illumination quality.
+
+4. Energy-Efficient DC Motors: A solution that utilizes high-efficiency DC motors in port machinery, industrial equipment, data center cooling systems, and building HVAC systems.
+   Explanation: It reduces energy consumption and operating costs while increasing system efficiency and lifespan.
+
+5. Remote DC Monitoring System: A solution that enables real-time monitoring of DC power distribution systems in ports, industry, data centers, and buildings.
+   Explanation: It improves system reliability, maintenance planning, and safety while reducing energy losses due to inefficiencies or failures.

@@ -1,0 +1,9 @@
+1. **DC Microgrid Control Systems**: Advanced control systems designed for managing DC microgrids efficiently, ensuring seamless integration and operation across various sectors like ports and data centers.
+
+2. **DC Power Quality Improvement Device**: A device aimed at enhancing the quality of power in DC networks by minimizing voltage fluctuations and harmonics, particularly beneficial for sensitive applications in data centers and industry settings.
+
+3. **High-Efficiency DC-to-AC Inverter**: An innovative inverter that efficiently converts DC to AC with minimal energy loss, supporting hybrid systems in buildings where both DC and AC loads coexist.
+
+4. **DC Fault Detection and Isolation System**: A system focused on quickly identifying and isolating faults within a DC network, crucial for maintaining safety and reliability in industrial environments.
+
+5. **Modular DC Energy Storage Units**: Scalable storage units designed to meet the specific energy demands of sectors like ports and data centers, enhancing flexibility and reducing dependency on external AC sources.

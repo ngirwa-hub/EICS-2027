@@ -1,0 +1,14 @@
+1. **DC Microgrid Integration for Ports:**
+   A system that integrates renewable energy sources like solar panels and wind turbines directly into a port's existing infrastructure using DC technology, enhancing energy efficiency and reducing reliance on traditional power grids.
+
+2. **Industrial Process Optimization with DC Power:**
+   A solution to optimize industrial processes by providing customized DC power directly to machinery and equipment, improving operational efficiency and reducing energy conversion losses compared to AC systems.
+
+3. **Data Center Power Efficiency Module:**
+   A module designed for data centers that enables direct use of renewable DC sources like solar panels, optimizing power usage effectiveness (PUE) and minimizing energy waste by avoiding unnecessary conversions from AC to DC.
+
+4. **Residential Building DC Solar Inverter:**
+   An innovative inverter system for residential buildings that allows rooftop solar panels to supply power directly in DC, reducing conversion losses and improving overall energy efficiency of home systems like lighting and appliances.
+
+5. **DC Smart Grid Infrastructure for Urban Areas:**
+   A network infrastructure enabling urban areas to efficiently distribute and manage DC power generated from renewable sources across multiple buildings and facilities, supporting a resilient and sustainable local grid system.

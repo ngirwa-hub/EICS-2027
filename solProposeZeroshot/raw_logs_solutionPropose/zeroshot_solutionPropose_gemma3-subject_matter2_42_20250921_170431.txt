@@ -1,0 +1,7 @@
+Here are five additional DC solutions relevant to the Shift2DC project’s focus areas (ports, industry, data centers, buildings), and not previously listed:
+
+1.  DC-Based Microgrid Management System: A software platform optimizing DC power flow, energy storage dispatch, and load balancing within DC microgrids, incorporating predictive analytics for efficient operation.
+2.  Modular DC Power Distribution Units (PDU): Standardized, scalable DC PDUs offer flexible power delivery and remote monitoring capabilities within buildings and industrial facilities.
+3.  DC-Native Lighting Systems: Direct powering of LED lighting fixtures from a DC source eliminates AC-DC conversion losses, improving energy efficiency in buildings and ports.
+4.  DC-Compatible Energy Management System (EMS): A specialized EMS designed to manage DC loads, generation, and storage, providing real-time data and control for ports and industrial sites.
+5.  Dynamic DC Load Shaping: A system using power electronics to actively manage and shape DC loads based on renewable energy availability and grid conditions, particularly beneficial for data centers.

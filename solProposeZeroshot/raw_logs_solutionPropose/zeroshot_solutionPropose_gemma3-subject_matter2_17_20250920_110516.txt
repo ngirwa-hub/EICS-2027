@@ -1,0 +1,5 @@
+1. DC-Based Power Distribution Units (PDUs): Intelligent PDUs manage power distribution within DC microgrids, providing metering, switching, and load balancing capabilities for enhanced efficiency and control.
+2. High-Efficiency DC Lighting Systems: Utilizing DC LED lighting directly from the DC grid reduces conversion losses associated with traditional AC-to-DC lighting solutions, lowering energy consumption.
+3. DC-Native Motor Drives: Employing DC motors directly coupled to DC power sources eliminates AC-to-DC conversion for industrial machinery, boosting efficiency and reducing harmonic distortion.
+4. Dynamic DC Voltage Sag Mitigation: A system utilizing supercapacitors or fast-response DC-DC converters to maintain stable DC voltage levels during transient load changes, critical for sensitive equipment in data centers and ports.
+5. DC-Based Wireless Power Transfer (WPT) for Automated Guided Vehicles (AGVs): Enabling AGVs in ports and industry to charge wirelessly via DC power, eliminating cables and improving operational flexibility.

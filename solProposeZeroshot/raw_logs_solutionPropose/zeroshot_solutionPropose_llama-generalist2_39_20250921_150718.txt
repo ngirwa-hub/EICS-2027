@@ -1,0 +1,5 @@
+1. Solar PV Inverter: A device that converts solar photovoltaic (PV) energy into direct current for use in DC microgrids or buildings.
+2. Air-Conditioning System Control: A smart system that optimizes the control of air conditioners in buildings by monitoring temperature and humidity, and adjusts the cooling system to reduce energy consumption and carbon footprint.
+3. Electric Vehicle Charging Infrastructure: A network of DC charging stations for electric vehicles, allowing for faster and more efficient charging than traditional AC charging stations.
+4. Grid-Connected Battery Storage: A system that integrates battery storage directly with the grid, allowing excess energy generated from renewable sources to be stored and used during peak demand times in buildings or data centers.
+5. DC Lighting System: An intelligent lighting system that utilizes sensors and direct current to optimize energy consumption and provide a more efficient and effective illumination solution for port areas, industry facilities, data centers, and building interiors.

@@ -1,0 +1,5 @@
+1. Solar PV System: A photovoltaic system that generates DC power from sunlight, which can be directly connected to DC microgrids without the need for AC to DC conversion, reducing losses and enhancing efficiency.
+2. Wind Turbine System: A wind turbine generator that produces DC power, which can be integrated into DC grids, minimizing energy loss during the transformation process.
+3. Energy Storage Hybrid System: An integrated system that combines battery storage and renewable energy sources such as solar panels or wind turbines to provide stable and reliable power supply for ports, industry, data centers, and buildings.
+4. Smart Grid Platform: A platform that enables the integration of multiple DC solutions in a single smart grid network, providing seamless management and control of energy resources.
+5. Off-grid Solar System: An off-grid solar power system that generates DC power using photovoltaic panels, which can be directly connected to DC appliances or microgrids without requiring an AC to DC conversion process.

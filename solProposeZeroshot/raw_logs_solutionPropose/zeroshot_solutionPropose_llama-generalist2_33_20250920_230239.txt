@@ -1,0 +1,5 @@
+1. Solar Power for Ports: Harnessing solar energy to power ports' operations, reducing reliance on fossil fuels and lowering carbon footprint.
+2. Wind Turbines for Industry: Deploying wind turbines in industrial areas to generate clean energy and reduce dependence on fossil fuel-based power.
+3. Efficient Cooling Systems for Data Centers: Utilizing DC-powered cooling systems in data centers to enhance energy efficiency and reduce environmental impact.
+4. LED Lighting for Buildings: Upgrading existing lighting systems in buildings with energy-efficient DC LED lights, reducing electricity consumption and costs.
+5. Microgrids for Smart Cities: Developing localized DC microgrids for smart cities that allow for the integration of various renewable energy sources and optimize energy usage.

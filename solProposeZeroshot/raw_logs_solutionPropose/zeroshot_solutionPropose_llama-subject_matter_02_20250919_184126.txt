@@ -1,0 +1,5 @@
+1. Solar-Powered Water Pumps: A system that uses solar panels to power water pumps in agricultural areas or for irrigation systems, improving efficiency and reducing dependence on grid electricity.
+2. Efficient DC Lighting: An innovative lighting solution that uses direct current to reduce energy consumption and carbon footprint in industrial settings, such as warehouses or factories.
+3. Energy-Efficient HVAC Systems: A high-voltage direct current (HVDC) system for heating, ventilation, and air conditioning (HVAC) that optimizes energy usage and improves indoor air quality in commercial buildings.
+4. Efficient DC Cooling: An advanced cooling solution using DC technology to reduce energy consumption and environmental impact in data centers, such as liquid-cooling systems or air-cooled chillers.
+5. Grid-Supportive Inverters: A device that converts DC power from renewable sources into AC power for grid integration, providing ancillary services like frequency regulation and voltage control to improve the overall stability of the electricity network.

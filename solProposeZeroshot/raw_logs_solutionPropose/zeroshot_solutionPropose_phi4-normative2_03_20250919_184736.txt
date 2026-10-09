@@ -1,0 +1,9 @@
+1. **DC-Powered Electrified Ports:** Infrastructure for charging and powering port equipment (like cranes and vehicles) using direct current, reducing emissions by decreasing reliance on diesel engines.
+
+2. **Industry-Specific DC Drives:** Customized drives that operate directly on DC power for industrial machinery, enhancing efficiency by eliminating the need to convert AC to DC.
+
+3. **DC-Powered Data Center Cooling Systems:** Use of DC systems to drive cooling mechanisms in data centers, optimizing energy usage by reducing conversion losses and improving overall system reliability.
+
+4. **DC Grid Interoperability Protocols:** Standards and protocols enabling seamless integration of various DC technologies across multiple sectors, ensuring compatibility and maximizing energy efficiency.
+
+5. **Building-Level DC Microgrids:** Implementation of localized DC microgrids in buildings to manage solar-generated power effectively, reduce conversion losses, and improve overall building energy management.

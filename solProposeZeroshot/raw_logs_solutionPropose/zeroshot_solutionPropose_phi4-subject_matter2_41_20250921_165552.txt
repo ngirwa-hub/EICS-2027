@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System:** An intelligent platform for managing and optimizing the performance of DC microgrids in ports, industries, data centers, and buildings. It ensures efficient energy distribution, integrates renewable sources, and enhances reliability.
+
+2. **Hybrid AC-DC Power Architecture:** A flexible power system design that combines AC and DC networks to leverage the benefits of both systems. This architecture reduces conversion losses and allows seamless integration with existing infrastructure, particularly beneficial for data centers.
+
+3. **DC-Friendly Renewable Energy Integration Module:** A module designed to optimize the connection of renewable energy sources like solar PV directly into DC grids, minimizing conversion steps and maximizing efficiency in industrial applications.
+
+4. **Energy Management System (EMS) for DC Applications:** An advanced EMS tailored specifically for DC power systems that monitors, controls, and optimizes energy consumption across various sectors such as buildings and industry, enhancing operational efficiency and sustainability.
+
+5. **DC Load Balancing Technology:** A technology focused on balancing loads in DC networks to ensure stable operation and prevent overloads in critical facilities like ports and data centers, improving safety and performance.

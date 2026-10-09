@@ -1,0 +1,14 @@
+1. **DC Microgrid Management System:**
+   A centralized platform for optimizing the operation and integration of various DC power sources within microgrids in ports, industry, data centers, and buildings.
+
+2. **Portable DC Energy Storage Units:**
+   Compact, mobile energy storage solutions designed to provide backup power and improve energy efficiency across industrial settings and data center facilities.
+
+3. **DC Solar Photovoltaic Inverters:**
+   Advanced inverters that convert solar energy directly into DC electricity for on-site use in buildings and industrial complexes, enhancing renewable integration without AC conversion.
+
+4. **DC Charging Infrastructure for Electric Vehicles (EVs):**
+   Robust systems for DC charging stations at ports and other strategic locations to facilitate rapid charging of electric vehicles, reducing downtime and operational costs.
+
+5. **DC Power Monitoring and Analytics Platform:**
+   A digital solution offering real-time monitoring and analytics of DC power flows in industrial plants and data centers to optimize energy usage and reduce waste.

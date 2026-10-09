@@ -1,0 +1,9 @@
+1. **DC Microgrid for Ports**: A localized energy system using direct current that powers port operations directly from renewable sources, enhancing efficiency and reducing emissions.
+
+2. **Industrial Process Integration with DC**: Systems designed to operate industrial machinery on direct current, optimizing energy use by cutting conversion losses between AC and DC.
+
+3. **Data Center Power Optimization**: Utilizing direct current for powering data centers to minimize energy loss during conversion processes, improving overall power efficiency and reliability.
+
+4. **Residential DC Microgrid Solutions for Buildings**: A decentralized energy system in buildings that operates on DC, integrating solar panels directly with home appliances and reducing reliance on the main AC grid.
+
+5. **DC-Powered Smart Building Systems**: Advanced building management systems powered by direct current to manage lighting, heating, and cooling more efficiently, leveraging renewable energy sources.

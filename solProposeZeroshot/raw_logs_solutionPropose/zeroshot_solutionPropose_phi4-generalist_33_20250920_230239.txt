@@ -1,0 +1,9 @@
+1. **DC Microgrid Controller**: A system that manages and optimizes the flow of direct current within a microgrid, ensuring efficient energy distribution and reliable operations in ports, industries, data centers, and buildings.
+
+2. **Integrated DC Power Management System**: This solution provides centralized control for managing various DC power sources and loads, enhancing efficiency and reducing operational complexity across different sectors like industry and data centers.
+
+3. **DC Energy Storage Integration**: A system that integrates battery storage directly with DC microgrids, eliminating AC conversion losses and improving grid stability in facilities such as ports and buildings.
+
+4. **Hybrid AC/DC Power System**: This design allows seamless integration of both AC and DC power sources within a facility, facilitating easier transition to more sustainable energy systems particularly beneficial for industrial settings.
+
+5. **DC Load Optimization Software**: A software tool that optimizes the scheduling and operation of DC loads in facilities such as data centers, reducing energy waste and enhancing overall system efficiency.

@@ -1,0 +1,5 @@
+1. Solar Photovoltaic (PV) System for Ports: Integrating solar PV systems to power ports' electrical needs, reducing reliance on traditional grid energy.
+2. Energy-Efficient Lighting Systems for Industry: Implementing LED lighting and smart control systems in industrial settings for improved energy efficiency and cost savings.
+3. DC-Based HVAC System for Buildings: Using DC-based heat pumps or air conditioning units to improve building comfort while reducing energy consumption.
+4. Efficient Data Center Cooling Solution: Deploying direct-liquid cooling systems to optimize data center cooling efficiency and reduce energy waste.
+5. Wind Turbine Integration for Ports: Installing small wind turbines at ports to generate clean, renewable energy for power needs, reducing dependence on fossil fuels.

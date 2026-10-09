@@ -1,0 +1,5 @@
+1. Solar PV Tracker: A system that uses a solar panel tracker to follow the sun's movement and optimize energy production in DC microgrids.
+2. Grid-Connected Inverters: DC-DC converters that connect renewable energy sources (such as solar panels or wind turbines) directly to the grid, bypassing AC-DC conversion losses.
+3. Energy Management System: A software tool that monitors and controls energy consumption in buildings, including DC systems, to reduce overall energy usage and costs.
+4. EV Charging Stations: DC charging stations for electric vehicles (EVs) that directly connect to the grid via high-power DC cables, reducing charging times and improving efficiency.
+5. DC HVDC Transmission System: A high-voltage direct current transmission system that enables long-distance transport of renewable energy from remote areas to urban centers, bypassing traditional AC transmission limitations.

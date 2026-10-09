@@ -1,0 +1,5 @@
+1. Smart Grid DC Link Converter: A system that uses a DC link converter to connect renewable energy sources and storage systems directly to the DC grid, increasing efficiency and reducing losses.
+2. Building Automation System Integrated with DC: An intelligent building automation system integrated with direct current technology, providing optimized control of lighting, ventilation, heating, and cooling systems for increased energy savings and reduced carbon footprint.
+3. Ports DC Microgrid Network: A network of microgrids in port areas powered by renewable energy sources and advanced battery storage solutions, reducing reliance on fossil fuels and promoting sustainability.
+4. Industrial Automation DC: An automated industrial control system utilizing direct current technology for improved efficiency, accuracy, and safety in manufacturing processes, increasing productivity and reducing operational costs.
+5. Data Center DC Infrastructure: A data center infrastructure designed to operate on direct current power, providing increased energy efficiency, reduced cooling requirements, and lower environmental impact compared to traditional AC-based data centers.

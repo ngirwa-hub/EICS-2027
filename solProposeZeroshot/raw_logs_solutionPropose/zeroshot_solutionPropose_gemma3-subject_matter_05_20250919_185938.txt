@@ -1,0 +1,5 @@
+1. DC Power Distribution Units (PDUs): Intelligent DC PDUs manage power distribution within DC microgrids, offering features like remote monitoring, load balancing, and fault isolation.
+2. DC-Native Energy Management Systems (EMS): A DC-EMS optimizes energy consumption and generation within DC systems, integrating with renewable sources and storage.
+3. Bidirectional DC Charging Infrastructure: Enables efficient charging of electric vehicles and other DC loads directly from DC microgrids, minimizing AC conversion losses.
+4. DC-Based Microgrid Control Algorithms: Advanced control algorithms to manage voltage, frequency (in some cases), and power flow within DC microgrids, enhancing stability and resilience.
+5. High-Efficiency DC Lighting Systems: Utilizing DC lighting technology directly from the DC microgrid eliminates AC-DC conversion, improving overall system efficiency and reducing energy waste.

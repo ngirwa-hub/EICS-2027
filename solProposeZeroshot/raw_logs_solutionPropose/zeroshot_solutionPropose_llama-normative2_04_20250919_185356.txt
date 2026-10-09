@@ -1,0 +1,5 @@
+1. Ports: Intelligent DC Power Supply System for Ships: A system that utilizes DC power supply on ships for efficient and reliable power management, reducing energy losses and improving sustainability.
+2. Industry: DC-DC Converter Energy Recovery System: A system that captures energy typically lost in the conversion process from AC to DC in industries and reuses it efficiently using DC-DC converters, improving overall energy efficiency.
+3. Data centers: High-Efficiency DC Air Conditioning System: An innovative air conditioning system that utilizes direct current to manage cooling for data centers, reducing energy consumption and increasing sustainability.
+4. Buildings: LED Lighting Control System using DC Technology: A smart lighting control system that uses DC technology to precisely regulate LED lighting in buildings, optimizing energy usage and enhancing user experience.
+5. Ports: Efficient DC Traction System for Electric Trucks: An electric traction system that utilizes DC power for trucks at ports, reducing emissions and improving efficiency in the transportation process.

@@ -1,0 +1,5 @@
+1. High-efficiency DC power supply for port operations: A system that provides efficient and reliable power supply for port equipment such as cranes, stacking systems, and other machinery, reducing energy consumption and costs.
+2. Advanced DC lighting system for industrial applications: An intelligent lighting system that optimizes energy usage, reduces maintenance requirements, and improves safety with automatic dimming and motion detection features.
+3. Energy-efficient DC air conditioning systems for data centers: A next-generation cooling solution that leverages DC technology to reduce energy consumption, improve cooling efficiency, and minimize heat dissipation in data centers.
+4. Smart DC lighting control for buildings: An integrated lighting system that uses DC power and advanced controls to optimize energy usage, enhance user experience, and provide real-time monitoring and adjustment capabilities.
+5. Combined DC power and heat recovery system for industrial applications: A solution that generates both electricity and thermal energy from waste heat, increasing overall energy efficiency and reducing greenhouse gas emissions in industrial processes.

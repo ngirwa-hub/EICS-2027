@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A platform for coordinating the operation and optimization of DC microgrids in ports, enhancing energy efficiency and reliability.
+
+2. **Hybrid AC/DC Energy Storage Integration**: Facilitates seamless integration of various storage technologies within hybrid AC/DC systems, optimizing energy usage and providing backup power across industries.
+
+3. **DC Power Quality Monitoring System**: A tool that ensures the stability and quality of DC power in data centers by continuously monitoring parameters like voltage, current, and frequency deviations.
+
+4. **DC-Driven HVAC Systems for Buildings**: Implements DC-driven heating, ventilation, and air conditioning systems to reduce energy consumption and improve efficiency within buildings.
+
+5. **Modular DC Charging Infrastructure for Ports**: Provides scalable and flexible charging solutions for electric vehicles and machinery in ports, supporting the transition to electrification with minimal conversion losses.

@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System: A centralized control platform for optimizing the operation and energy flow within DC microgrids in ports, industries, data centers, and buildings.** This system enhances efficiency by balancing loads, managing distributed generation sources, and ensuring reliable power distribution.
+
+2. **Integrated Solar-DC Power Modules: Modular units combining photovoltaic panels with integrated DC inverters for seamless integration into existing infrastructure.** These modules can be used in building facades or rooftops to directly supply DC power to on-site systems such as lighting, reducing conversion losses.
+
+3. **Battery Energy Storage System (BESS) with Advanced Thermal Management: A BESS designed specifically for DC applications that includes enhanced thermal management features to maintain optimal operating temperatures and prolong battery life.** This is particularly useful in data centers where consistent power quality and reliability are critical.
+
+4. **DC Load Aggregation Platform: Software solution allowing multiple small-scale DC loads within an industry or building to be aggregated, enabling more efficient demand response and energy management strategies.** This improves the flexibility of industrial operations by matching production schedules with renewable generation availability.
+
+5. **High-Efficiency DC LED Lighting Systems: Advanced lighting solutions that directly use DC power for high-efficiency lighting in ports and buildings, eliminating AC-DC conversion losses.** These systems are designed to integrate seamlessly into DC-powered infrastructures, enhancing energy savings and reducing operational costs.

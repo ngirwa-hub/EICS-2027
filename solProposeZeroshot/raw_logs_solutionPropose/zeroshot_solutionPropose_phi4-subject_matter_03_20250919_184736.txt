@@ -1,0 +1,14 @@
+1. **DC Microgrid Controller:**
+   A centralized control system that manages and optimizes the operation of DC microgrids in ports, industries, data centers, and buildings, ensuring efficient energy distribution and reliability.
+
+2. **DC-Powered Electric Vehicle Charging Infrastructure:**
+   Dedicated infrastructure for charging electric vehicles directly with DC power at ports and industrial sites, reducing conversion losses and accelerating adoption rates by providing faster charging times.
+
+3. **DC-Integrated Smart Grid Interface:**
+   An interface that facilitates seamless integration of renewable energy sources into existing DC grids in buildings and data centers, enhancing energy management and sustainability through real-time monitoring and control.
+
+4. **Modular DC Power Distribution Units (PDU):**
+   Scalable units for flexible power distribution within industries and data centers, allowing easy expansion and adaptation to varying load requirements while maintaining high efficiency.
+
+5. **DC-Powered HVAC Systems:**
+   Heating, ventilation, and air conditioning systems designed to operate directly on DC power in buildings, improving energy efficiency by eliminating AC-DC conversion losses and reducing overall operational costs.

@@ -1,0 +1,9 @@
+1. Solar PV on Ports: Harnessing solar power for electricity generation at ports, enabling sustainable operations and reducing reliance on fossil fuels.
+
+2. Smart Grid Control in Industry: Implementing advanced grid control systems to optimize energy consumption, reduce waste, and enhance production efficiency in industrial settings.
+
+3. DC Powered Data Centers: Utilizing direct current for power distribution in data centers, reducing energy losses and improving overall efficiency.
+
+4. Energy Efficient Lighting in Buildings: Implementing DC-powered LED lighting systems to reduce energy consumption and maintenance costs in buildings.
+
+5. EV Charging Infrastructure at Ports: Developing direct current charging infrastructure for electric vehicles at ports, promoting sustainable transportation and reducing emissions.

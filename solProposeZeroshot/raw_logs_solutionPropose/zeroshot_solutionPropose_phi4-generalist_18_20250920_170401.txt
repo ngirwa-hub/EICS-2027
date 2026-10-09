@@ -1,0 +1,9 @@
+1. **DC Grid Management System**: A platform for optimizing the distribution and management of DC power across various sectors like ports and industries, enhancing efficiency and reliability.
+
+2. **Integrated DC Monitoring Tool**: This solution provides real-time monitoring and diagnostics of DC systems in buildings and data centers to ensure optimal performance and quick fault detection.
+
+3. **Modular DC Power Stations**: Tailored for industrial applications, these portable stations can supply consistent DC power, facilitating the integration of renewable energy sources on-site.
+
+4. **DC-based HVAC Systems**: Specifically designed for buildings, these systems aim to improve energy efficiency by using direct current in heating, ventilation, and air conditioning processes.
+
+5. **High-Capacity DC Charging Infrastructure**: Designed primarily for ports, this infrastructure supports rapid charging of electric vehicles using high-capacity DC power, accelerating the transition to sustainable transport solutions.

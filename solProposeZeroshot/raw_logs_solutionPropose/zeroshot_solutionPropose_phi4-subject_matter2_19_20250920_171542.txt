@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A centralized control system for managing DC microgrids within ports and industrial facilities, optimizing the distribution of power from renewable sources and ensuring efficient energy use.
+
+2. **DC-AC Hybrid Inverter Technology**: Advanced inverters that can operate in both AC and DC modes to facilitate seamless integration of renewable energy sources into existing infrastructure in data centers and buildings.
+
+3. **Industrial Process DC Drives**: Specialized drives for industrial machinery that utilize DC power, reducing conversion losses and improving energy efficiency for processes such as manufacturing or material handling.
+
+4. **DC-Powered HVAC Systems**: Heating, ventilation, and air conditioning systems designed to operate on DC power, providing enhanced efficiency and integration with renewable energy sources in buildings.
+
+5. **Modular DC Energy Storage Solutions**: Flexible battery storage units that can be scaled according to the needs of ports, data centers, or industrial applications, allowing for efficient management of energy demand and supply.

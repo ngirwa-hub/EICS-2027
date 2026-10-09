@@ -1,0 +1,9 @@
+1. **DC Microgrid Infrastructure**: A framework that supports the integration and management of multiple DC sources and loads within ports, industries, data centers, and buildings, enhancing energy efficiency and resilience.
+
+2. **DC Renewable Energy Integration System**: Solutions designed for seamless incorporation of renewable energy sources like solar panels and wind turbines directly into DC networks, minimizing conversion losses and boosting overall system efficiency.
+
+3. **DC Load Balancing Technology**: Systems that optimize the distribution of electrical loads across a DC network to prevent overloads and ensure stable operation in diverse environments such as ports or industrial settings.
+
+4. **DC Energy Management Software**: Advanced software platforms for monitoring, controlling, and optimizing energy usage in DC systems across different sectors, ensuring efficient resource allocation and operational reliability.
+
+5. **Hybrid AC-DC Power Systems**: Innovative systems that combine both AC and DC components to leverage the benefits of each, particularly useful in applications where legacy infrastructure must be integrated with new DC technologies.

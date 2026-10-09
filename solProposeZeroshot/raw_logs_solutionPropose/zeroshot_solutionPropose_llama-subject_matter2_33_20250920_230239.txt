@@ -1,0 +1,5 @@
+1. Solar Hybrid Inverter: An inverter that combines a solar panel system with a battery storage for energy generation and consumption, providing efficient power supply and reducing dependence on traditional grid systems.
+2. Floating Solar Power Plant: A large-scale solar power plant installed on floating structures above water bodies to maximize the use of available space and capture sunlight more efficiently.
+3. Energy Efficient Lighting System: An advanced LED lighting system that reduces energy consumption and costs, while improving illumination quality in buildings.
+4. Smart HVAC Systems: Intelligent heating, ventilation, and air conditioning systems that optimize energy usage by adjusting temperature and humidity levels based on occupancy and weather conditions.
+5. EV Charging Infrastructure: A comprehensive charging network for electric vehicles, providing seamless charging experiences to support the growth of sustainable transportation in ports, industry, data centers, and buildings.

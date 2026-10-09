@@ -1,0 +1,9 @@
+1. **DC Microgrid Control System**: A centralized control system that manages the distribution and integration of renewable energy sources within a DC microgrid in ports and industrial settings, optimizing efficiency and reliability.
+
+2. **DC Power Quality Monitoring**: A device or system designed to continuously monitor voltage, current, and power quality parameters in DC grids for data centers and buildings, ensuring stable operation and early fault detection.
+
+3. **High-Voltage Direct Current (HVDC) Substation**: An infrastructure component that facilitates the integration of large-scale renewable energy sources into existing grids by enabling efficient long-distance transmission of electricity as direct current.
+
+4. **DC Power Interface Module for Electric Vehicles**: A module that allows electric vehicles to directly charge from DC power sources in ports and buildings, reducing conversion losses and enhancing charging efficiency.
+
+5. **DC-based Smart Lighting System**: An intelligent lighting solution for industrial facilities and buildings that operates on DC power, improving energy efficiency by integrating with renewable energy sources and enabling adaptive control based on occupancy or daylight conditions.

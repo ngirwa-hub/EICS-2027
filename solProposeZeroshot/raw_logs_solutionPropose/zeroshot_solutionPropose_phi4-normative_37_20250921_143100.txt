@@ -1,0 +1,14 @@
+1. **DC Microgrid Management System:**
+   An integrated platform for optimizing the distribution and use of DC power within microgrids, enhancing efficiency and resilience in ports, industries, data centers, and buildings.
+
+2. **Hybrid AC-DC Inverter Solutions:**
+   Advanced inverters that seamlessly integrate both AC and DC networks, facilitating smooth transitions between systems while maximizing energy savings and operational flexibility across multiple sectors.
+
+3. **DC-Powered Electrification of Port Equipment:**
+   Implementation of electrically powered cranes, forklifts, and other port machinery using DC power to reduce emissions and improve efficiency in maritime logistics hubs.
+
+4. **Industrial Process Heat Integration:**
+   Utilization of DC systems to directly drive industrial heat processes, reducing the need for AC-DC conversion and enhancing energy utilization in manufacturing settings.
+
+5. **Energy Monitoring and Optimization Software for DC Networks:**
+   A software tool designed to monitor real-time energy consumption and optimize load management specifically within DC-powered infrastructures like data centers and smart buildings.

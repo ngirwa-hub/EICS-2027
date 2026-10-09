@@ -1,0 +1,5 @@
+1. DC-Based Power Distribution Units (PDUs): These intelligent PDUs manage and distribute DC power within facilities, offering granular control, monitoring, and power quality improvements compared to traditional AC PDUs.
+2. High-Efficiency DC Lighting Systems: Utilizing DC LEDs directly powered from a DC grid eliminates AC-DC conversion losses, improving overall energy efficiency in buildings and industrial settings.
+3. DC-Native Motor Drives: Replacing AC motor drives with DC-native motors and drives, particularly for industrial applications, reduces conversion losses and improves system efficiency, especially for variable-speed applications.
+4. DC-Coupled Solar Inverters with Battery Integration: Combining DC solar inverters directly coupled with DC battery storage allows for efficient energy storage and management within ports and data centers, minimizing AC conversion steps.
+5. Dynamic Voltage Sag Mitigation via DC Microgrids: DC microgrids can be designed with energy storage and fast-acting DC-DC converters to rapidly compensate for voltage sags, crucial for sensitive equipment in data centers and industrial processes.

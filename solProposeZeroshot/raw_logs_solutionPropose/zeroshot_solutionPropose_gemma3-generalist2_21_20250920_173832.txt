@@ -1,0 +1,7 @@
+Here are some additional DC solutions that could be valuable for the Shift2DC project’s target sectors (ports, industry, data centers, buildings), beyond the initially presented list:
+
+1. DC Power Distribution Units (PDUs): These are similar to AC PDUs but designed for DC systems, managing power distribution, monitoring, and often incorporating surge protection and remote control capabilities.
+2. DC-Based Lighting Systems: Direct DC lighting eliminates AC-DC conversion for lighting loads, increasing efficiency and simplifying integration with DC microgrids, particularly in buildings.
+3. DC-Powered Electric Vehicle (EV) Charging Infrastructure: DC fast charging stations can be directly integrated into DC microgrids, reducing AC conversion losses and improving grid stability in ports and industry.
+4. DC-Native Motor Drives: These drives directly power DC motors, avoiding AC-DC-AC conversion steps commonly used in industrial applications, resulting in improved efficiency and reduced size.
+5. DC-Based Thermal Management Systems: Utilizing DC power for cooling and heating systems in data centers and buildings enhances efficiency and enables integration with renewable energy sources.

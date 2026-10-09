@@ -1,0 +1,9 @@
+1. **DC Power Management System**: An integrated platform for monitoring and optimizing DC power distribution within ports, industries, data centers, and buildings, ensuring energy efficiency and reducing losses.
+
+2. **Hybrid AC-DC Grid Architecture**: A flexible grid system that integrates both AC and DC sources seamlessly, allowing for efficient power flow management in ports and industrial settings to support diverse equipment needs.
+
+3. **DC Microgrid Control System**: A centralized control solution for managing multiple DC microgrids within data centers or building complexes, enhancing resilience and facilitating demand response strategies.
+
+4. **Renewable Energy Integration Module**: A dedicated interface for connecting renewable energy sources like solar panels directly into the DC grid in buildings and industrial parks, maximizing clean energy use.
+
+5. **DC Power Quality Enhancement Devices**: Specialized equipment designed to maintain stable voltage and current levels in DC networks, crucial for sensitive applications in data centers and industrial processes.

@@ -1,0 +1,9 @@
+1. **DC Power Management Systems**: Integrated systems that optimize the distribution and use of DC power in ports, industries, data centers, and buildings, improving energy efficiency by reducing conversion losses.
+
+2. **DC Microgrid Controllers for Ports**: Advanced controllers designed specifically for managing DC microgrids in port environments, facilitating efficient energy distribution among various maritime operations and infrastructure.
+
+3. **Industrial DC Process Integration**: Solutions tailored to integrate DC power directly into industrial processes, reducing the need for AC-DC conversions, thereby saving energy and improving operational efficiency.
+
+4. **Data Center DC Power Distribution Units (PDUs)**: Specialized PDUs that distribute DC power throughout data centers more efficiently than traditional AC systems, optimizing performance and lowering cooling requirements due to reduced conversion heat.
+
+5. **Building Integrated PV with DC Systems**: Architectural solutions that incorporate photovoltaic panels directly into building structures while using DC systems for immediate use or storage, reducing energy loss from AC-DC conversions and enhancing self-sustainability.

@@ -1,0 +1,5 @@
+1. DC-Based Power Delivery for Automated Guided Vehicles (AGVs): A dedicated DC power rail system for powering AGVs within ports and industrial facilities, reducing AC-DC conversion losses and improving operational efficiency.
+2. Modular DC Power Distribution Units (PDU): Standardized, modular DC PDUs for buildings and data centers, offering scalable power distribution and simplifying maintenance through hot-swappable components.
+3. DC-Native UPS Systems: Uninterruptible Power Supplies designed to operate natively in DC, eliminating AC conversion and providing a more efficient and reliable power backup for data centers and critical industrial processes.
+4. DC Fast Charging Infrastructure for Electric Maritime Vessels: High-power DC charging stations specifically designed for the increasing electrification of port operations, facilitating rapid charging of electric tugs, ferries, and other vessels.
+5. DC-Coupled Microgrids with Virtual Power Plants (VPP): Enables aggregation of distributed DC renewable generation (solar PV, wind) and storage to provide grid services and optimize energy usage across buildings and industrial sites.

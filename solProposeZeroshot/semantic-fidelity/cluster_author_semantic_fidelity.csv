@@ -1,0 +1,13 @@
+solution_index,solution_type,source_clusters,solution_name,score_target,precision,recall,f1
+1,single_solution,0,electric vehicles charging stations,key_phrases,0.937896,0.893755,0.915294
+1,single_solution,0,electric vehicles charging stations,objective_description,0.921967,0.890601,0.906013
+2,combined_solution,"1,2,4",Intelligent Building Energy Management System (IBEMS),key_phrases,0.879803,0.803079,0.839692
+2,combined_solution,"1,2,4",Intelligent Building Energy Management System (IBEMS),objective_description,0.878606,0.833515,0.855466
+3,combined_solution,"5,7",solar PV tracking and power systems,key_phrases,0.90546,0.808756,0.85438
+3,combined_solution,"5,7",solar PV tracking and power systems,objective_description,0.873944,0.831859,0.852383
+4,single_solution,6,battery energy storage systems,key_phrases,0.932838,0.891437,0.911667
+4,single_solution,6,battery energy storage systems,objective_description,0.905328,0.858908,0.881507
+5,single_solution,3,LED lighting systems,key_phrases,0.91151,0.855767,0.88276
+5,single_solution,3,LED lighting systems,objective_description,0.891737,0.842323,0.866326
+ALL,aggregate,ALL,ALL,key_phrases,0.913501,0.850559,0.880759
+ALL,aggregate,ALL,ALL,objective_description,0.894316,0.851441,0.872339

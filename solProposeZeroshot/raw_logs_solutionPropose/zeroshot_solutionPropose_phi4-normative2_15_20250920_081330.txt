@@ -1,0 +1,9 @@
+1. **DC Microgrid Infrastructure**: An integrated network that connects various energy sources and loads within ports, industries, data centers, and buildings using DC power directly, reducing conversion losses and enhancing efficiency.
+
+2. **DC-Powered LED Lighting Systems**: Implementation of lighting systems powered by DC electricity to reduce conversion losses typical with AC lighting systems, improving overall energy efficiency in building applications.
+
+3. **DC-Optimized HVAC Systems**: Heating, ventilation, and air conditioning (HVAC) solutions designed to operate on DC power, minimizing energy loss from AC-to-DC conversions and providing more efficient climate control in industrial and commercial settings.
+
+4. **Hybrid Renewable Energy System for Ports**: A combination of solar panels, wind turbines, and battery storage systems that supply DC power directly to port operations, reducing reliance on traditional AC grids and lowering emissions.
+
+5. **DC-Based Smart Metering Solutions**: Advanced metering infrastructure tailored for DC networks to accurately measure consumption in DC-powered sectors like data centers, enabling better energy management and optimization strategies.

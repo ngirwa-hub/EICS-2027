@@ -1,0 +1,9 @@
+1. Smart Grids for Ports: A system that integrates intelligent energy management and control systems in ports to optimize power usage and reduce energy waste.
+
+2. Energy-Efficient DC Lighting: An LED lighting system that utilizes direct current for better energy efficiency, higher color rendering index, and longer lifespan.
+
+3. DC Grid Integration for Industrial Processes: A system that integrates DC grids with industrial processes to reduce power losses, improve process efficiency, and enable new applications such as electric heating and cooling.
+
+4. Efficient DC Cooling Systems: An innovative cooling system that utilizes direct current to reduce energy consumption and increase efficiency in data centers and buildings.
+
+5. DC Fault Current Limiters: A device that protects against overcurrent events by limiting the fault currents, ensuring safety and reliability in DC systems.

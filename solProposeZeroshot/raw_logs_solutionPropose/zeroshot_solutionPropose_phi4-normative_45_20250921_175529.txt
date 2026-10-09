@@ -1,0 +1,9 @@
+1. **DC Microgrid Architecture for Ports:** A modular microgrid system designed specifically for port operations that utilizes direct current (DC) distribution, enhancing energy efficiency by minimizing conversion losses and supporting renewable integration directly on-site.
+
+2. **Industry-Specific DC Power Distribution Systems:** Customized DC power networks tailored to industrial processes which optimize energy usage and reduce waste through seamless direct current distribution, thereby improving process efficiency and sustainability.
+
+3. **Data Center Cooling with Integrated DC-Driven Chillers:** An innovative cooling system for data centers that employs DC-driven chillers, reducing the need for AC conversion and significantly lowering energy consumption associated with climate control.
+
+4. **DC-Powered Smart Building Management Systems:** Advanced management systems for buildings that operate on direct current to streamline energy usage, improve real-time monitoring, and enhance automation capabilities across various building services like lighting and HVAC.
+
+5. **Hybrid DC-Energy Storage Solutions:** Integrated storage solutions that pair renewable energy sources with battery systems operating directly in DC mode, enabling enhanced efficiency by avoiding AC conversion losses and providing more resilient power supply for sectors such as ports and industry.

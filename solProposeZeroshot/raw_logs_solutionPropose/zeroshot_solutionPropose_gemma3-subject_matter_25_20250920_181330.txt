@@ -1,0 +1,5 @@
+1. DC Power Distribution Units (PDUs): Intelligent DC PDUs manage power distribution within DC microgrids, offering load balancing, remote monitoring, and fault isolation capabilities.
+2. DC-Native Energy Management Systems (EMS): These EMS platforms are specifically designed for DC systems, optimizing energy consumption, integrating renewable sources, and providing granular control over DC loads.
+3. DC-Based Microgrid Controller: A centralized controller to manage the operation of DC microgrids, coordinating energy generation, storage, and load demand while ensuring stability and resilience.
+4. DC-Optimized Lighting Systems: LED lighting systems directly powered by DC voltage, eliminating AC-DC conversion losses and improving overall efficiency in buildings and industrial facilities.
+5. Dynamic Voltage Sag Mitigation via DC Storage: A DC-coupled battery storage system designed to rapidly compensate for voltage sags in DC grids, improving the reliability of sensitive equipment in data centers and industrial processes.

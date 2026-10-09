@@ -1,0 +1,9 @@
+1. **DC Charging Infrastructure for Ports**: A comprehensive network of charging stations specifically designed for maritime vessels and port vehicles that operate on direct current power, reducing reliance on fossil fuels and improving air quality at ports.
+
+2. **Industrial Process Integration System**: An advanced system that integrates DC power directly into industrial processes to minimize energy conversion losses and optimize production efficiency in sectors like manufacturing and heavy industry.
+
+3. **Data Center Microgrid with DC Power**: A localized microgrid solution for data centers utilizing DC power to enhance energy efficiency, reduce operational costs, and improve reliability by minimizing AC/DC conversions and leveraging renewable sources directly.
+
+4. **Building-Level DC Integration Framework**: An architectural framework that facilitates the seamless integration of DC systems in buildings, promoting efficient lighting, HVAC systems, and appliances operating on DC to lower energy consumption and simplify grid interactions.
+
+5. **Smart Grid Interface for DC Networks**: A technology platform enabling communication between existing AC grids and emerging DC networks, ensuring smooth operation, scalability, and optimization of mixed-voltage environments in urban infrastructure.

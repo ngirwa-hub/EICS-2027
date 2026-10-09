@@ -1,0 +1,14 @@
+Solution 1: DC Microgrid Control System for Ports
+A smart control system that optimizes the operation of DC microgrids within ports, managing distribution and demand to ensure maximum efficiency and reliability.
+
+Solution 2: DC Grid-tied Energy Storage for Industry
+An energy storage solution that provides backup power for industrial applications during grid outages, using DC systems to minimize conversion losses and improve system resilience.
+
+Solution 3: Modular DC Power Distribution Units for Data Centers
+Pre-fabricated DC power distribution units designed for scalable, efficient, and flexible power management within data centers, reducing energy consumption and costs.
+
+Solution 4: Integrated DC Lighting Solutions for Buildings
+A comprehensive lighting system that utilizes LED lights and DC infrastructure to reduce energy losses in buildings, improving overall energy efficiency and sustainability.
+
+Solution 5: DC Vehicle Charging Stations for Building Infrastructure
+DC fast-charging stations integrated into building infrastructure, enabling rapid charging of electric vehicles (EVs) with minimal conversion losses and reduced charging times.

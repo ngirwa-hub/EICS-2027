@@ -1,0 +1,5 @@
+Smart Grid Cable Monitoring: Real-time monitoring and diagnostics for DC cables in the port, industrial, data center, and building sectors to ensure safe, reliable, and efficient operation of the DC grid.
+DC Microgrid Control System: A system that enables dynamic control and management of microgrids in ports, industries, data centers, and buildings, enhancing energy efficiency, reliability, and resilience.
+DC Fault Current Limiter: A device that limits fault currents in DC systems, protecting against overcurrents and minimizing damage or downtime.
+DC Fast Charging System: An efficient and rapid charging system for electric vehicles (EVs) in the port, industrial, data center, and building sectors to support growing EV adoption.
+DC Energy Management System: A comprehensive energy management system that optimizes energy consumption and efficiency in DC grids across ports, industries, data centers, and buildings.

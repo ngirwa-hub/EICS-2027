@@ -1,0 +1,14 @@
+1. Solar PV Inverter: An innovative inverter technology that optimizes solar photovoltaic (PV) systems for efficient power conversion and storage integration with DC grids.
+Explanation: This solution addresses the need for efficient power conversion and storage integration of renewable energy sources, particularly solar PV systems, to enhance the adoption of DC technologies in port and industrial applications.
+
+2. Grid-Connected Battery Storage: A system that integrates battery storage with DC grids, allowing for flexible energy dispatch and efficient use of renewable energy resources.
+Explanation: This solution addresses the need to balance demand and supply of energy resources while minimizing grid congestion and reducing greenhouse gas emissions in port, industrial, data center, and building applications.
+
+3. DC Fault Current Limiter: A device that limits fault currents in high-voltage DC transmission systems to prevent damage or equipment failure.
+Explanation: This solution addresses the technical challenge of ensuring safe and reliable operation of high-voltage DC transmission systems, which are critical for efficient power delivery to ports, industries, data centers, and buildings.
+
+4. Hybrid Energy Storage System: A system that integrates lithium-ion batteries with flow batteries or other energy storage technologies to optimize energy storage capacity and efficiency in DC grids.
+Explanation: This solution addresses the need for optimized energy storage solutions that can provide flexible power delivery and resilient backup for critical applications, such as data centers and buildings, which require continuous power supply.
+
+5. High-Power DC Converter: A device that efficiently converts high voltage levels in renewable energy sources or existing AC grids to low voltage levels suitable for use in DC microgrids or other DC applications.
+Explanation: This solution addresses the technical challenge of integrating variable renewable energy sources and existing AC power systems with DC technologies, which are essential for interoperability and efficient energy delivery to ports, industries, data centers, and buildings.

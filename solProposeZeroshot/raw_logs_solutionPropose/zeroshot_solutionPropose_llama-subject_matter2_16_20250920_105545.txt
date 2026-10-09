@@ -1,0 +1,19 @@
+1. Efficient Power Conversion: A technology that efficiently converts AC to DC power for use in port facilities and industrial applications.
+   - Short title: Efficient Power Conversion
+   - Brief explanation: The technology uses high-efficiency converters to reduce energy losses during the conversion process, resulting in lower operating costs and higher overall efficiency.
+
+2. Modular DC Grid: A flexible and scalable DC grid system that allows for easy integration of renewable energy sources at ports and industrial facilities.
+   - Short title: Modular DC Grid
+   - Brief explanation: The system is designed to be modular and scalable, allowing it to adapt to the changing demands of a facility's power needs. This can help reduce costs by avoiding over-provisioning of energy storage systems.
+
+3. Grid-Connected Solar Systems: A solution for data centers that uses grid-connected solar panels to generate clean energy and reduce reliance on traditional power sources.
+   - Short title: Grid-Connected Solar Systems
+   - Brief explanation: The solution involves the installation of grid-connected solar systems at data centers, which can provide a significant portion of the facility's energy needs while reducing greenhouse gas emissions and costs associated with traditional power sources.
+
+4. DC Lighting for Buildings: A solution that utilizes direct current lighting technologies to reduce energy consumption and improve efficiency in buildings.
+   - Short title: DC Lighting for Buildings
+   - Brief explanation: The technology replaces traditional AC lighting systems with more efficient DC lighting solutions, resulting in lower energy consumption and reduced costs.
+
+5. Hybrid Energy Storage System: A solution that combines battery storage with flywheel energy storage to provide backup power for critical loads in buildings and data centers.
+   - Short title: Hybrid Energy Storage System
+   - Brief explanation: The system uses a combination of lithium-ion batteries and flywheels to provide backup power for critical loads, such as data centers or hospitals. This solution offers improved efficiency and reliability compared to traditional battery storage systems alone.

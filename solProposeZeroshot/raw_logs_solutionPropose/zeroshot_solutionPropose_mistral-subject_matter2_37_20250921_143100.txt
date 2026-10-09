@@ -1,0 +1,9 @@
+Solution 1: DC Microgrid Controller: A system that manages the distribution and consumption of power within a DC microgrid, optimizing energy use and ensuring stable operation in ports, industry, data centers, and buildings.
+
+Solution 2: DC Grid Tie Inverter (GTI): Enables connection of renewable energy sources (e.g., solar or wind) to the existing AC grid by converting DC power into AC for integration in ports, industry, and buildings.
+
+Solution 3: DC-DC Bus Tie Inverter: Facilitates power sharing between multiple DC microgrids or distributed energy resources within a port, industrial facility, data center, or building.
+
+Solution 4: DC Power Router: Distributes DC power to various loads in a flexible and efficient manner, enhancing system resiliency and reducing downtime in ports, industry, and buildings.
+
+Solution 5: DC Battery Energy Storage System (BESS): A large-scale energy storage solution that stores excess renewable energy as DC power for later use in data centers and industrial applications. This solution can also provide grid services such as frequency regulation and voltage support.

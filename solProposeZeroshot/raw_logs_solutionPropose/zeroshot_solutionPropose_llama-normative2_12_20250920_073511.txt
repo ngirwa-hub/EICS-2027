@@ -1,0 +1,5 @@
+1. Solar Photovoltaic System for Ports: A system that utilizes solar panels to generate electricity for port operations, reducing reliance on traditional power sources.
+2. Industry-specific Automation Control System: An integrated control system designed specifically for industry applications, streamlining processes and increasing efficiency.
+3. DC Power Supply for Data Centers: A direct current power supply solution that reduces energy losses during transmission and increases power density in data centers.
+4. Building Management System (BMS): A building automation system that controls lighting, HVAC, and other systems to optimize energy use in buildings.
+5. DC Fast Charging Stations: A network of fast-charging stations for electric vehicles, reducing charging time and increasing the range of electric transportation.

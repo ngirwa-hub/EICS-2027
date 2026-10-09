@@ -1,0 +1,9 @@
+1. Floating Solar Panels for Ports: A system that utilizes floating solar panels on bodies of water near ports to generate renewable energy while minimizing land usage and reducing the carbon footprint of port operations.
+
+2. DC-Based Microgrids for Industry: Implementation of a DC-based microgrid system within industrial facilities, allowing for efficient local power generation and distribution, reducing reliance on traditional grid systems and enhancing energy resiliency.
+
+3. Energy-Efficient Data Centers using DC Systems: Utilizing DC power supply in data centers for servers, reducing the need for AC/DC conversion and minimizing energy losses, which can improve overall efficiency and reduce costs.
+
+4. DC Lighting for Buildings: Replacing traditional AC lighting systems with efficient DC lighting systems in buildings, leading to reduced energy consumption and lower operating costs.
+
+5. Building Integrated Photovoltaics (BIPV) using DC Systems: Implementing BIPV solutions that utilize DC power systems to generate renewable energy from building facades or rooftops, while also providing shading and reducing the need for air conditioning.

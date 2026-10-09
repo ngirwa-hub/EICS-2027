@@ -1,0 +1,14 @@
+1. Solar PV Inverter: A device that converts direct current from solar panels to alternating current for use in buildings and industry.
+Explanation: This solution is important for the integration of renewable energy sources into existing DC power systems, allowing for increased efficiency and cost savings.
+
+2. Wind Turbine Generator: A system that generates electricity directly from wind turbines and feeds it into DC grids.
+Explanation: This solution is essential for harnessing the renewable energy potential of wind power, which can complement solar PV systems in providing clean energy to buildings and industry.
+
+3. Battery Energy Storage System: A system that stores excess energy from renewable sources such as solar panels and wind turbines, then releases it during periods of low output.
+Explanation: This solution is important for managing the variability of renewable energy sources and smoothing out power supply fluctuations in DC grids.
+
+4. DC Lighting System: A lighting system that uses direct current instead of AC, offering improved energy efficiency and reduced maintenance requirements.
+Explanation: This solution is important for reducing energy consumption and costs in buildings, which can contribute to a more sustainable and cost-effective operation.
+
+5. DC Motors and Drives: A system that uses direct current to power motors and other mechanical devices, offering increased efficiency and control over power output. 
+Explanation: This solution is important for optimizing the use of mechanical systems in buildings and industry, reducing energy consumption and improving operational performance.

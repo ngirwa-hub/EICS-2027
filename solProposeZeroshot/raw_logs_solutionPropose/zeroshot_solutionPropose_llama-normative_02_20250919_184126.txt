@@ -1,0 +1,14 @@
+1. DC HVDC Circuit Breaker System: A DC circuit breaker system designed specifically for high voltage direct current (HVDC) applications in ports, industry, data centers and buildings.
+Explanation: The traditional AC circuit breakers may not be suitable for DC systems due to the unique characteristics of DC power. An HVDC circuit breaker system is required to provide reliable protection for the DC systems in various sectors.
+
+2. DC-DC Converter Regulator: A power regulation device that enables efficient energy conversion between high voltage direct current (HVDC) and low voltage direct current (LVDC). It can be used in ports, industry, data centers and buildings to optimize energy usage and reduce wastage.
+Explanation: DC-DC converters are essential for optimizing the use of renewable energy sources, which often operate at different voltage levels. The regulator ensures the proper functioning of the connected devices and reduces energy losses during conversion.
+
+3. Modular DC Microgrid System: A flexible, modular solution that integrates multiple DC energy sources (solar, wind, etc.) into a microgrid system in ports, industry, data centers and buildings. It allows for efficient energy management and load balancing.
+Explanation: The increasing penetration of renewable energy sources demands efficient energy management systems to integrate them with the existing grid infrastructure. Modular DC microgrids provide a flexible solution that can adapt to changing energy needs and optimize the use of various DC energy sources.
+
+4. Integrated DC Energy Management System: A comprehensive software system that integrates all the DC energy sources, storage systems, and demand management in ports, industry, data centers and buildings.
+Explanation: As the adoption of DC technologies increases, an integrated energy management system becomes crucial to optimize energy usage, reduce wastage and ensure efficient operation. It provides real-time monitoring, analysis and control over various DC systems and ensures seamless integration with other systems.
+
+5. Dynamic Static Protection System: A system that combines the features of both static and dynamic protection in DC power systems in ports, industry, data centers and buildings.
+Explanation: Traditional DC systems have limitations in providing effective protection against overvoltages, undercurrents and other disturbances. The Dynamic Static Protection System provides a comprehensive solution that adapts to changing energy needs and ensures reliable operation of the connected devices.

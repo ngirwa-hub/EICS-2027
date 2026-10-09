@@ -1,0 +1,14 @@
+1. **DC Microgrid Management System:**
+   A centralized control system that optimizes the distribution and management of energy within a DC microgrid, specifically tailored for ports to handle varied power demands efficiently.
+
+2. **DC Energy Storage Integration:**
+   A solution that integrates battery storage directly with DC systems in industrial settings, eliminating AC conversion losses and improving operational efficiency and grid stability.
+
+3. **Energy-efficient HVAC System for Data Centers:**
+   A direct current-compatible heating, ventilation, and air conditioning (HVAC) system designed to reduce energy consumption in data centers by leveraging DC power.
+
+4. **DC-Powered Smart Lighting in Buildings:**
+   Advanced lighting systems that operate on DC power, offering higher efficiency and integration with smart building management systems for optimal energy use and sustainability.
+
+5. **DC-based Electric Vehicle Charging Infrastructure:**
+   A comprehensive infrastructure solution providing high-efficiency DC charging stations tailored for ports, industry sites, data centers, and urban buildings to support the growing number of electric vehicles.

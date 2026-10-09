@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A platform that optimizes and controls the energy flow within DC microgrids in ports and industries, ensuring efficient operation and integration with renewable sources.
+
+2. **DC Renewable Energy Interface Module**: A device designed for seamless connection of solar panels and wind turbines to existing DC infrastructure in data centers, enhancing direct use of generated power without AC conversion losses.
+
+3. **Portable DC Power Units**: Compact, deployable energy units providing reliable DC power supply for buildings during outages or maintenance periods, particularly useful for critical systems like hospitals or emergency services.
+
+4. **DC Energy Storage Expansion Kit**: An upgrade kit that increases the capacity and efficiency of existing DC storage solutions in industrial settings, enabling longer operation times and better load management with renewable inputs.
+
+5. **DC Power Quality Monitoring System**: A monitoring tool designed to ensure consistent power quality in data centers by identifying and addressing voltage fluctuations or imbalances in real-time within a DC grid setup.

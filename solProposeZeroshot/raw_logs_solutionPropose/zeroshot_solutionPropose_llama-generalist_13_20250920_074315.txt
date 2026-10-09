@@ -1,0 +1,14 @@
+1. Solar Power for Ports: Harnessing solar energy to power ports and reduce dependence on fossil fuels.
+    - Brief explanation: Install solar panels at port facilities, such as warehouses, cranes, and terminals, to generate clean energy that can be used to power operations.
+
+2. Industrial DC Microgrids: Developing localized microgrids within industrial zones to support manufacturing processes.
+    - Brief explanation: Establishing DC-based microgrids for individual industrial sectors, allowing them to operate independently of the main grid and reducing energy costs.
+
+3. Data Center Efficiency Upgrade: Implementing DC systems to reduce energy waste in data centers.
+    - Brief explanation: Replacing traditional AC power supplies with DC-based solutions in data centers, which can offer increased efficiency and reduced energy consumption.
+
+4. Building Energy Management System: Integrating DC technology for efficient building control.
+    - Brief explanation: Implementing a DC-based energy management system to optimize energy use in buildings by managing lighting, HVAC, and other systems in real-time.
+
+5. Hybrid Renewable Power Systems: Combining wind, solar, and battery storage with DC power for enhanced efficiency.
+    - Brief explanation: Developing hybrid renewable power systems that combine wind turbines, solar panels, and energy storage in a DC network to improve overall system efficiency.

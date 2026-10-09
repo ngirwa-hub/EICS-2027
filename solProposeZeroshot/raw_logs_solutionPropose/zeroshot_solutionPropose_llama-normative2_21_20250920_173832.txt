@@ -1,0 +1,15 @@
+1. Ports: Improving Energy Efficiency with DC Power Supplies: Using direct current power supplies in ports could reduce energy losses during transmission and increase the efficiency of energy supply chains.
+- Short title: DC Power Supplies
+- Brief explanation: Replace AC-DC converters with direct current solutions to reduce energy waste and improve energy efficiency in the port industry.
+
+2. Industry: Enhancing Efficiency and Control with DC Microgrids: Utilizing a direct current microgrid system can optimize energy management and control, reducing operational costs and improving system efficiency.
+- Short title: DC Microgrids
+- Brief explanation: Implementing a direct current microgrid solution in industries can reduce energy losses during transmission and increase energy efficiency, resulting in cost savings and improved performance.
+
+3. Data centers: Increasing Reliability with Static Protection System: A static protection system utilizes direct current technology to minimize electrical fluctuations and protect against power surges, ensuring uninterrupted data center operations.
+- Short title: DC Static Protection
+- Brief explanation: Replace traditional AC-DC converters with a direct current static protection system to reduce the risk of electrical failures and improve the reliability of data centers.
+
+4. Buildings: Intelligent Lighting System with DC Power Supplies: An intelligent lighting system that utilizes direct current power supplies can optimize energy usage, increase safety, and reduce maintenance costs for buildings.
+- Short title: DC Intelligent Lighting System
+- Brief explanation: Implementing a direct current intelligent lighting system in buildings can reduce energy waste and improve the efficiency of energy usage, while also increasing safety through low voltage systems.

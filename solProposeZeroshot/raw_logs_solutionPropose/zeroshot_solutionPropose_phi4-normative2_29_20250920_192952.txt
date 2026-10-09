@@ -1,0 +1,9 @@
+1. **DC Microgrid Control System**: A centralized control system designed for managing and optimizing the operation of DC microgrids in sectors such as ports, industry, data centers, and buildings. This includes real-time monitoring, load balancing, and integration with renewable energy sources.
+
+2. **DC Hybrid Power Systems**: Solutions that combine multiple renewable energy sources (e.g., solar, wind) directly into a DC grid, enhancing efficiency by reducing conversion losses and improving reliability in supplying power to critical infrastructure like ports and data centers.
+
+3. **Portable DC Battery Chargers**: High-efficiency charging stations for portable DC battery systems used in industrial equipment and electric vehicles within port facilities. This supports the transition to electrified machinery and logistics operations while minimizing downtime.
+
+4. **DC Lighting Systems**: Specialized lighting solutions tailored for energy efficiency using direct current, suitable for buildings and data centers where consistent power quality is essential. These systems can reduce overall energy consumption by leveraging DC's inherent advantages in lighting applications.
+
+5. **Integrated DC Power Management Software**: Advanced software tools to streamline the management of DC power networks across different sectors such as industry and buildings, offering predictive analytics and optimization algorithms to enhance energy efficiency and operational performance.

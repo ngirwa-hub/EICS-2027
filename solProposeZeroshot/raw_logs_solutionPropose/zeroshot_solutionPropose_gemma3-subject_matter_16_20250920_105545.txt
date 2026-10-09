@@ -1,0 +1,5 @@
+1. DC Power Distribution Units (PDUs): Intelligent DC PDUs manage power distribution within DC microgrids, offering load balancing, remote monitoring, and fault isolation capabilities.
+2. Dynamic Voltage Sag Compensation (DVSC): DVSC devices maintain stable DC voltage levels during load fluctuations or voltage sags, critical for sensitive equipment in data centers and industrial processes.
+3. DC-Based Microgrid Controller: A centralized controller optimizes energy flow, manages distributed generation, and ensures stability within a DC microgrid, especially valuable in port and industrial settings.
+4. DC Harmonic Filter Banks: These filters mitigate harmonic distortion in DC systems, improving power quality and reducing equipment stress in industrial and data center applications.
+5. DC-Native Energy Management System (EMS): An EMS specifically designed for DC systems enables advanced energy optimization strategies, predictive maintenance, and demand response capabilities across buildings and ports.

@@ -1,0 +1,5 @@
+1. DC Power Distribution Units (PDUs): Intelligent DC PDUs manage power delivery, monitor voltage and current, and provide remote control capabilities within DC systems, enhancing efficiency and reliability.
+2. DC-Based Energy Management Systems (EMS): A DC EMS optimizes energy consumption across various loads by dynamically allocating power and minimizing losses, especially beneficial in data centers and industrial facilities.
+3. Modular DC Power Architectures: Utilizing standardized, scalable DC power modules allows for flexible system design, easy expansion, and redundancy, suitable for buildings and industrial applications.
+4. DC Harmonic Mitigation Filters: Specialized filters to suppress harmonic distortion in DC circuits, essential for maintaining power quality and preventing equipment damage in industrial and port environments.
+5. Wireless DC Power Transfer Systems: Enables contactless power delivery to devices and equipment, particularly useful in ports for automated guided vehicles (AGVs) and in buildings for IoT devices.

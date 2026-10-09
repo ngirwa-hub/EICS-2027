@@ -1,0 +1,5 @@
+1. DC-Based Power Distribution Units (PDUs): Intelligent PDUs designed for DC microgrids, offering granular power management, remote monitoring, and load balancing capabilities within DC systems.
+2. DC-Native Energy Management Systems (EMS): EMS specifically tailored for DC environments, optimizing energy consumption, integrating renewable sources, and providing real-time data analytics for DC grids.
+3. DC-Optimized Lighting Systems: LED lighting directly powered by DC sources, eliminating AC-DC conversion losses and improving overall system efficiency in buildings and industrial settings.
+4. DC-Compatible Modular UPS: Uninterruptible Power Supplies designed to operate natively in DC environments, providing reliable backup power without AC conversion for critical data center and industrial loads.
+5. Dynamic DC Load Shedding: A system that automatically reduces non-critical DC loads during periods of high demand or grid instability, maintaining power for essential functions in ports and data centers.

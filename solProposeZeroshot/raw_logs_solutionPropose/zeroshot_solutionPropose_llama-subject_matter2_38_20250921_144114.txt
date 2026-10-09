@@ -1,0 +1,9 @@
+1. Solar Hybrid System: A combination of solar photovoltaic panels and a battery storage system designed specifically for ports, allowing for energy storage and efficient use during peak charging times.
+
+2. Energy-Efficient Lighting: Implementing LED lighting systems in industrial settings to reduce energy consumption and improve efficiency.
+
+3. EV Charging Infrastructure: Developing DC fast-charging stations for electric vehicles at ports, allowing for faster charging times and increased convenience for travelers.
+
+4. Microgrids in Data Centers: Utilizing DC power systems to create smaller power grids within data centers, enabling greater energy efficiency and resilience during power outages.
+
+5. Building Energy Management System: Implementing a DC-based building automation system that controls lighting, HVAC, and other energy-consuming systems in buildings, improving overall energy efficiency.

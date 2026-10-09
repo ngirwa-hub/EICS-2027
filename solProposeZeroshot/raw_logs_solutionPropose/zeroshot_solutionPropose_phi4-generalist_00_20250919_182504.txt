@@ -1,0 +1,9 @@
+1. **DC-Powered Electric Vehicle Charging Stations**: Infrastructure for charging electric vehicles using direct current at ports and parking facilities in buildings, enhancing efficiency by eliminating AC conversion.
+
+2. **Industrial Process Integration System**: A solution that integrates various industrial processes directly with DC power sources, reducing energy losses and improving operational efficiency in manufacturing settings.
+
+3. **DC-Coupled Energy Management Software**: Software tools designed for optimizing the distribution and use of DC power within data centers, focusing on minimizing energy waste and maximizing system reliability.
+
+4. **Modular DC Power Distribution Units**: Flexible units that distribute direct current efficiently across different sections of buildings or industrial facilities, facilitating scalability and ease of maintenance.
+
+5. **DC-Powered HVAC Systems**: Heating, ventilation, and air conditioning systems powered by direct current to improve energy efficiency in commercial buildings and data centers.

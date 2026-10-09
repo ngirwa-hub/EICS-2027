@@ -1,0 +1,5 @@
+1. DC Power Distribution Units (PDUs): Intelligent DC PDUs manage power distribution within DC microgrids, providing monitoring, control, and load balancing capabilities.
+2. Dynamic Voltage Sag Compensation (DVSC): A DC-based DVSC system mitigates voltage sags and disturbances, crucial for sensitive equipment in data centers and industrial processes.
+3. DC-Based Microgrid Controller: A centralized controller optimizes DC microgrid operation, coordinating renewable generation, storage, and load management for ports and industrial facilities.
+4. DC-Native Lighting Systems: Direct DC lighting eliminates AC-DC conversion losses in buildings, increasing efficiency and reducing heat generation.
+5. Wireless DC Power Transfer (WDC): WDC technology enables contactless power delivery within buildings and ports, useful for charging electric vehicles or powering sensors.

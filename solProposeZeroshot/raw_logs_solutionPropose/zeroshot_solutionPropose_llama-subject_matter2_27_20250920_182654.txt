@@ -1,0 +1,9 @@
+1. High-efficiency DC Power Supply for Data Centers: A high-efficiency power supply that directly converts AC to DC and optimizes the power usage effectiveness (PUE) in data centers, reducing energy consumption and carbon footprint.
+
+2. Port DC Microgrid Integration: A system that integrates DC microgrids at ports, allowing for efficient distribution of renewable energy sources such as solar and wind, reducing dependence on fossil fuels and lowering emissions.
+
+3. Modular DC Systems for Industrial Applications: An innovative modular approach to DC systems, enabling easy installation, maintenance, and scalability in industrial applications such as food processing, automotive manufacturing, and chemical plants.
+
+4. Building Automation System with DC Controls: A building automation system that utilizes DC controls for HVAC, lighting, and other building systems, resulting in increased energy efficiency, cost savings, and better environmental performance.
+
+5. Hybrid DC/AC Traction System for Electric Trucks: A hybrid traction system combining high-efficiency DC motor technology with efficient AC traction systems in electric trucks, optimizing power delivery and increasing range while reducing energy consumption.

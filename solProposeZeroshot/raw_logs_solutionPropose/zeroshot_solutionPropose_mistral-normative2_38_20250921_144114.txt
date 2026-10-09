@@ -1,0 +1,14 @@
+1. Solution Title: DC Microgrid Control System for Ports
+   Brief Explanation: A system that optimizes the distribution and management of power within a port's DC microgrid, improving efficiency and reducing energy losses.
+
+2. Solution Title: DC Power-to-Heat Systems for Industry
+   Brief Explanation: A technology that converts excess DC power into heat for industrial processes, increasing energy utilization and reducing waste.
+
+3. Solution Title: DC Solar Tracking System for Data Centers
+   Brief Explanation: A system that tracks the sun to optimize solar panel alignment and maximize energy generation for data centers running on DC power.
+
+4. Solution Title: Building Energy Management System (BEMS) for Buildings
+   Brief Explanation: An intelligent system that monitors, controls, and optimizes energy usage in buildings, including DC loads and distributed renewable sources.
+
+5. Solution Title: DC Electric Vehicle Charging Infrastructure for Buildings
+   Brief Explanation: A charging infrastructure designed to support DC electric vehicles, reducing the need for AC-DC conversion and improving charging efficiency.

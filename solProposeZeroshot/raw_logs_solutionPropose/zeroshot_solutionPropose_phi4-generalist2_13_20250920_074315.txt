@@ -1,0 +1,9 @@
+1. **DC-Powered Electric Vehicle Chargers:** Charging stations for electric vehicles that use direct current to offer faster and more efficient charging, reducing conversion losses compared to AC systems.
+
+2. **Modular DC Microgrid Systems:** Scalable microgrids designed to operate on DC power, allowing ports, industries, data centers, and buildings to integrate renewable energy sources directly without converting them to AC.
+
+3. **DC Lighting Systems:** Energy-efficient lighting solutions that run on direct current, reducing the need for conversion from AC and enhancing energy savings in various settings like ports and buildings.
+
+4. **Thermal Energy Storage with DC Integration:** Systems that store thermal energy using phase-change materials or other technologies, integrated with DC systems to improve efficiency in industrial processes and data center cooling.
+
+5. **Integrated DC Power Management Software:** Advanced software tools designed for monitoring, controlling, and optimizing the use of direct current across different sectors, ensuring efficient distribution and usage of power resources.

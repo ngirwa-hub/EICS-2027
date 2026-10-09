@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A centralized control system for managing energy distribution within a DC microgrid, optimizing the use of renewable sources and ensuring efficient power delivery across ports, industries, data centers, and buildings.
+
+2. **Hybrid AC/DC Power Interface**: A technology that allows seamless integration between existing AC infrastructure and new DC systems, facilitating gradual transition in sectors like ports and industry without requiring complete overhauls of current setups.
+
+3. **DC-Powered Electric Vehicle (EV) Charging Stations**: Fast-charging stations powered directly by DC to reduce conversion losses and improve charging efficiency for electric vehicles at ports and industrial sites.
+
+4. **Energy Storage-Integrated DC Distribution Units**: Distributed units that combine energy storage with DC distribution, enhancing resilience and reliability of power supply in data centers and large buildings by providing backup during outages.
+
+5. **DC-Powered HVAC Systems**: Heating, ventilation, and air conditioning systems designed to operate on DC power, reducing conversion losses and improving overall energy efficiency in buildings and data center environments.

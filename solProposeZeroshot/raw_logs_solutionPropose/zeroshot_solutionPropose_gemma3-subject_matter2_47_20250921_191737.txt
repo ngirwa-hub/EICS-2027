@@ -1,0 +1,5 @@
+1. DC Power Distribution Units (PDUs): Intelligent PDUs manage and distribute DC power within a facility, offering remote monitoring, load balancing, and fault isolation capabilities.
+2. DC-Based Microgrid Management System: A software platform that optimizes the operation of DC microgrids, coordinating renewable generation, energy storage, and load demand in real-time.
+3. Dynamic Voltage Sag Compensation (DVSC) for DC Systems: A power electronic device that rapidly injects DC voltage during voltage sags, improving the reliability of sensitive DC equipment in industrial and data center environments.
+4. DC-Native Energy Meters: Specialized meters designed to accurately measure DC power consumption, essential for billing, energy efficiency analysis, and demand response programs in DC microgrids.
+5. DC Harmonic Filter Banks: Active or passive filters designed to mitigate harmonic distortion in DC systems, improving power quality and reducing equipment stress, particularly important in industrial applications with variable speed drives.

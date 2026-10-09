@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A platform for efficiently managing power distribution and integration within DC microgrids across various sectors like ports and data centers, enhancing reliability and reducing energy losses.
+
+2. **Integrated DC Energy Storage**: Utilizes battery storage systems that operate directly on DC power, improving efficiency in industries and buildings by minimizing conversion steps and providing better grid support during peak loads.
+
+3. **DC-Powered Electric Vehicle (EV) Charging Stations**: Infrastructure designed for fast charging of electric vehicles using direct current, particularly beneficial for ports and data centers aiming to reduce carbon footprints through renewable energy use.
+
+4. **DC Lighting Solutions**: LED lighting systems that operate on DC power, tailored for buildings and industrial settings, offering increased energy efficiency and longer lifespan compared to traditional AC-powered lights.
+
+5. **Renewable Energy Source Integration Tool**: A software tool designed to optimize the integration of solar panels and wind turbines into existing DC networks in ports and industries, maximizing renewable energy use and minimizing dependency on fossil fuels.

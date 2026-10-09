@@ -1,0 +1,19 @@
+1. Solar Power for Ports: Harnessing solar energy for power generation at ports can reduce reliance on traditional grid supply, lower operating costs and minimize carbon footprint.
+    - Short title: Solar Power for Ports
+    - Brief explanation: Deploying solar panels in port areas to generate clean electricity and support operations, reducing dependence on fossil fuels and greenhouse gas emissions.
+
+2. DC Lighting Systems for Industry: Using Direct Current (DC) lighting systems can result in energy savings, longer bulb life, and improved safety compared to traditional AC lighting.
+    - Short title: DC Lighting Systems for Industry
+    - Brief explanation: Implementing DC lighting systems in industrial facilities can boost energy efficiency, reduce maintenance costs and hazards from flammable AC cables.
+
+3. Data Center DC Infrastructure: Utilizing Direct Current (DC) infrastructure in data centers can improve power quality, reduce energy consumption, and lower operating costs.
+    - Short title: Data Center DC Infrastructure
+    - Brief explanation: Adopting DC power distribution and conversion technologies in data centers can enhance reliability, efficiency, and scalability of IT systems.
+
+4. Building Efficiency with DC Solutions: Integrating Direct Current (DC) technologies in building management systems and lighting can boost energy savings, comfort levels, and indoor air quality.
+    - Short title: Building Efficiency with DC Solutions
+    - Brief explanation: Deploying DC-based control systems, LED lights, and power supplies in buildings can optimize HVAC, reduce energy consumption and provide better lighting for occupants. 
+
+5. Hybrid Renewable Energy Systems for Data Centers: Combining solar, wind or hydro energy with backup traditional grid supply using Direct Current (DC) technologies can improve resilience, reliability, and efficiency of data center operations.
+    - Short title: Hybrid Renewable Energy Systems for Data Centers
+    - Brief explanation: Utilizing hybrid renewable energy systems integrating DC power distribution with solar or wind energy generation can ensure uninterrupted power supply to critical IT infrastructure.

@@ -1,0 +1,9 @@
+1. Efficient DC Lighting System: A lighting system that utilizes DC technology for efficient and sustainable illumination in ports, industry, data centers, and buildings. This solution reduces energy consumption and minimizes environmental impact by eliminating AC-DC converters and reducing waste from traditional fluorescent bulbs.
+
+2. Smart Grid Integration: The integration of DC microgrids with smart grid systems to optimize energy management and distribution in ports, industry, data centers, and buildings. This solution enhances grid resilience, reduces energy losses, and promotes sustainable energy use.
+
+3. Renewable Energy Hybrid System: A hybrid system that combines renewable energy sources (such as solar, wind, and hydro) with DC technology in ports, industry, data centers, and buildings. This solution increases the utilization of renewable energy sources and reduces reliance on fossil fuels.
+
+4. DC-based HVAC System: A heating, ventilation, and air conditioning (HVAC) system that utilizes DC technology for efficient control and management in buildings. This solution minimizes energy consumption, reduces greenhouse gas emissions, and improves indoor air quality.
+
+5. Intelligent Power Management System: An intelligent power management system that monitors and optimizes energy use in ports, industry, data centers, and buildings through DC technology. This solution enhances energy efficiency, reduces energy waste, and promotes sustainable energy practices.

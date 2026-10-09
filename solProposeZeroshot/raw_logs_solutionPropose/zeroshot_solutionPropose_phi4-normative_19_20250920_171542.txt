@@ -1,0 +1,14 @@
+1. **DC Microgrid Integration System:**
+   A framework for integrating multiple DC power sources in ports and industrial settings, enabling efficient energy distribution without the need for AC-DC conversion, reducing losses and improving reliability.
+
+2. **Hybrid Energy Storage Systems (HESS):**
+   A combination of batteries and supercapacitors designed to manage load variations and provide seamless backup power, particularly beneficial in data centers where uptime is critical.
+
+3. **DC-Powered Electric Vehicle Charging Infrastructure:**
+   Implementation of DC charging stations for electric vehicles at ports and industrial facilities, enhancing energy efficiency by directly supplying DC power for vehicle charging operations.
+
+4. **Thermal Management for DC Systems:**
+   Innovative cooling solutions tailored specifically for DC power systems in data centers to enhance the performance and longevity of electronic components under varying thermal loads.
+
+5. **DC Microgrid Control Software:**
+   Advanced software tools for managing and optimizing energy flow within DC microgrids across buildings, enabling real-time adjustments for efficiency improvements and demand response capabilities.

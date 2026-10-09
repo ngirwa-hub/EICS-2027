@@ -1,0 +1,5 @@
+1. Smart Grid Connector: A device that enables easy and efficient connection and disconnection between the smart grid and DC systems, ensuring optimal energy flow.
+2. Dynamic Load Management System: A technology that adjusts power consumption patterns based on real-time demand and supply fluctuations to reduce energy waste and increase system efficiency.
+3. Microgrid Energy Management System: An integrated software platform that manages energy storage, grid connection, and local energy distribution within a microgrid for optimal energy use and sustainability.
+4. DC PV Inverter Combiner Box: A centralized device that combines power from multiple photovoltaic systems in a port or building, optimizing energy flow and reducing system complexity.
+5. Intelligent DC Lighting System: A lighting solution that uses DC technology to provide efficient, sustainable, and adaptable illumination for various applications such as ports, warehouses, and industrial facilities.

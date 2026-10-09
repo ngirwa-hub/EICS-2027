@@ -1,0 +1,9 @@
+1. **DC-Powered Electric Vehicle Charging Stations**: Infrastructure designed for charging electric vehicles directly using DC power to reduce conversion losses and accelerate charging times at ports and buildings.
+
+2. **DC Microgrid Control System**: A centralized control system that manages energy distribution in microgrids using DC, optimizing efficiency and reliability across industrial settings and data centers.
+
+3. **Modular DC UPS Systems**: Uninterruptible power supply systems specifically designed for DC operations, providing reliable backup power with improved efficiency in critical infrastructures like data centers and hospitals.
+
+4. **DC Heating Solutions**: Direct current heating systems that provide more efficient space and water heating in buildings, leveraging renewable energy sources without requiring AC conversion.
+
+5. **DC Lighting Systems**: Energy-efficient lighting solutions powered by DC, reducing energy consumption and enhancing performance in industrial environments and large commercial buildings.

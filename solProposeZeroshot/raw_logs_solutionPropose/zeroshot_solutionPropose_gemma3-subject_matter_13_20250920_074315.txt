@@ -1,0 +1,5 @@
+1. DC-Based Power Distribution Units (PDUs): Intelligent PDUs designed for DC microgrids to manage power distribution, monitor voltage and current, and provide remote control capabilities.
+2. DC-Native Energy Management Systems (EMS): EMS specifically tailored for DC systems, enabling optimized energy usage, load balancing, and integration of distributed generation sources.
+3. High-Efficiency DC Lighting Systems: LED lighting systems designed to operate directly from DC voltage, eliminating AC-DC conversion losses and improving overall energy efficiency in buildings.
+4. DC-Coupled Microgrid Controllers: Advanced controllers for managing DC microgrids, facilitating seamless integration of renewable energy sources, storage, and load management.
+5. DC Harmonic Mitigation Filters: Active filters designed to reduce harmonic distortion in DC systems, ensuring power quality and protecting sensitive equipment.

@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A centralized platform for optimizing the operation and integration of DC microgrids in ports and industrial settings, improving energy efficiency and reliability.
+
+2. **Industrial DC-Powered Machinery**: Development of machinery and equipment that operate directly on low-voltage DC power, reducing conversion losses and enhancing operational efficiency in manufacturing environments.
+
+3. **DC Cooling Systems for Data Centers**: Implementation of direct current cooling systems for data centers to minimize energy consumption by eliminating AC-DC conversion inefficiencies in cooling processes.
+
+4. **DC-Biased Lighting Solutions for Buildings**: Introduction of lighting solutions that utilize DC power directly, reducing energy losses from AC-DC conversions and offering greater compatibility with renewable sources.
+
+5. **Hybrid Energy Storage Systems (HESS) Integration**: A system designed to efficiently integrate multiple storage technologies (e.g., batteries, supercapacitors) within DC grids in data centers and industries for improved load management and resilience.

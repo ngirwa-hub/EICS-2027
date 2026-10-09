@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A centralized platform for monitoring and controlling DC microgrids, enhancing efficiency and reliability in ports, industries, data centers, and buildings by optimizing energy distribution and minimizing losses.
+
+2. **Hybrid AC-DC Substation**: An infrastructure that integrates both AC and DC systems, facilitating seamless conversion and distribution of power, crucial for modernizing existing electrical grids in industrial settings and large facilities like data centers.
+
+3. **High-Efficiency Inverters**: Advanced inverters designed to minimize energy losses during the conversion from DC to AC, essential for optimizing the performance of renewable energy sources in both new and retrofitted buildings.
+
+4. **DC-Powered HVAC Systems**: Heating, ventilation, and air conditioning systems directly powered by DC, improving efficiency and reducing costs in data centers where stable power conditions are critical.
+
+5. **Integrated DC Lighting Solutions**: Energy-efficient lighting systems that operate on DC power, tailored for use in industrial environments and modern buildings to reduce energy consumption and enhance sustainability.

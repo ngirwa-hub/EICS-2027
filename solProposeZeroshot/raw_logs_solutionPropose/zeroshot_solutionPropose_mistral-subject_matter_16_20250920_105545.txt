@@ -1,0 +1,9 @@
+Solution 1: DC Microgrid Controller: A system that optimizes the operation and distribution of power within a DC microgrid in buildings, ports, industry, and data centers, ensuring efficient energy usage and grid stability.
+
+Solution 2: DC Grid Tie Inverter: Enables connection of distributed renewable energy sources (e.g., solar panels) to the DC grid in ports, industry, data centers, and buildings, facilitating the integration of renewable energy and reducing reliance on fossil fuels.
+
+Solution 3: DC Power Distribution Units (PDUs): Efficient power distribution systems for data centers that provide DC power directly to servers, improving energy efficiency and reducing conversion losses.
+
+Solution 4: DC Fault Detection and Isolation System: A system designed to quickly identify and isolate faults in DC grids in ports, industry, buildings, and data centers, ensuring safety and minimizing downtime.
+
+Solution 5: DC Busbar Systems: High-capacity, low-loss DC power transmission systems for industrial applications, offering improved efficiency and reduced infrastructure costs compared to AC systems.

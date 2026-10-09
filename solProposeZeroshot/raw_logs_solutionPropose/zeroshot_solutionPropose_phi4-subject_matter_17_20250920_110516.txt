@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System:** A platform for optimizing the operation and integration of multiple renewable energy sources within a DC microgrid, enhancing efficiency and reliability in ports, industries, data centers, and buildings.
+
+2. **High-Efficiency DC Voltage Regulators:** Devices that maintain stable voltage levels in variable renewable energy environments, crucial for industrial processes and sensitive equipment in data centers.
+
+3. **DC Power Quality Monitoring System:** A tool designed to continuously assess the quality of DC power, ensuring consistent performance and identifying issues in real-time across various sectors such as ports and buildings.
+
+4. **Integrated Energy Storage Solutions:** Systems that combine renewable energy generation with advanced storage technologies specifically designed for DC distribution, improving energy availability and reducing dependency on external grids.
+
+5. **DC Power Interface Standards Development:** Initiatives to create standardized interfaces for DC power systems, facilitating interoperability between different technologies and manufacturers in diverse applications like industry and buildings.

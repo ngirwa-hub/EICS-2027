@@ -1,0 +1,9 @@
+1. Solar Powered Data Centers: Utilizing solar energy to power data centers, reducing reliance on non-renewable energy sources and minimizing carbon footprint.
+
+2. Efficient DC Motors for Ports: Implementing high efficiency DC motors in port operations to reduce energy consumption and maintenance costs.
+
+3. Direct Monitoring of DC Systems: A system that allows real-time monitoring and analysis of DC systems, improving fault detection and reducing downtime.
+
+4. Integrated Battery Storage for Industry: Combining battery storage with industrial processes to increase energy efficiency and reduce waste.
+
+5. Energy Efficient Lighting Systems: Implementing LED lighting systems that use less electricity and have a longer lifespan compared to traditional lighting methods in buildings.

@@ -1,0 +1,9 @@
+1. **DC Microgrid Controllers**: Advanced control systems for managing and optimizing the operation of DC microgrids, ensuring efficient distribution and utilization of renewable energy in ports, industry, data centers, and buildings.
+
+2. **DC-Powered Industrial Machinery**: Development and integration of DC motors and drives in industrial applications to reduce conversion losses and increase efficiency compared to traditional AC-powered machinery.
+
+3. **DC Charging Infrastructure for Electric Vehicles (EVs)**: Establishing fast-charging stations powered by DC systems at ports and commercial areas, enabling quicker charging times for electric vehicles and reducing dependency on AC power sources.
+
+4. **Integrated Renewable Energy Management Systems**: Software platforms that seamlessly integrate various renewable energy sources into a cohesive DC-based energy management system to optimize performance and reliability in data centers and industrial facilities.
+
+5. **DC-Based Thermal Energy Storage**: Utilizing thermal storage systems powered by DC, which can store excess heat or cold produced during off-peak times for use during peak demand periods, enhancing energy efficiency in buildings and industries.

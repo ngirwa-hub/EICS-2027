@@ -1,0 +1,5 @@
+1. DC Power Distribution Units (PDUs): Intelligent PDUs manage and distribute DC power within a facility, offering features like remote monitoring, load balancing, and fault isolation.
+2. Dynamic Voltage Sag Compensation (DVSC): A DC-based DVSC system can rapidly compensate for voltage sags, critical for sensitive equipment in data centers and industrial processes.
+3. DC-Based Microgrid Controller: A sophisticated controller optimizes the operation of DC microgrids, coordinating energy sources, storage, and loads for improved efficiency and resilience.
+4. DC-Native Power Electronics for HVAC: Direct DC-powered heating, ventilation, and air conditioning systems eliminate AC-DC-AC conversion losses, increasing overall efficiency in buildings.
+5. DC-Based Wireless Power Transfer (WPT) for Ports: WPT systems can transfer power wirelessly to electric vehicles or equipment within port facilities, reducing cabling and increasing flexibility.

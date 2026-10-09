@@ -1,0 +1,9 @@
+1. **DC Microgrid Systems:** Integrated local energy networks that operate on direct current, providing resilience and efficiency in ports, industries, data centers, and buildings by reducing reliance on centralized AC power sources.
+
+2. **DC-Powered EV Charging Stations:** High-efficiency charging infrastructure for electric vehicles utilizing DC directly from renewable sources or storage systems to minimize conversion losses and support sustainable transport at ports and within industrial complexes.
+
+3. **Smart Grid Management Software:** Advanced software solutions designed for managing and optimizing the flow of DC power in energy networks, ensuring efficient distribution and utilization across various sectors including data centers and industrial facilities.
+
+4. **DC Heat Pumps:** Systems that directly utilize DC to drive heat pumps for heating and cooling purposes in buildings, improving energy efficiency by eliminating AC-DC conversion steps typically required in HVAC systems.
+
+5. **Renewable Energy Integration Platform:** A platform facilitating the seamless integration of renewable energy sources such as solar panels or wind turbines with existing DC infrastructure, enhancing sustainability across sectors like ports and data centers.

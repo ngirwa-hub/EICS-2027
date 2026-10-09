@@ -1,0 +1,5 @@
+1. DC-Based Microgrid Controller: An intelligent controller managing DC power flow, load balancing, and renewable energy integration within a localized DC microgrid, optimizing efficiency and resilience.
+2. DC Power Distribution Units (DC PDUs): Modular DC PDUs providing regulated DC voltage distribution and monitoring capabilities within buildings and industrial facilities, similar to AC PDUs but optimized for DC architectures.
+3. High-Efficiency DC Lighting Systems: LED lighting directly powered by DC sources without AC-DC conversion, reducing energy losses and improving overall system efficiency in buildings and ports.
+4. DC-Native Power Electronics for Industrial Processes: Specialized power electronics designed to directly control DC motors, welders, and other industrial loads, bypassing AC conversion and enhancing process efficiency.
+5. Dynamic DC Load Shedding System: A system that automatically reduces non-critical DC loads during periods of high demand or renewable energy scarcity, ensuring stability and preventing blackouts in ports and data centers.

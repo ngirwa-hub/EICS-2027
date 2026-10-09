@@ -1,0 +1,9 @@
+Solution 1: DC Grid Tie Inverters for Ports: These devices convert excess DC power from renewable sources (e.g., solar or wind) into AC power for grid integration, improving port-wide energy management and sustainability.
+
+Solution 2: DC Microgrid Controllers for Industry: This controller optimizes the operation of distributed DC energy resources within industrial facilities, ensuring efficient power distribution and minimizing energy losses.
+
+Solution 3: DC-DC Bus Tie Inverters for Data Centers: By connecting multiple DC buses within a data center, these inverters allow for the sharing of excess power between servers, improving overall efficiency and reducing energy waste.
+
+Solution 4: DC Energy Management Systems for Buildings: These systems monitor and control DC loads within buildings, allowing for optimal energy usage, demand management, and reduced reliance on AC power distribution.
+
+Solution 5: DC Distribution Automation for Ports, Industry, Data Centers, and Buildings: This technology automates the control of DC power networks, improving grid reliability, reducing maintenance costs, and enhancing overall system efficiency.

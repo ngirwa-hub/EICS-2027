@@ -1,0 +1,14 @@
+1. **DC Power Distribution System: Efficient integration and distribution**  
+   A centralized system that optimizes the delivery and management of DC power within ports, industries, data centers, and buildings, reducing conversion losses by maintaining direct current throughout.
+
+2. **DC Microgrid Control Software: Advanced monitoring and control**  
+   An intelligent software platform designed to manage and optimize the operation of DC microgrids, ensuring energy efficiency and stability across sectors with real-time analytics and predictive maintenance capabilities.
+
+3. **Renewable Energy DC Interface Unit: Seamless integration**  
+   A device that facilitates direct coupling of renewable energy sources like solar panels or wind turbines into existing DC systems without requiring intermediate AC conversion, enhancing overall system efficiency.
+
+4. **DC Lighting System for Buildings: LED-optimized lighting**  
+   A comprehensive lighting solution specifically designed to operate directly on DC power, reducing energy losses and improving compatibility with solar energy installations in residential and commercial buildings.
+
+5. **Portable DC Power Units for Industry and Ports: Flexible onsite energy**  
+   Mobile units providing reliable DC power tailored for industrial processes and port operations, minimizing downtime by offering quick setup and adaptability for different machinery and equipment without the need for AC conversion.

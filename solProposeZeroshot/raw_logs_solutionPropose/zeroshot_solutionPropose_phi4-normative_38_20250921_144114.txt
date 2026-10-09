@@ -1,0 +1,9 @@
+1. **DC Microgrid Systems for Ports**: Integrated microgrids using DC power to enhance energy efficiency and reliability in port operations by reducing conversion losses associated with AC systems.
+
+2. **Industrial Process Optimization via DC Power**: Implementing DC-driven machinery and tools to streamline industrial processes, reduce energy consumption, and minimize downtime through more efficient energy use.
+
+3. **Data Center Load Balancing Tools**: Software solutions that optimize the distribution of DC power across data center loads, ensuring maximum efficiency and minimizing energy waste.
+
+4. **DC-Powered HVAC Systems for Buildings**: Heating, ventilation, and air conditioning systems designed to operate directly on DC power, improving overall system efficiency and reducing conversion losses.
+
+5. **DC-Integrated Renewable Energy Management (DERM) Platform**: A platform that seamlessly integrates various distributed renewable energy resources into the grid using DC technology, optimizing generation, storage, and consumption.

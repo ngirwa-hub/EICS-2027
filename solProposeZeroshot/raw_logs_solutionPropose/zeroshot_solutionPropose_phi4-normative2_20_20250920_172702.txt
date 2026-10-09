@@ -1,0 +1,14 @@
+1. **DC Microgrid Management System:**
+   A platform for optimizing the operation and integration of DC microgrids within ports, industries, data centers, and buildings, enhancing energy efficiency and reliability by allowing real-time monitoring and control.
+
+2. **Modular DC Energy Storage Units:**
+   Portable and scalable storage systems designed to store excess renewable energy in DC form, providing backup power and smoothing demand fluctuations across sectors like ports, industry, and data centers.
+
+3. **DC-Powered Lighting Systems:**
+   Efficient lighting solutions specifically optimized for direct current operation, reducing conversion losses and improving energy savings for commercial buildings and industrial facilities.
+
+4. **Integrated DC Heat Pump Solutions:**
+   Advanced heat pump systems utilizing DC power to provide heating and cooling in buildings, enhancing efficiency by removing unnecessary AC-DC conversions.
+
+5. **DC Power Quality Management System:**
+   A solution aimed at maintaining high-quality power within DC networks, ensuring stable voltage and current levels, crucial for sensitive operations in data centers and industrial environments.

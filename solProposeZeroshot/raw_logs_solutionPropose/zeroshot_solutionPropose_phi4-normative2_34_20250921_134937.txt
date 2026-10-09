@@ -1,0 +1,9 @@
+1. **DC-Powered Automated Guided Vehicles (AGVs):** Deployment of AGVs in ports and warehouses using DC power to optimize logistics operations by reducing reliance on diesel-powered vehicles, lowering emissions, and increasing efficiency.
+
+2. **DC Heat Pumps for Industrial Processes:** Implementation of heat pumps powered by DC energy systems for industrial heating processes, providing an efficient alternative to conventional electric or fossil fuel-based heating solutions with lower environmental impact.
+
+3. **Data Center Cooling Using Immersion Technology:** Application of immersion cooling technology using dielectric liquids in data centers that are powered directly by DC sources, significantly improving thermal management and reducing power consumption.
+
+4. **DC-Integrated Smart Building Management Systems (BMS):** Development of BMS specifically designed for DC systems to optimize energy usage across various building applications like lighting, HVAC, and appliances, enhancing overall energy efficiency.
+
+5. **Portable Solar-to-DC Power Stations:** Portable units that convert solar energy directly into DC power, suitable for off-grid locations or temporary setups in ports, industries, data centers, and buildings, providing flexible and sustainable power solutions.

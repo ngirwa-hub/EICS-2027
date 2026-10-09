@@ -1,0 +1,5 @@
+1. Solar-Powered Port Operations: A solar-powered port terminal that utilizes DC power systems for efficient cargo handling and logistics operations.
+2. Energy-Efficient Data Center Design: Implementation of energy-efficient data center designs using direct current technology to reduce power consumption, lower costs, and minimize environmental impact.
+3. Intelligent Lighting System: An intelligent lighting system that utilizes DC power systems for efficient and adaptive illumination in buildings, reducing energy consumption and maintenance costs.
+4. Efficient Cooling System: A cooling system designed to use direct current technology in industrial processes, providing better temperature control and reduced energy consumption.
+5. Advanced Renewable Energy Management: An advanced renewable energy management system that integrates DC power systems for efficient and sustainable energy utilization in buildings, ports, and industries.

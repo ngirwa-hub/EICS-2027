@@ -1,0 +1,9 @@
+1. **DC-Powered Electrified Ports**: Development of infrastructure that allows ships and port equipment to be powered directly by DC electricity, reducing reliance on diesel generators and decreasing emissions.
+
+2. **Industrial Microgrid Systems**: Implementation of microgrids within industrial facilities that operate primarily in DC to optimize energy use from renewable sources like solar panels or wind turbines directly.
+
+3. **Data Center Cooling with DC Power**: Enhanced cooling systems for data centers that are powered by DC, reducing energy losses associated with converting AC to DC and improving overall efficiency.
+
+4. **DC Load Balancing Algorithms**: Advanced algorithms designed to efficiently distribute DC power within buildings, optimizing energy use across various loads without conversion losses.
+
+5. **DC-Powered Electric Vehicle (EV) Charging Stations**: Development of charging stations specifically optimized for direct current delivery, enhancing the efficiency and speed of EV charging in ports and public facilities.

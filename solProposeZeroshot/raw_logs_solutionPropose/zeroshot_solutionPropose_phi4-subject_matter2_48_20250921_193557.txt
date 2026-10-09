@@ -1,0 +1,9 @@
+1. **DC Microgrid Control System**: A centralized control system that manages power distribution and optimization within DC microgrids, enhancing efficiency in ports and industry settings.
+
+2. **DC Power Quality Monitoring Unit**: This unit monitors and ensures the quality of power delivered through DC systems, vital for data centers to maintain uptime and performance reliability.
+
+3. **Integrated DC Energy Management Software**: A software platform that optimizes energy usage and distribution across buildings and industrial sites by analyzing real-time data from various renewable sources connected via DC networks.
+
+4. **DC-based Cooling Systems**: Utilizing DC power directly in cooling systems for data centers, improving efficiency by reducing conversion losses associated with AC-powered equipment.
+
+5. **Modular DC Power Distribution Units (PDU)**: Customizable units that allow flexible and scalable distribution of DC power within buildings and industrial facilities, catering to varying load demands efficiently.

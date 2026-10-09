@@ -1,0 +1,5 @@
+1. Solar Microgrids: An innovative system that integrates solar panels with DC microgrids, enabling the use of clean energy for both power and heating/cooling in buildings.
+2. Efficient DC Motors: A novel motor technology that reduces energy consumption and emissions in industrial processes and transportation systems.
+3. Off-grid DC Solutions: Sustainable DC solutions for remote or off-grid locations, such as islands, rural areas, or emergency response situations.
+4. DC Grid Integration: A set of technologies that enables seamless integration of DC grids into existing AC power systems, facilitating the use of renewable energy sources and improving grid efficiency.
+5. DC-Based HVAC Systems: A next-generation heating, ventilation, and air conditioning (HVAC) system that utilizes direct current for energy-efficient and environmentally friendly operation in buildings.

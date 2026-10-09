@@ -1,0 +1,9 @@
+1. **DC Power Distribution Units**: Compact and efficient units designed for distributing DC power within ports, industries, data centers, and buildings. They facilitate the use of various DC-powered devices by providing stable and adaptable voltage levels.
+
+2. **Integrated DC Energy Management System**: A system that monitors and optimizes energy usage in real-time across different sectors. It enhances efficiency by managing load distribution, reducing waste, and integrating renewable sources effectively into existing infrastructure.
+
+3. **DC Microgrid Controller**: A central controller for managing local DC microgrids, ensuring seamless integration of renewable energy sources like solar panels and wind turbines with grid operations to provide stable power supply in all four sectors.
+
+4. **Hybrid AC-DC Power Inverters**: Devices that efficiently convert between AC and DC as needed while minimizing conversion losses. These inverters are crucial for systems where both AC and DC appliances coexist, improving overall energy efficiency.
+
+5. **Wireless DC Charging Infrastructure**: Systems designed to provide wireless power transfer directly in DC form, suitable for charging electric vehicles or powering devices within ports, industries, data centers, and buildings without the need for physical connectors.

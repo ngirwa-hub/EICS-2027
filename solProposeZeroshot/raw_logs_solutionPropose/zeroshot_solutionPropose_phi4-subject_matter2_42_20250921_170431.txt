@@ -1,0 +1,9 @@
+1. **DC Microgrid Control System**: A centralized or decentralized control system that manages the operation and integration of various DC energy sources, loads, and storage units within microgrids at ports, industries, data centers, and buildings.
+
+2. **DC Solar Panel Interface Module**: An interface module designed to optimize the connection between solar panels and DC grids, allowing for efficient conversion and management of solar power without intermediate AC conversion.
+
+3. **Hybrid Energy Management System (HEMS)**: A system that seamlessly manages multiple energy sources like solar, wind, and storage within DC networks in data centers and industrial settings, optimizing efficiency and reliability.
+
+4. **DC-AC-DC Power Conversion Unit**: A unit designed to convert AC power from traditional grids directly into DC for integration with existing DC infrastructure, minimizing conversion losses and facilitating the transition to DC technologies in buildings.
+
+5. **DC Resilience Monitoring System**: An advanced monitoring system that assesses and enhances the resilience of DC networks against faults and disruptions, particularly crucial for critical infrastructure like ports and data centers.

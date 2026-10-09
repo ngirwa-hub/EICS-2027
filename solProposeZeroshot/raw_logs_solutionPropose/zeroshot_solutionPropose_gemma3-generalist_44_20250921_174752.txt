@@ -1,0 +1,7 @@
+Here are some additional DC solutions that could be valuable for the Shift2DC project’s target sectors (ports, industry, data centers, and buildings), beyond the previously listed 11:
+
+1. DC Power Distribution Units (PDUs): These manage and distribute DC power within a building or facility, offering granular control and monitoring capabilities. They are essential for efficient DC power management.
+2. DC-Based Lighting Systems: Utilizing DC power directly for LED lighting eliminates AC-DC conversion losses, improving energy efficiency and reducing heat generation. This is particularly beneficial in data centers and industrial settings.
+3. DC-Native Motor Drives: Replacing traditional AC motor drives with DC-native versions reduces conversion losses and enables more efficient operation of industrial equipment and port machinery.
+4. DC-Based HVAC Systems: Direct DC power can be used to operate heating, ventilation, and air conditioning systems, boosting efficiency and reducing reliance on AC conversion.
+5. DC-Resilient Power Supplies: These provide backup DC power during outages, ensuring critical operations in data centers and ports can continue uninterrupted.

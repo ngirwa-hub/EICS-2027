@@ -1,0 +1,13 @@
+1. High Voltage Direct Current (HVDC) Transmission for Renewable Energy Integration: A system that uses HVDC transmission to efficiently transport renewable energy from remote regions with excess capacity to areas of high demand, such as ports and industrial zones.
+
+2. DC Microgrids for Ports: An integrated DC microgrid system designed specifically for ports to optimize energy management and reduce reliance on traditional AC power grids, ensuring resilience in case of grid failure.
+
+3. Smart Lighting Systems with DC Power Supply: An intelligent lighting system that uses DC power supply for efficient and flexible control of lighting systems in buildings and data centers, reducing energy consumption and maintenance costs.
+
+4. DC-Based EV Charging Stations: A network of DC fast-charging stations for electric vehicles (EVs) in ports, industrial zones, and buildings, providing convenient and efficient charging options for commuters and employees.
+
+5. Modular Power Conversion Systems: A customizable modular power conversion system designed for data centers and other high-power consumption facilities that need flexible power management and distribution solutions.
+
+6. Hybrid DC/AC Power Distribution System: A hybrid power distribution system that combines both DC and AC technologies to optimize energy usage in buildings, providing greater flexibility in energy management and reducing overall energy costs. 
+
+7. Integrated DC Microgrids for Industry: An integrated DC microgrid system designed specifically for industrial applications, optimizing energy consumption and production, while ensuring operational reliability and cost-effectiveness.

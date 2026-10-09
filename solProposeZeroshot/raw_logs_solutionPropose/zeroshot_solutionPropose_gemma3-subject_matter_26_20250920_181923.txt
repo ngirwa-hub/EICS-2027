@@ -1,0 +1,5 @@
+1. DC-Based Energy Management System: An intelligent system that optimizes energy usage within a DC microgrid, prioritizing renewable sources and minimizing energy waste through real-time monitoring and control.
+2. High-Efficiency DC Lighting Systems: Utilizing DC LEDs directly powered by the DC microgrid, bypassing AC-DC conversion and reducing overall energy consumption in buildings and ports.
+3. DC-Native Motor Drives: Replacing traditional AC motor drives with DC motor drives for industrial applications, improving efficiency and enabling direct integration with DC power sources.
+4. DC Power Distribution Units (DC PDUs): Standardized DC PDUs offering intelligent power distribution and monitoring capabilities within data centers and industrial facilities, facilitating scalability and manageability.
+5. Bidirectional DC Charging Infrastructure: Enabling efficient charging and discharging of electric vehicles (ports, buildings) directly from the DC microgrid, providing grid stabilization services and reducing peak demand.

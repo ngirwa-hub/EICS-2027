@@ -1,0 +1,9 @@
+Solution 1: DC Grid Tie Inverters for Ports: These devices convert DC power from renewable sources like solar panels or wind turbines into AC power, which can be fed directly into the port's electrical grid.
+
+Solution 2: DC Battery Energy Storage Systems for Data Centers: This is a large-scale energy storage solution that uses batteries to store excess power during off-peak hours and discharge it during peak demand, improving overall efficiency and reducing electricity costs.
+
+Solution 3: DC Motor Drives for Industry: These drives convert DC power into mechanical movement for industrial machinery, offering benefits such as higher efficiency and reduced energy losses compared to AC motor drives.
+
+Solution 4: DC Microgrids for Buildings: A self-contained group of electricity consumers and sources that can operate connected or disconnected from the main grid, providing increased reliability and resilience for building power systems.
+
+Solution 5: DC Fuel Cells for Ports: These generate electricity through a chemical reaction between hydrogen and oxygen, offering a clean energy source for ports with the added benefit of on-site refueling capabilities.

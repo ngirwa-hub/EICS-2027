@@ -1,0 +1,14 @@
+Best HDBSCAN params: {'min_cluster_size': 5, 'epsilon': 0.01}
+Final clusters: 8, noise points: 48
+
+Cluster sizes:
+cluster_id
+-1    48
+ 0     7
+ 1    10
+ 2     5
+ 3    24
+ 4     9
+ 5    15
+ 6    11
+ 7    39

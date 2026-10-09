@@ -1,0 +1,9 @@
+1. **DC Microgrid Integration for Ports**: A system designed to integrate various renewable energy sources and storage into a unified DC microgrid at ports, enhancing energy efficiency and reducing reliance on fossil fuels.
+
+2. **Industrial Process Optimization via DC Power**: Solutions tailored to convert existing industrial equipment to operate directly from DC power, improving process efficiencies by minimizing conversion losses typically associated with AC systems.
+
+3. **Data Center Cooling using DC-Powered Systems**: Implementing advanced cooling technologies that run directly on DC power in data centers, reducing energy consumption and heat generation during conversion processes.
+
+4. **DC Power Management for Smart Buildings**: A solution focusing on the integration of solar panels and battery storage with building management systems to optimize energy usage and enhance sustainability through direct use of DC power.
+
+5. **DC Charging Infrastructure for Electric Vehicles at Ports**: Developing fast-charging stations powered by DC technology in ports, supporting quick recharging of electric vehicles and improving logistics efficiency.

@@ -1,0 +1,9 @@
+1. **DC Power Distribution Panel**: A centralized panel for managing and distributing DC power in buildings or industrial settings, enhancing energy efficiency by reducing conversion steps.
+
+2. **Portable DC Charging Stations**: Mobile units that provide DC charging capabilities for electric vehicles or equipment at ports and industrial sites, facilitating faster and more efficient charging processes.
+
+3. **DC Microgrid Management System**: A control system designed to optimize the operation of DC microgrids in data centers, ensuring reliable power delivery and improving energy management through real-time monitoring and adjustments.
+
+4. **Industrial DC Motor Drives**: Specialized drives for industrial motors that operate directly on DC, reducing energy losses associated with AC-DC conversions and improving motor efficiency and performance.
+
+5. **Building Integrated Photovoltaic (BIPV) with DC Output**: Solar panels integrated into building facades or roofs that produce direct current, minimizing the need for conversion to AC and maximizing energy use efficiency within buildings.

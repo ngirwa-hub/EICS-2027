@@ -1,0 +1,5 @@
+1. DC Power Distribution Units (PDUs): Intelligent DC PDUs manage power distribution within DC microgrids, offering load balancing, remote monitoring, and fault isolation capabilities.
+2. DC-Based Microgrid Controller: A centralized control system optimizes DC microgrid operation, coordinating renewable generation, energy storage, and load management for enhanced efficiency and resilience.
+3. DC-Native Energy Management System (EMS): An EMS specifically designed for DC systems to monitor and control DC power flows, predict demand, and integrate renewable energy sources efficiently.
+4. High-Efficiency DC Lighting Systems: LED lighting powered directly from DC sources minimizes conversion losses compared to AC-driven systems, particularly beneficial in data centers and industrial facilities.
+5. DC-Based Wireless Power Transfer (WPT) Infrastructure: Enables contactless power delivery for charging electric vehicles in ports and providing power to equipment in industrial settings, reducing cabling and improving flexibility.

@@ -1,0 +1,9 @@
+1. **DC Power Management System:** An integrated platform that optimizes energy usage and management across various DC applications in ports, industry, data centers, and buildings, facilitating efficient load balancing and reducing energy waste.
+
+2. **Hybrid AC-DC Microgrid Controller:** A control system designed to manage hybrid microgrids by seamlessly integrating AC and DC sources, enhancing reliability and flexibility for diverse energy demands in industrial settings and data centers.
+
+3. **High-Efficiency DC Distribution Panels:** Specialized panels that distribute DC power with minimal losses within buildings and data centers, supporting multiple voltage levels and improving the overall efficiency of electrical systems.
+
+4. **DC-Powered Electric Vehicle (EV) Charging Infrastructure:** A charging system for ports and industrial sites using DC power to provide faster and more efficient EV charging solutions, reducing downtime for fleet vehicles and promoting sustainable transport options.
+
+5. **Renewable Energy Source Interface (RESI):** A technology that directly connects renewable energy sources like solar panels or wind turbines with DC grids in industries and buildings, minimizing conversion losses and improving the utilization of clean energy.

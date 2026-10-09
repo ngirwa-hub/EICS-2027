@@ -1,0 +1,9 @@
+1. **DC Microgrid System for Ports**: A robust and scalable microgrid system designed to operate directly in DC, enhancing energy efficiency by reducing conversion losses typical in AC systems.
+
+2. **Industrial DC Process Integration**: Customized DC power supply solutions that integrate directly with industrial processes, minimizing energy loss during operations and enabling precise control over machinery.
+
+3. **DC-Powered Backup Systems for Data Centers**: Reliable backup power systems utilizing DC architecture to provide uninterrupted power supply to data centers, reducing reliance on traditional AC generators.
+
+4. **Residential DC Energy Management System**: An advanced management system that enables homeowners to optimize energy usage through direct DC connections for household appliances and solar panels, enhancing overall efficiency and sustainability.
+
+5. **DC HVAC Systems for Buildings**: Heating, Ventilation, and Air Conditioning systems powered directly by DC, designed to improve energy efficiency and reduce operational costs in commercial buildings.

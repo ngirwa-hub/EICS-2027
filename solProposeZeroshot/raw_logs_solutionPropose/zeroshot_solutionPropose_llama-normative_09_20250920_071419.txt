@@ -1,0 +1,5 @@
+1. Solar PV Inverter: A smart inverter system designed specifically for solar photovoltaic systems, allowing seamless integration with DC power and grid management.
+2. Microgrids for Ports: An autonomous energy system that utilizes DC technology to manage power distribution within a port, enabling efficient and resilient power supply for port operations.
+3. Industrial DC Motor Control: A control system designed specifically for DC motors in industrial applications, optimizing energy consumption and performance while minimizing maintenance costs.
+4. Data Center Cooling System: An innovative cooling solution using DC technology to reduce energy consumption and improve data center efficiency, contributing to sustainable data center operations.
+5. Building Retrofitting DC Solutions: A suite of DC-based solutions designed for retrofitting existing buildings, including LED lighting systems, DC HVAC control, and smart energy management systems, promoting cost savings and improved environmental performance in buildings.

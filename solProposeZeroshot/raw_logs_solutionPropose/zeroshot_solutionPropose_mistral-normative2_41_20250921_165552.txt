@@ -1,0 +1,14 @@
+1. Solution Title: DC Port Terminal Equipment: A system for handling and processing goods at ports using DC power, reducing energy losses from AC-DC conversions.
+   Brief explanation: This solution could help optimize port operations by directly integrating electrical equipment with a DC grid, improving efficiency and reducing energy consumption.
+
+2. Solution Title: Modular DC Power Distribution for Industry: Pre-fabricated, scalable, and easily-installed DC power systems for industrial applications.
+   Brief explanation: This system could enable faster deployment of efficient, modular power distribution in various industries, improving operational efficiency and reducing installation costs.
+
+3. Solution Title: Energy-efficient DC-powered Server Racks for Data Centers: High-density server racks that operate directly on DC power, improving energy efficiency and reducing heat generation.
+   Brief explanation: By eliminating the need for AC-DC conversion within data center server racks, this solution could significantly improve energy efficiency, reduce cooling costs, and increase overall data center performance.
+
+4. Solution Title: Smart Building Energy Management System (DC version): An intelligent building control system that directly operates on DC power to optimize energy consumption and demand management in buildings.
+   Brief explanation: This solution could help buildings achieve greater energy efficiency by managing electricity demand more effectively, integrating renewable energy sources, and reducing losses from AC-DC conversions.
+
+5. Solution Title: On-site DC Microgrids for Building Energy Independence: Small-scale distributed power generation systems that provide DC power to buildings, increasing energy independence and resilience.
+   Brief explanation: This solution could enable buildings to generate their own renewable energy and use it directly, reducing dependence on the grid and improving energy security.

@@ -1,0 +1,5 @@
+1. Solar PV Inverter: A device that converts solar photovoltaic energy directly into DC power for port use, reducing the need for AC-DC conversion and improving efficiency.
+2. Wind Turbine Generator: An onshore or offshore wind turbine with a direct connection to DC grids, allowing for the production of clean, renewable energy for industrial use.
+3. Electric Vehicle Charging Infrastructure: A network of DC fast-charging stations in ports and buildings for electric vehicles, supporting the transition to sustainable transportation.
+4. Intelligent Power Distribution System: An advanced grid management system that optimizes power distribution across different sectors (ports, industry, data centers, buildings) using real-time data analysis and predictive algorithms.
+5. DC Microgrids for Data Centers: A decentralized energy system that enables data centers to operate independently of the main AC grid, providing greater resilience and reducing reliance on fossil fuels.

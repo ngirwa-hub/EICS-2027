@@ -1,0 +1,14 @@
+1. **DC Microgrid Management System:**
+   A control system designed for managing microgrids that operate on DC power, optimizing energy distribution and enhancing resilience in ports, industries, data centers, and buildings.
+
+2. **Hybrid Renewable Energy Systems (HRES) for DC Grids:**
+   Integration of multiple renewable sources like solar panels and wind turbines with a unified DC grid to maximize efficiency and reliability across various sectors.
+
+3. **DC Power Quality Monitoring System:**
+   A tool that continuously assesses the quality of DC power, ensuring stable voltage levels and minimizing disturbances in industrial settings and data centers.
+
+4. **Integrated DC Energy Storage Solutions:**
+   Systems combining batteries or other storage technologies with DC grids to provide backup power and improve energy management in buildings and data centers.
+
+5. **DC Distribution Automation System:**
+   A system that automates the distribution of DC power, enhancing efficiency by dynamically adjusting loads and sources across industrial sites and large commercial buildings.

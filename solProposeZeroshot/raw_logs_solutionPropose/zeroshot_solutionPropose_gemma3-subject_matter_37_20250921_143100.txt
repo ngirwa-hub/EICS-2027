@@ -1,0 +1,5 @@
+1. DC Power Distribution Units (PDUs): Intelligent PDUs manage and distribute DC power within a facility, offering remote monitoring, load balancing, and surge protection capabilities.
+2. DC-Native Energy Management Systems (EMS): EMS designed specifically for DC grids optimizes energy usage, predicts load demands, and integrates renewable energy sources directly, reducing AC conversion losses.
+3. High-Efficiency DC Lighting Systems: Utilizing DC LEDs eliminates the need for AC-DC power supplies in lighting, improving overall system efficiency and reducing heat generation.
+4. DC-Based Microgrid Control Software: Specialized software optimizes the operation of DC microgrids, managing energy flow, balancing loads, and facilitating seamless integration of distributed generation.
+5. Modular DC Power Architectures: Allows for scalable and adaptable DC power systems, enabling easy expansion and reconfiguration to meet evolving power demands in ports, industry, data centers, and buildings.

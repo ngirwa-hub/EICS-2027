@@ -1,0 +1,9 @@
+Solution 1: DC Grid Tie Inverter for Ports: A system that converts excess DC power from port operations to AC, allowing integration with the main grid or storage systems for energy trading or backup purposes.
+
+Solution 2: High Power DC Transmission for Industry: A solution enabling the direct transmission of high-power DC electricity over long distances between industrial sites, reducing transmission losses and increasing efficiency.
+
+Solution 3: DC Microgrids for Data Centers: Decentralized DC power distribution systems within data centers, optimizing energy consumption, reducing conversion losses, and improving resilience.
+
+Solution 4: Building Energy Management System (BEMS) for Buildings: An intelligent DC-based system that controls and monitors various building systems such as HVAC, lighting, and appliances to optimize energy usage and reduce overall power consumption.
+
+Solution 5: DC-DC Charging Infrastructure for Electric Vehicles in Buildings: A charging infrastructure within buildings that uses DC voltage for charging electric vehicles, reducing charging time and improving efficiency compared to AC charging systems.

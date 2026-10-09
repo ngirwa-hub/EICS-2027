@@ -1,0 +1,9 @@
+1. **DC Microgrid Control System**: A centralized or decentralized control system for managing and optimizing the operation of DC microgrids in ports, industries, data centers, and buildings, enhancing energy efficiency and reliability.
+
+2. **DC-Powered Electric Vehicles (EV) Chargers**: Dedicated charging infrastructure for electric vehicles that operates directly on DC power, reducing conversion losses and increasing charging speed at ports and industrial facilities.
+
+3. **DC Distribution Panels**: Custom-designed distribution panels tailored to handle DC loads efficiently in buildings and data centers, minimizing the need for AC-DC conversions within these environments.
+
+4. **Hybrid Renewable Integration System**: A system that seamlessly integrates multiple renewable energy sources (such as solar PV and wind) into DC grids, optimizing power flow and storage utilization across various sectors.
+
+5. **Thermal Management Solutions for DC Systems**: Advanced cooling technologies designed specifically to handle the thermal challenges associated with high-power DC systems in data centers and industrial applications, ensuring optimal performance and longevity of equipment.

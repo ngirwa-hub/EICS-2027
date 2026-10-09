@@ -1,0 +1,9 @@
+Solution 1: Modular Direct Current Power Distribution: A modular system for efficient distribution of DC power in buildings and data centers, reducing the need for complex wiring and improving scalability.
+
+Solution 2: Portside DC Grid Interconnection: A system that enables seamless integration of various renewable energy sources into portside DC grids, facilitating the management and optimization of multiple energy sources.
+
+Solution 3: DC Arc Fault Detection & Suppression: A safety mechanism for industrial applications to quickly detect and suppress harmful DC arcs, reducing downtime and improving worker safety.
+
+Solution 4: Inductive DC Power Transfer: Wireless power transmission technology for efficient charging of electric vehicles in ports and industry, eliminating the need for physical connections and charger infrastructure.
+
+Solution 5: Building Energy Management System (BEMS) Integration: Enhancing existing building energy management systems to support direct current operations, improving energy efficiency and reducing costs in buildings.

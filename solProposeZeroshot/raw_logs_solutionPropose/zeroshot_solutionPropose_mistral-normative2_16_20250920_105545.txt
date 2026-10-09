@@ -1,0 +1,14 @@
+1. Solution Title: DC Grid Tie Inverters for Ports
+   Brief Explanation: Device that converts direct current (DC) from renewable sources into alternating current (AC), facilitating integration with port's existing AC power grid.
+
+2. Solution Title: Energy Management Systems for Industry
+   Brief Explanation: An intelligent control system that optimizes energy consumption and distribution across industrial processes, reducing waste and improving efficiency.
+
+3. Solution Title: DC Microgrids for Data Centers
+   Brief Explanation: A localized group of electricity sources and loads connected to each other at DC voltage levels, providing a reliable source of power for data centers.
+
+4. Solution Title: Smart Building Energy Management Systems (BEMS) for Buildings
+   Brief Explanation: Integrated system that optimizes energy use in buildings by managing heating, ventilation, air conditioning (HVAC), lighting, and plug loads, improving efficiency and reducing costs.
+
+5. Solution Title: DC Micro-transformers for Building Applications
+   Brief Explanation: Small transformers that step down DC voltage to a lower level suitable for distribution within buildings, improving safety and reducing energy losses.

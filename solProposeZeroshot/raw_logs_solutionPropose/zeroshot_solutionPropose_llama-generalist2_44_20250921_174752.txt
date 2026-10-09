@@ -1,0 +1,11 @@
+1. Smart Port Infrastructure: An intelligent system that optimizes the use of DC power in ports by integrating renewable energy sources and energy storage systems, enabling efficient operations and reducing environmental impact.
+
+2. Industry DC Efficiency: A solution to improve the efficiency of DC power use in industry by implementing smart grid technologies and optimizing energy management strategies.
+
+3. Data Center DC Cooling: An innovative cooling system for data centers that utilizes direct liquid or vapor-based cooling techniques, reducing energy consumption and greenhouse gas emissions.
+
+4. Building DC Energy Management: A system that optimizes the use of DC power in buildings by integrating renewable energy sources and energy storage systems, enabling efficient operations and reducing environmental impact.
+
+5. Portable DC Solutions: A set of portable DC technologies that can be easily transported and deployed in different sectors, providing flexibility and adaptability to varying needs and contexts. This includes mobile renewable energy stations, off-grid power systems, and modular energy solutions.
+
+Note: The above-proposed solutions are not included in the earlier list of 11 proposed DC solutions for the Shift2DC project. They are designed specifically for the sectors mentioned in the question prompt (ports, industry, data centers, buildings).

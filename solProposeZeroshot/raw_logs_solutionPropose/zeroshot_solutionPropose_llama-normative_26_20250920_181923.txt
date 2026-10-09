@@ -1,0 +1,5 @@
+1. Solar PV System Integration: A system that integrates photovoltaic solar panels directly with DC microgrids, providing clean and renewable energy source for ports, industry, data centers, and buildings.
+2. Energy Storage Battery Recycling: A recycling program for spent batteries in the four sectors to reduce waste, prevent environmental pollution, and promote sustainability in the use of DC technologies.
+3. DC Smart Grid Test Bed: An innovative test bed environment that simulates a smart DC grid by testing various control strategies and applications for different sectors, enhancing system resilience, and reducing energy losses.
+4. DC-based HVAC System: A heating, ventilation, and air conditioning system designed specifically for buildings, utilizing DC technology to enhance efficiency, reduce energy consumption, and minimize environmental impact.
+5. Building Automation System Integration: An integrated building automation system that seamlessly connects different subsystems in a building (HVAC, lighting, security, etc.) using DC communication protocols for increased energy savings, improved indoor air quality, and enhanced operational efficiency.

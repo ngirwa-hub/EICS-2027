@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A centralized control system designed for managing and optimizing the performance of DC microgrids in ports, industry, data centers, and buildings, enhancing energy efficiency and reliability.
+
+2. **DC Power Quality Monitoring System**: An advanced monitoring solution that ensures consistent power quality in DC systems across various sectors by detecting anomalies like voltage fluctuations and harmonics, thus preventing equipment damage.
+
+3. **Integrated Renewable Energy Management Platform**: A software platform facilitating the integration and management of multiple renewable energy sources (solar, wind) with existing DC infrastructure to maximize efficiency and sustainability in industrial and data center applications.
+
+4. **DC-AC Hybrid Inverter Systems**: Dual-mode inverters that support both AC and DC loads, allowing seamless operation between traditional AC systems and emerging DC infrastructures within buildings and industry settings.
+
+5. **DC Voltage Regulation Module**: A modular solution for maintaining stable voltage levels across DC networks in ports and data centers, accommodating varying load conditions without compromising performance or efficiency.

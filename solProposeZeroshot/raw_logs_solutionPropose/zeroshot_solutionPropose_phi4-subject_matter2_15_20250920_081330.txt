@@ -1,0 +1,9 @@
+1. **DC Microgrid Control System**: An integrated management system for coordinating DC microgrids in ports, industries, data centers, and buildings, optimizing energy distribution and ensuring seamless integration of renewable sources.
+
+2. **High-Efficiency DC LED Lighting**: Advanced lighting solutions designed specifically for DC grids to enhance energy efficiency in industrial facilities and commercial buildings, reducing conversion losses compared to AC systems.
+
+3. **DC Power Quality Monitoring Tool**: A monitoring solution for detecting power quality issues in DC networks across ports, industry sites, data centers, and residential areas, ensuring reliable operation of sensitive equipment.
+
+4. **Hybrid Renewable Energy Management System (REM)**: A management tool that integrates solar, wind, and battery storage systems with DC grids to optimize energy production, consumption, and storage in various sectors like ports and industries.
+
+5. **DC-Powered Electric Vehicle Charging Stations**: Specialized charging infrastructure for electric vehicles directly from DC networks, reducing conversion losses and improving efficiency at ports and industrial parking areas.

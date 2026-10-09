@@ -1,0 +1,5 @@
+1. High Efficiency DC Motor Drive: A technology that drives DC motors at high efficiency, reducing energy losses and minimizing environmental impact in industrial processes and transportation systems.
+2. Solar-Powered DC Lighting Systems: An innovative approach to outdoor lighting that uses photovoltaic panels to power LED lights, creating sustainable illumination for ports, parking lots, and buildings' perimeter security.
+3. DC Power Distribution in Smart Grid Applications: A system that optimizes power distribution and load management in smart grids, enabling efficient energy usage and reducing waste in data centers, industry, and buildings.
+4. Modular Hybrid Power Systems: A modular design of hybrid power systems that combines DC solar panels, wind turbines, and lithium-ion batteries to provide flexible and scalable energy solutions for ports, industry, data centers, and buildings.
+5. High-Performance DC Pumps and Fans: Energy-efficient DC pumps and fans for industrial processes and building applications that reduce power consumption and maintenance costs while ensuring optimal performance.

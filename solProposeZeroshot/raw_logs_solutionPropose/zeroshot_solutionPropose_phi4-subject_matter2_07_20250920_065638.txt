@@ -1,0 +1,9 @@
+1. **DC Microgrid Control Systems**: Advanced control systems that manage and optimize the operation of DC microgrids in ports and industrial settings, ensuring efficient energy distribution and integration with renewable sources.
+
+2. **DC-Powered Electric Vehicle (EV) Charging Stations**: Infrastructure for charging EVs directly using DC power at ports and data centers, reducing conversion losses and enhancing charging speed compared to traditional AC systems.
+
+3. **Renewable Energy Synchronized Inverters**: Devices that synchronize renewable energy generation with existing DC infrastructure in industrial applications, optimizing the use of solar or wind energy without requiring complex conversions.
+
+4. **DC Power Quality Monitoring Systems**: Solutions designed to continuously monitor power quality in buildings and data centers, ensuring stable and reliable DC supply by detecting anomalies like voltage fluctuations or harmonics early.
+
+5. **Modular DC Distribution Panels**: Flexible, modular panels that allow for easy expansion of DC distribution systems within industrial facilities and large buildings, facilitating customization as energy needs change.

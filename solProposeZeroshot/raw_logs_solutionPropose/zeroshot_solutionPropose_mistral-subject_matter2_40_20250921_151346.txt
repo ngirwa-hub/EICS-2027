@@ -1,0 +1,9 @@
+Solution 1: Direct Current Microgrids for Ports: A distributed energy system that uses DC power distribution within port facilities, improving efficiency and reducing conversion losses during energy transfer between various port equipment.
+
+Solution 2: Medium Voltage DC (MVDC) Grid for Industry: Utilizing MVDC grids in industrial settings for more efficient power distribution and better integration of renewable energy sources, minimizing conversion losses and improving overall system performance.
+
+Solution 3: DC Power Rail for Data Centers: A specialized DC rail system within data centers to deliver power directly to servers, reducing conversion losses and improving heat management through more efficient cooling systems.
+
+Solution 4: Building-Integrated Photovoltaic (BIPV) Systems for Buildings: Integrating solar panels as building materials in residential and commercial structures to generate DC power on-site, eliminating the need for AC-DC conversion and reducing energy costs.
+
+Solution 5: Energy Storage Solutions for Buildings (beyond batteries): Exploring alternative energy storage technologies like supercapacitors or flywheels for buildings, which can provide fast response times and improved efficiency in DC power systems.

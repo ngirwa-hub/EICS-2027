@@ -1,0 +1,5 @@
+1. DC Power Distribution Units (PDUs): Intelligent DC PDUs manage power distribution within DC microgrids, providing monitoring, control, and load balancing capabilities.
+2. Bidirectional DC Charging Infrastructure: Enables electric vehicles (particularly relevant for ports and industry) to both draw power from and supply power back to the DC grid, supporting Vehicle-to-Grid (V2G) functionality.
+3. DC-Native Lighting Systems: Replacing traditional AC-powered lighting with DC-native LED lighting reduces conversion losses and improves overall energy efficiency in buildings and data centers.
+4. DC-Based Thermal Management Systems: Utilizing DC power for cooling and heating systems in data centers and industrial facilities increases efficiency and reduces reliance on AC conversion.
+5. Dynamic Voltage Sag Compensation (DVSC) for DC Microgrids: Provides rapid voltage support during disturbances in DC microgrids, improving power quality and preventing equipment downtime in critical applications like data centers and ports.

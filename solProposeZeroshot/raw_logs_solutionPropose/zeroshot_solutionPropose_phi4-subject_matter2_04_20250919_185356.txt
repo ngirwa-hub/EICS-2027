@@ -1,0 +1,9 @@
+1. **DC Power Distribution Units**: These units are designed to efficiently distribute power within facilities like ports, industries, data centers, and buildings by directly managing DC loads and minimizing conversion losses.
+
+2. **Integrated DC Microgrid Controllers**: A solution that offers centralized control for distributed generation and storage in DC microgrids, enhancing reliability and efficiency across various sectors such as ports and industrial complexes.
+
+3. **DC-Powered Lighting Systems**: These systems utilize LEDs and other efficient lighting technologies powered directly by DC sources to reduce energy losses associated with AC-to-DC conversions in buildings and data centers.
+
+4. **Hybrid Energy Storage Management System**: A system that integrates multiple storage technologies (e.g., batteries, supercapacitors) for optimized energy management in DC grids, supporting sectors like industry and ports with enhanced flexibility and resilience.
+
+5. **DC Renewable Inverter Integration Platform**: This platform facilitates seamless integration of renewable energy sources into existing DC infrastructures by optimizing power conversion efficiency and ensuring compatibility with a range of renewable technologies.

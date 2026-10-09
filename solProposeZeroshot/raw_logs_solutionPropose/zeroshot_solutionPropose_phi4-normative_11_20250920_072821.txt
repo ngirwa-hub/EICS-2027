@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: An integrated platform for managing and optimizing the distribution and utilization of DC power within microgrids at ports and industrial sites, ensuring efficient energy use and stability.
+
+2. **DC Power Quality Monitoring**: A solution that continuously monitors the quality of DC power in data centers and buildings to prevent disruptions and maintain optimal performance by detecting anomalies such as voltage fluctuations or harmonics.
+
+3. **Energy-efficient DC Lighting System**: An advanced lighting system designed for industrial environments and large building complexes, utilizing DC power directly to reduce energy losses associated with AC-DC conversions typical in conventional lighting systems.
+
+4. **DC Heating Solution for Industrial Processes**: A technology that provides efficient heating solutions by using direct current, reducing energy consumption and emissions in industries where thermal processes are critical.
+
+5. **Integrated DC Renewable Energy Management System**: A system specifically designed to manage the integration of renewable energy sources like solar panels directly into DC grids in ports, data centers, and buildings, optimizing for energy efficiency and sustainability.

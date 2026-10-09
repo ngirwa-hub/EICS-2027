@@ -1,0 +1,5 @@
+1. Solar Power for Ports: A solar power system installed at ports to provide clean energy and reduce reliance on fossil fuels.
+2. Efficient Lighting Systems in Industry: Implementing LED lighting systems with advanced control systems for optimized energy usage and reduced maintenance costs.
+3. High-Efficiency Data Center Cooling: Developing innovative cooling solutions that leverage DC technology to reduce energy consumption and improve thermal management in data centers.
+4. Smart Lighting Controls in Buildings: Implementing intelligent lighting control systems that optimize energy usage, reduce maintenance needs, and enhance user experience.
+5. Efficient HVAC Systems for Data Centers: Developing high-efficiency heat exchangers for data center air conditioning units to reduce energy consumption and improve cooling performance.

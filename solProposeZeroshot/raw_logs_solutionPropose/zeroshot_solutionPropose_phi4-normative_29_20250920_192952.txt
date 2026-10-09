@@ -1,0 +1,9 @@
+1. **DC Power Distribution Units**: Modular units that efficiently distribute DC power across various loads in ports, industries, data centers, and buildings without the need for AC-DC conversion.
+
+2. **DC Microgrid Control Systems**: Intelligent control systems designed to manage the integration of renewable energy sources into DC microgrids, enhancing reliability and efficiency in industrial settings and large-scale buildings.
+
+3. **Integrated DC-Powered HVAC Systems**: Heating, ventilation, and air conditioning (HVAC) solutions that operate directly on DC power, reducing conversion losses and improving energy efficiency in data centers and commercial buildings.
+
+4. **DC-Enabled Electric Vehicle Charging Stations**: High-efficiency charging stations for electric vehicles using DC power to minimize energy loss during the charging process in ports and industrial complexes.
+
+5. **Wireless Power Transfer for DC Systems**: Technology that enables wireless transfer of DC power over short distances, improving convenience and safety in environments like data centers and automated industrial facilities.

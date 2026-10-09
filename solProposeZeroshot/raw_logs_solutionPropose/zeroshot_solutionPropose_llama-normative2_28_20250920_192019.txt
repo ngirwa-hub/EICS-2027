@@ -1,0 +1,5 @@
+1. Solar Hybrid System for Ports: A combination of solar panels and batteries that stores excess energy during sunlight hours to power the port during off-peak periods, reducing reliance on non-renewable sources.
+2. High-Efficiency DC Motors for Industry: Energy-efficient motors designed specifically for direct current systems, reducing power consumption and associated costs.
+3. Data Center Cooling System with DC Components: An innovative cooling system that utilizes direct current components to provide efficient cooling, reduce energy waste, and minimize carbon footprint.
+4. Intelligent Building Management System using DC Technology: A smart building management system that leverages the efficiency of DC technology to optimize energy consumption, reduce operational costs, and enhance occupant comfort.
+5. High-Performance DC UPS for Data Centers: An uninterruptible power supply system designed specifically for data centers operating on direct current systems, ensuring seamless power continuity during power outages or fluctuations.

@@ -1,0 +1,5 @@
+1. DC-Based Wireless Power Transfer (WPT) System: Enables contactless power delivery within ports and buildings, reducing cabling complexity and improving safety in hazardous environments.
+2. DC-Native Microgrid Controller: A sophisticated control system specifically designed for DC microgrids, optimizing power flow, managing distributed generation, and ensuring stable operation across diverse loads.
+3. Modular DC Power Distribution Units (PDUs): Standardized, scalable DC PDUs allow for flexible and efficient power distribution within data centers and industrial facilities, simplifying maintenance and expansion.
+4. DC-Optimized Lighting and Appliance Standards: Encourages the design and adoption of lighting and appliance technologies that operate natively on DC, minimizing conversion losses and increasing overall efficiency in buildings.
+5. DC-Enabled Electric Vehicle Charging Infrastructure: Supports high-power DC fast charging for electric vehicles in ports and industrial areas, directly integrating renewable generation without AC conversion.

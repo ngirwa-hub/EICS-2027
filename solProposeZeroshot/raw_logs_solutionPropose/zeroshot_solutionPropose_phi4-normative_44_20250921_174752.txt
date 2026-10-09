@@ -1,0 +1,9 @@
+1. **DC Energy Storage Integration**: A system that integrates advanced energy storage directly into DC microgrids at ports and industrial sites, facilitating efficient energy management by eliminating AC conversion losses and enhancing grid resilience.
+
+2. **DC-Powered Electric Vehicle (EV) Charging Infrastructure**: Development of high-capacity DC charging stations specifically designed for ports and industrial facilities to support the rapid deployment of EVs, thereby reducing carbon emissions and promoting cleaner transportation options within these sectors.
+
+3. **DC Lighting Systems in Data Centers and Buildings**: Implementation of energy-efficient LED lighting systems powered directly by DC, which reduces conversion losses associated with AC systems and results in lower operational energy costs and enhanced sustainability for data centers and buildings.
+
+4. **Thermal Management Solutions for DC Equipment**: Advanced thermal management technologies tailored for DC-powered equipment in industry and data centers to enhance system efficiency, reduce cooling requirements, and improve the longevity of electronic components by maintaining optimal operating temperatures.
+
+5. **DC-Powered HVAC Systems**: Development of direct current heating, ventilation, and air conditioning (HVAC) systems that capitalize on existing DC infrastructure, improving energy efficiency, reducing reliance on AC conversion, and providing sustainable climate control solutions for buildings and data centers.

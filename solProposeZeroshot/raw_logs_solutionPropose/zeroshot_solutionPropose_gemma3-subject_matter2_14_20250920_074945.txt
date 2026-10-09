@@ -1,0 +1,5 @@
+1. DC Power Distribution Units (PDUs): Intelligent PDUs manage and distribute DC power within a facility, offering load balancing, remote monitoring, and surge protection capabilities.
+2. DC-Native Energy Management Systems (EMS): These EMS platforms are specifically designed to optimize DC power usage, integrating with renewable generation and storage for peak shaving and demand response.
+3. Standardized DC Power Interfaces: Defining common voltage and current levels, communication protocols, and physical connectors to ensure interoperability between DC devices from different manufacturers.
+4. DC Fault Current Limiters (FCLs): Active FCLs dynamically reduce fault currents in DC systems, minimizing stress on equipment and improving overall system resilience beyond static breakers.
+5. DC-Based Microgrid Controller: A centralized controller to manage multiple DC microgrids, enabling energy sharing, voltage regulation, and seamless transitions between grid-connected and islanded operation.

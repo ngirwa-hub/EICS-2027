@@ -1,0 +1,9 @@
+1. Fast Charging DC EV Chargers: Rapidly charging electric vehicles using high-powered direct current (DC) charging stations, allowing for more efficient and faster charging times.
+
+2. Intelligent DC Lighting System: An advanced lighting system that utilizes direct current (DC) technology to provide energy savings, improved efficiency, and better control in indoor and outdoor applications.
+
+3. PLC-based DC Control System: A power line communication (PLC)-based control system for direct current (DC) systems, enabling more precise and efficient monitoring and control of electricity distribution in industrial or building environments.
+
+4. High-efficiency DC Motor: An advanced direct current (DC) motor that provides increased efficiency, lower energy consumption, and longer lifespan compared to traditional AC motors.
+
+5. Modular DC Energy System: A flexible and customizable modular energy system that utilizes direct current (DC) technology for efficient power generation, storage, and distribution in various sectors including ports, industry, data centers, and buildings.

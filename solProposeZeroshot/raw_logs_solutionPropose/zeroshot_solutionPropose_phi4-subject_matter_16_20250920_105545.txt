@@ -1,0 +1,9 @@
+1. **DC Microgrid Control Systems**: Advanced control systems for managing and optimizing the operation of DC microgrids in ports and industries. These systems ensure efficient energy distribution and integration of renewable sources while maintaining grid stability.
+
+2. **Renewable Energy Source Integration Module (RESIM)**: A platform that facilitates seamless integration of various renewable energy sources into existing DC infrastructures within data centers, enhancing their sustainability and reducing reliance on conventional power grids.
+
+3. **DC-Powered Electric Vehicle Chargers**: High-efficiency charging stations for electric vehicles using direct current, designed specifically for industrial settings and ports to support the shift towards electrified transportation logistics.
+
+4. **Thermal Energy Storage with DC Integration (TES-DC)**: A system that combines thermal energy storage solutions with DC systems in buildings, allowing excess renewable energy to be stored as heat or cold for later use, enhancing overall energy efficiency.
+
+5. **DC Power Quality Monitoring System**: A comprehensive monitoring tool tailored for data centers and industrial facilities that ensures the quality and stability of DC power supply by detecting and mitigating anomalies such as voltage spikes or harmonic distortions in real-time.

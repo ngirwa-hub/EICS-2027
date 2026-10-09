@@ -1,0 +1,10 @@
+1. Ports: DC-Powered Crane System
+   A system that utilizes DC power for cranes in port operations, reducing energy consumption and increasing efficiency.
+2. Industry: High Power Factor DC Supply
+   An advanced solution for providing high power factor DC supply to industrial processes, improving energy efficiency and reducing energy losses.
+3. Data Centers: Modular DC Infrastructure
+   A modular, scalable DC infrastructure designed for data centers, allowing for efficient power distribution and easy expansion.
+4. Buildings: Smart Lighting Control System
+   An intelligent lighting control system that optimizes energy usage in buildings by automatically adjusting light levels based on occupancy and environmental factors.
+5. Ports: DC Fast Charging Stations
+   A fast-charging station for electric vehicles, designed to charge EVs quickly using high-power direct current technology, reducing charging time and enhancing the user experience.

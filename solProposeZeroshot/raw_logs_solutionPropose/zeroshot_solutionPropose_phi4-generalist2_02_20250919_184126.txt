@@ -1,0 +1,9 @@
+1. **DC Microgrid Controllers**: Centralized or distributed systems that manage and optimize the distribution of power within a DC microgrid, ensuring efficient energy use across ports, industries, data centers, and buildings.
+
+2. **Integrated Renewable Energy Management**: Solutions for efficiently integrating renewable sources like solar panels into existing infrastructure, optimizing energy supply and demand in real-time.
+
+3. **DC-AC Hybrid Systems**: Systems designed to seamlessly integrate both AC and DC systems within an installation, providing flexibility and enhancing efficiency by reducing conversion losses where possible.
+
+4. **Energy Demand Forecasting Tools**: Advanced software tools that predict energy usage patterns in ports, industries, data centers, and buildings to optimize energy distribution and reduce waste.
+
+5. **DC-Powered Smart Sensors**: Low-power sensors that operate directly on DC systems for monitoring environmental conditions or operational parameters, enhancing efficiency and reducing system complexity by eliminating unnecessary conversions.

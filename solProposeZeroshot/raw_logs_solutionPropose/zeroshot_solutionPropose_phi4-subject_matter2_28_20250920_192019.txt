@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A centralized control system for managing and optimizing the distribution and usage of electricity within a DC microgrid, enhancing efficiency in ports, industries, data centers, and buildings.
+
+2. **Integrated DC Solar Inverter**: A device that directly converts solar energy into DC power without intermediate AC conversion steps, improving overall energy capture and reducing losses in industrial applications and building installations.
+
+3. **DC Power Quality Monitoring System**: An advanced monitoring system designed to ensure stable voltage levels and detect anomalies within DC power networks, crucial for sensitive operations in data centers and industrial environments.
+
+4. **Hybrid Energy Storage System (HESS) Interface**: A solution that interfaces multiple energy storage technologies with DC systems, enabling seamless integration of batteries, supercapacitors, or hydrogen fuel cells to enhance reliability and flexibility at ports and large-scale facilities like data centers.
+
+5. **DC Load Balancing Technology**: A system designed to dynamically balance power loads across a network of DC-connected devices, ensuring optimal performance and reducing the risk of overloads in sectors such as industry and building management systems.

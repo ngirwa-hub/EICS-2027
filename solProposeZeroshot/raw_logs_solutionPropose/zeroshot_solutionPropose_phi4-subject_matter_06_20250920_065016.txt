@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A centralized control system for efficiently managing energy distribution and demand response within DC microgrids, optimizing the use of renewable sources in ports, industry, data centers, and buildings.
+
+2. **High-Efficiency Inverter Technology**: Advanced inverters that convert AC to DC with minimal losses, designed to integrate seamlessly into existing infrastructure while enhancing efficiency across all application sectors.
+
+3. **DC-Powered Electric Vehicle (EV) Charging Stations**: Fast-charging solutions for EVs that use direct current, reducing conversion steps and increasing charging speed, suitable for ports and buildings where EV adoption is growing.
+
+4. **Energy Management Software for DC Systems**: A comprehensive software platform enabling real-time monitoring, control, and optimization of energy flows in DC systems, tailored to the unique demands of industry and data centers.
+
+5. **DC Voltage Regulation Units**: Devices that maintain stable voltage levels within DC networks, crucial for protecting sensitive equipment and ensuring reliable operation across all sectors where DC solutions are applied.

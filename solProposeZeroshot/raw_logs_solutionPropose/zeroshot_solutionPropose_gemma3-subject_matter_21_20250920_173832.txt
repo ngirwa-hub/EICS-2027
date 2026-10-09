@@ -1,0 +1,5 @@
+1. DC Power Distribution Units (PDUs): Intelligent PDUs manage and distribute DC power within a facility, offering features like remote monitoring, load balancing, and overcurrent protection.
+2. DC-Based Energy Management System (EMS): A centralized EMS optimizes DC power usage, integrates renewable generation, and manages energy storage, enhancing efficiency and reducing operational costs.
+3. DC-Native Lighting Systems: Utilizing DC LED lighting eliminates AC-DC conversion at the fixture level, reducing losses and simplifying installation in DC-powered buildings.
+4. DC-Coupled Microgrids with Virtual Synchronous Control: Enables improved grid stability and power quality in industrial settings and ports by allowing multiple DC microgrids to operate as a single, coordinated system.
+5. Bidirectional DC Charging Infrastructure: Supports the efficient charging and discharging of electric vehicles within ports and industrial facilities, enabling vehicle-to-grid (V2G) capabilities and energy arbitrage.

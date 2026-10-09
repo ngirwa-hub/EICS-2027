@@ -1,0 +1,9 @@
+1. **DC Port Power Management System**: A management system tailored for ports that optimizes energy distribution and consumption among various DC-powered assets like cranes and lighting systems, enhancing efficiency and reducing waste.
+
+2. **Industrial DC Microgrid Controller**: An intelligent controller designed for industrial environments to manage the generation, storage, and distribution of power within a microgrid using direct current, improving reliability and reducing downtime.
+
+3. **Data Center Cooling Efficiency System**: A system that utilizes DC power directly to operate cooling systems in data centers, minimizing energy conversion losses and enhancing overall energy efficiency compared to traditional AC systems.
+
+4. **Smart Building Energy Management Interface**: An interface for smart buildings that integrates various DC-powered devices and systems, facilitating seamless control over lighting, HVAC, and security systems through direct current, leading to improved energy savings and user comfort.
+
+5. **DC-based Industrial IoT Platform**: A platform that enables the integration of Internet of Things (IoT) devices in industrial settings using direct current for power supply, enhancing real-time monitoring, automation, and data collection capabilities while reducing energy losses from AC-DC conversions.

@@ -1,0 +1,9 @@
+Solution 1: High Voltage Direct Current (HVDC) Fault Current Limiter (FCL): A device that limits the amount of fault current flowing in an HVDC system, reducing the risk of damage and improving system stability during fault conditions, especially important for ports and industry applications.
+
+Solution 2: DC Microgrid Energy Management System (DCEMS): An intelligent system that optimizes energy distribution within a DC microgrid, balancing load demands, managing storage capacity, and minimizing energy losses in data centers and buildings.
+
+Solution 3: Direct Current Arc Fault Protection (DC AFP): A safety measure designed to prevent harmful arcing events during DC power transfer, reducing the risk of fires and system malfunctions, particularly relevant for ports and industry applications.
+
+Solution 4: DC Power Distribution Unit (PDU) with Energy Metering: A modular, intelligent PDU that measures real-time energy consumption within a building or data center, providing detailed energy usage data for monitoring and optimization purposes.
+
+Solution 5: Direct Current Grid Tie Inverter (DC GTI): A device that converts excess DC power from renewable sources into AC power for grid integration, ensuring a stable and efficient electricity supply in ports, industry, data centers, and buildings.

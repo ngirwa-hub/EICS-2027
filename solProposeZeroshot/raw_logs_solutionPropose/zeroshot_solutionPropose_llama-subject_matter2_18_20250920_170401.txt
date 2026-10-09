@@ -1,0 +1,9 @@
+1. Ports: DC Fast Charging Infrastructure for Electric Vehicles: A network of fast-charging stations that utilize direct current (DC) technology to quickly charge electric vehicles (EVs), reducing charging time and improving EV accessibility in ports.
+
+2. Industry: High-Power DC Drives for Motors: The integration of high-power direct current (DC) drives into industrial motors, reducing energy consumption and increasing efficiency in manufacturing processes.
+
+3. Data Centers: Liquid Cooling Systems with Direct Cooling: An innovative liquid cooling system that directly cools DC components in data centers, minimizing energy losses and improving heat management.
+
+4. Buildings: DC LED Lighting System: A direct current (DC) LED lighting system for buildings that offers improved efficiency, longer lifespan, and reduced energy consumption compared to traditional AC systems.
+
+5. Ports: Smart Grid Integration for Intelligent Power Management: An advanced smart grid system that integrates DC technology with renewable energy sources, optimizing power management in ports and reducing energy waste.

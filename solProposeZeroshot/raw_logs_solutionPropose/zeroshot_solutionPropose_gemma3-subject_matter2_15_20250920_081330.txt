@@ -1,0 +1,5 @@
+1. DC-Based Power Distribution Units (PDUs): Intelligent PDUs specifically designed for DC microgrids, offering granular power management, remote monitoring, and efficient distribution to connected devices.
+2. DC-Native Energy Management Systems (EMS): An EMS tailored for DC systems that optimizes energy usage, balances loads, and integrates renewable energy sources, directly within the DC environment.
+3. DC Fault Current Limiting Devices: Specialized devices that actively limit DC fault currents, mitigating damage to equipment and enhancing system safety without relying solely on circuit breakers.
+4. Bidirectional DC Charging Infrastructure: DC fast charging systems for electric vehicles that can also provide grid stabilization services by discharging power back into the DC grid.
+5. DC-Based Microgrid Controller: A sophisticated controller that manages the operation of a DC microgrid, coordinating distributed generation, storage, and load management for optimal performance.

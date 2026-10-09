@@ -1,0 +1,9 @@
+1. **DC Power Quality Management System:** A system designed to monitor and regulate the quality of DC power in ports, industries, data centers, and buildings to ensure reliable and efficient operations without the need for AC conversion.
+
+2. **Modular DC Microgrid Controllers:** These controllers enable flexible integration and management of various DC energy sources and loads within microgrids at ports and industrial sites, enhancing energy efficiency and reducing reliance on traditional grid power.
+
+3. **DC Optimized Cooling Systems:** Energy-efficient cooling solutions tailored for data centers that leverage direct current to improve thermal management and reduce energy consumption compared to AC-powered systems.
+
+4. **Energy Management Software for DC Applications:** A comprehensive software tool that facilitates the planning, monitoring, and optimization of DC energy usage across buildings, helping stakeholders maximize sustainability and cost savings.
+
+5. **DC-Powered Electric Vehicle (EV) Charging Stations:** Infrastructure solutions providing fast-charging capabilities for electric vehicles using direct current, particularly beneficial in ports and industrial areas to support electrified logistics and transportation systems.

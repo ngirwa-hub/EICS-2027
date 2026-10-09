@@ -1,0 +1,9 @@
+1. **DC Charging Infrastructure for Ports**: Development of fast and efficient DC charging stations specifically designed for electric vessels and port vehicles, enhancing operational efficiency and reducing emissions at ports.
+
+2. **Industrial Process Power Optimizer**: A device that optimizes the use of direct current in industrial processes to reduce energy waste and increase process efficiency through tailored power delivery systems.
+
+3. **Data Center DC Backbone Network**: Establishing a robust DC backbone network within data centers, minimizing AC-DC conversion losses, improving energy efficiency, and supporting high-performance computing needs.
+
+4. **Building Energy Management System (BEMS) with DC Integration**: A smart system that manages building energy consumption by integrating various DC-powered systems like lighting, HVAC, and appliances for optimized performance and lower energy use.
+
+5. **Renewable DC Microgrid for Buildings**: Implementation of small-scale microgrids powered directly by renewables such as solar panels, offering buildings increased resilience and sustainability through localized power generation and reduced reliance on AC grids.

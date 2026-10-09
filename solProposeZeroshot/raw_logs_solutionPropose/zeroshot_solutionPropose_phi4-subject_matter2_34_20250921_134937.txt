@@ -1,0 +1,14 @@
+1. **DC Microgrid Management System: Advanced software platform**  
+   This system optimizes and manages the distribution of power within a DC microgrid, ensuring efficient energy use across ports, industrial sites, data centers, and buildings.
+
+2. **Integrated Renewable Energy Interface: Seamless integration module**  
+   Facilitates direct connection and synchronization of renewable energy sources like solar panels and wind turbines with existing DC infrastructure in various sectors.
+
+3. **DC Smart Inverters for PV Systems: Optimized conversion technology**  
+   Enhances the efficiency of photovoltaic systems by converting generated power directly to DC, reducing losses associated with AC-DC conversions.
+
+4. **DC Power Quality Monitoring System: Comprehensive analysis tool**  
+   Monitors and maintains high-quality DC power delivery in critical sectors like data centers, helping prevent equipment damage and improve reliability.
+
+5. **Modular DC Energy Storage Solutions: Scalable storage units**  
+   Offers flexible, scalable energy storage options tailored for use in ports, industry, and buildings, ensuring reliable power supply during peak demands or outages.

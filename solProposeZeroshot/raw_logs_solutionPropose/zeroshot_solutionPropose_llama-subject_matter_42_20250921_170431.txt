@@ -1,0 +1,9 @@
+1. Solar PV Tracking System: A system that uses advanced tracking technology to optimize solar photovoltaic (PV) panel orientation and maximize energy generation for ports, industry, data centers, and buildings.
+
+2. Energy Management System: An integrated platform that manages the DC energy grid in real-time, balances demand and supply, and ensures reliability for ports, industry, data centers, and buildings.
+
+3. Flexible AC Transmission System (FACTS): A technology that allows DC systems to interface with existing AC power grids, improving voltage control and stability for ports, industry, data centers, and buildings.
+
+4. DC-DC Converter Battery Backup: A system that provides backup power to critical loads in the event of a grid outage, ensuring uninterrupted operations for data centers and buildings.
+
+5. DC Smart Grid Infrastructure: A modular DC grid infrastructure that enables seamless integration of renewable energy sources, storage systems, and energy-efficient appliances for ports, industry, data centers, and buildings.

@@ -1,0 +1,5 @@
+1. DC-Based Power Delivery for Automated Guided Vehicles (AGVs): Enables direct power delivery to AGVs within ports and industrial facilities, reducing AC-DC conversion losses and improving operational efficiency.
+2. Modular DC Distribution Boards: Provides a scalable and flexible DC distribution system for buildings and data centers, allowing for easy expansion and reconfiguration as loads change.
+3. DC-Native UPS Systems: Offers uninterruptible power supply functionality directly in DC, avoiding unnecessary AC-DC conversions and improving overall system efficiency for critical loads in data centers and industrial processes.
+4. High-Efficiency DC Lighting Systems: Utilizes DC lighting technologies, like LED lighting, directly powered by DC sources, reducing losses associated with AC-DC conversion and improving energy efficiency in buildings and ports.
+5. DC-Based Wireless Power Transfer (WPT) for Industrial Automation: Facilitates wireless power transfer for automated processes within industrial environments, eliminating the need for physical connections and improving flexibility.

@@ -1,0 +1,9 @@
+1. **DC Power Quality Management System:** A system designed to maintain stable and high-quality DC power supply in ports, industries, data centers, and buildings by mitigating voltage sags, swells, and harmonics.
+
+2. **Modular DC Energy Storage:** Portable and scalable battery units that can be easily integrated into existing infrastructure across various sectors to enhance energy reliability and reduce dependency on AC systems.
+
+3. **DC Smart Grid Interface:** A platform that facilitates seamless integration of multiple renewable sources directly into a DC-based smart grid, optimizing efficiency in power distribution for industrial applications and buildings.
+
+4. **Energy Management Software for DC Systems:** Customized software solutions to optimize and monitor the energy consumption and production of DC-powered systems in data centers and industries, ensuring efficient resource use.
+
+5. **DC Heat Pump Technology:** A solution that leverages direct current to drive heat pumps, providing energy-efficient heating and cooling for buildings and industrial processes without requiring AC conversion.

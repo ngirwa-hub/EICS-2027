@@ -1,0 +1,5 @@
+1. Smart and Sustainable DC Cables: These cables are designed with advanced insulation materials that increase thermal stability, reduce energy losses, and enhance environmental sustainability.
+2. Energy-Efficient DC Connectors: Equipped with smart sensors and intelligent control systems, these connectors optimize power transmission by detecting cable resistance and reconfiguring the system for optimal performance.
+3. Advanced Static Protection System: This solution features a modular design that enables easy installation, maintenance, and upgradeability of protection devices to ensure reliable and secure DC power distribution.
+4. Innovative Semiconductor-Based Circuit Breaker: A compact and lightweight device that utilizes advanced semiconductors to detect fault currents and provide quicker response times compared to traditional circuit breakers.
+5. Real-Time Protection DC System Design Tool: This software tool enables engineers to design customized protection systems tailored for specific applications, such as ports, industry, data centers, and buildings, to ensure optimal system performance and reliability.

@@ -1,0 +1,9 @@
+1. **DC-Powered Electric Vehicle Chargers**: Infrastructure that uses direct current for fast charging electric vehicles at ports and buildings, reducing downtime and enhancing efficiency.
+
+2. **Industrial Process Integration**: A system allowing the direct use of DC power in industrial processes, minimizing energy losses associated with AC-DC conversion.
+
+3. **Data Center Thermal Management System**: Utilizing waste heat from data centers to provide heating for nearby facilities via a DC network, improving overall energy efficiency.
+
+4. **Smart Building Energy Management**: A platform that optimizes the use of DC-powered devices within buildings, enabling more efficient energy consumption and integration with renewable sources.
+
+5. **DC Microgrid for Remote Sites**: A self-contained power system that uses direct current to provide reliable electricity to remote or off-grid sites in industries such as mining operations.

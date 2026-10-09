@@ -1,0 +1,9 @@
+Solution 1: DC Grid Integration for Ports: Implementing a centralized DC grid at ports to streamline electrical distribution, reduce energy loss during conversion and increase the capacity for electric vessels.
+
+Solution 2: Modular DC Power Supply for Industry: Deployable modular DC power supply systems that offer scalability and customization for various industrial applications, reducing downtime and improving overall efficiency.
+
+Solution 3: DC Microgrids for Data Centers: Implementing DC microgrids in data centers to decrease conversion losses, improve resilience, and ensure uninterrupted power supply during peak usage or emergencies.
+
+Solution 4: Smart Building Energy Management Systems (BEMS) with DC Capability: A BEMS capable of managing both AC and DC loads within buildings for optimal energy use, lowering operational costs, and reducing carbon footprint.
+
+Solution 5: On-site Renewable Energy Generation for Buildings with Direct Current: Implementing on-site renewable energy generation, such as solar panels or wind turbines, directly generating DC power for buildings, bypassing AC conversion losses.

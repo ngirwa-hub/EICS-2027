@@ -1,0 +1,9 @@
+1. Smart and sustainable DC cables: A cutting-edge innovation that reduces energy losses in DC systems by using advanced materials and geometries, improving overall efficiency.
+
+2. Portable Energy Storage: A mobile solution for energy storage, allowing ports to store excess energy generated from renewable sources like solar or wind power.
+
+3. DC Microgrids at Industrial Parks: An integrated system that combines multiple industrial facilities into a single microgrid, optimizing energy use and reducing costs.
+
+4. Efficient Data Center Cooling: A direct DC cooling system for data centers that eliminates the need for AC-based chillers, significantly lowering energy consumption and carbon footprint.
+
+5. Building Automation with DC Technology: An intelligent building management system that leverages DC technology to optimize energy use and increase occupant comfort, without sacrificing efficiency.

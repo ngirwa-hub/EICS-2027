@@ -1,0 +1,9 @@
+1. **DC Microgrid Control System**: A centralized or decentralized control system for managing energy flows within a DC microgrid, optimizing power distribution and enhancing grid reliability in ports and buildings.
+
+2. **DC Power Quality Monitoring**: Tools and devices specifically designed to monitor the quality of DC power supply, ensuring stable voltage levels and minimizing harmonic distortion in industrial settings and data centers.
+
+3. **Hybrid AC-DC Distribution Network**: An integrated system that combines both AC and DC distribution networks, allowing for more flexible energy management and efficient use of renewable sources in ports and buildings.
+
+4. **DC-Powered Electric Vehicle (EV) Charging Stations**: Dedicated charging infrastructure using DC power to reduce conversion losses and improve charging efficiency at ports and commercial areas within cities.
+
+5. **Renewable Energy Source Integration**: Technologies facilitating the direct connection of renewable energy sources, such as solar panels or wind turbines, into existing DC grids in industries and data centers for improved sustainability.

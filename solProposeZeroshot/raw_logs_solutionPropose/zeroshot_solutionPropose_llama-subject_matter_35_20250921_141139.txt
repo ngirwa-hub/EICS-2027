@@ -1,0 +1,9 @@
+1. Ports: High Power DC Grid Connection: A system that enables efficient power transfer between the DC grid and high-power port equipment, reducing energy losses and enhancing grid stability.
+
+2. Industry: DC Grids for Large-Scale Manufacturing: The integration of DC grids in large-scale manufacturing facilities to optimize energy efficiency and reduce production costs through direct current power transmission.
+
+3. Data Centers: DC Power Distribution System: A system that utilizes direct current for power distribution within data centers, reducing energy losses and increasing efficiency while maintaining high levels of reliability.
+
+4. Buildings: DC Microgrids for Smart Buildings: The integration of DC microgrids in buildings to enable localized energy management, optimizing energy consumption and reducing dependence on centralized power systems.
+
+5. Industry: DC Fault Current Limiters: A device that regulates the fault current in DC grids, preventing overloads and ensuring a stable operation of the electrical system while maintaining high protection levels.

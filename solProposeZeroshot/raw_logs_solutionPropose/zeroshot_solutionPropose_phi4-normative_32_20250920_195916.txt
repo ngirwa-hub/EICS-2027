@@ -1,0 +1,14 @@
+1. **DC Microgrid Management System:**
+   A platform for optimizing and managing energy distribution within microgrids, enhancing efficiency in ports, industry, data centers, and buildings by ensuring seamless integration of renewable energy sources and storage systems.
+
+2. **DC Power Quality Monitor:**
+   An advanced monitoring system that ensures the stability and reliability of DC power in various sectors by detecting anomalies and maintaining optimal voltage and current levels across the network.
+
+3. **Hybrid AC/DC Grid Interface:**
+   A solution designed to facilitate seamless interaction between existing AC grids and emerging DC systems, enabling smoother transitions for ports, industrial facilities, data centers, and buildings towards more sustainable energy use.
+
+4. **Renewable Energy Optimized Inverter:**
+   An inverter specifically engineered for DC systems that maximizes the conversion efficiency of renewable sources such as solar and wind, particularly beneficial for industries with high energy demands or data centers aiming to reduce their carbon footprint.
+
+5. **DC-Powered Smart Building Interface:**
+   A control system tailored for smart buildings that uses DC power to enhance energy management, integrating various building systems (e.g., lighting, HVAC) more efficiently to optimize performance and reduce overall energy consumption.

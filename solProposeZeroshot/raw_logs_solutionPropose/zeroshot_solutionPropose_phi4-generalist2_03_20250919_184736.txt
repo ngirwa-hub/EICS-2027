@@ -1,0 +1,9 @@
+1. **DC Microgrid for Ports**: A localized energy distribution system that uses direct current to efficiently supply power across port facilities, reducing reliance on traditional AC grids and enhancing energy resilience.
+
+2. **Industrial DC Power Distribution System**: A specialized infrastructure designed to distribute electricity in industrial settings using DC technology, improving efficiency by minimizing conversion losses between machines operating at different voltage levels.
+
+3. **Data Center DC Optimization Module**: An advanced system module that optimizes the use of direct current within data centers, reducing energy loss and heat generation associated with AC-DC conversions for servers and cooling systems.
+
+4. **DC Charging Infrastructure for Buildings**: A network of charging stations integrated into building power systems to support electric vehicles using direct current, enhancing convenience and efficiency by utilizing existing DC infrastructure.
+
+5. **Resilient DC Backup Power System**: A robust backup energy system for critical applications in buildings that relies on direct current, ensuring continuous operation during outages with fewer conversion steps and higher reliability compared to traditional AC backups.

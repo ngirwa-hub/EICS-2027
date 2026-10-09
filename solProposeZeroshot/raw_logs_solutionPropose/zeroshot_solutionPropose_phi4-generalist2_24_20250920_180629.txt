@@ -1,0 +1,9 @@
+1. **DC Energy Management Systems**: Integrated platforms for optimizing and managing energy use across ports or industrial facilities by monitoring, controlling, and forecasting DC power flows.
+
+2. **DC Solar Inverter Technology**: Advanced inverters designed specifically for DC microgrids that maximize the efficiency of solar panels in converting sunlight directly into usable electricity without unnecessary conversion losses.
+
+3. **DC Power Interface Modules for Data Centers**: Customized interface solutions facilitating seamless integration between different DC voltage levels, enhancing flexibility and reliability in data center operations.
+
+4. **Building-Integrated Photovoltaic (BIPV) with DC Output**: Solar panel systems integrated into building materials such as facades or roofs that deliver power directly to the building's DC load circuits, reducing AC conversion needs.
+
+5. **DC Microgrid Control Systems for Industrial Sites**: Sophisticated control software and hardware setups that manage distributed energy resources within an industrial microgrid, ensuring stable and efficient power distribution.

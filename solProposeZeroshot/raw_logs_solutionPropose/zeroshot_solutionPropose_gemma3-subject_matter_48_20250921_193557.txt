@@ -1,0 +1,5 @@
+1. DC-Based Power Distribution Units (PDUs): Intelligent PDUs specifically designed for DC microgrids, providing power management, metering, and remote control capabilities for connected devices.
+2. Dynamic Voltage Sag Mitigation System: A DC system that rapidly compensates for voltage sags, crucial for sensitive equipment in data centers and industrial processes, preventing downtime and improving reliability.
+3. DC-Native Load Banks: Equipment used for testing DC power supplies and inverters, especially important for ensuring the stability and performance of DC grids in ports and industrial facilities.
+4. High-Efficiency DC Lighting Systems: LED lighting solutions powered directly from DC sources, reducing conversion losses and improving energy efficiency in buildings and ports.
+5. DC-Based Wireless Power Transfer (WPT) System: Enables contactless power delivery for mobile equipment and charging stations within ports and industrial environments, improving operational flexibility.

@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A centralized control system for optimizing the operation and distribution of energy within a DC microgrid, enhancing efficiency in ports, industries, data centers, and buildings.
+
+2. **Energy Demand Forecasting Tool**: Software that predicts energy consumption patterns using AI algorithms, helping industries and data centers plan their energy use more efficiently to reduce costs and improve sustainability.
+
+3. **DC Renewable Energy Integration Module**: A technology facilitating the seamless integration of renewable energy sources like solar panels into existing DC networks in buildings and ports for greater energy efficiency.
+
+4. **DC-Powered HVAC Systems**: Heating, ventilation, and air conditioning systems that operate on direct current to reduce conversion losses and improve energy efficiency in data centers and large industrial facilities.
+
+5. **Smart Building Management System (SBMS)**: A platform leveraging IoT and DC technology to automate and optimize building operations such as lighting, climate control, and power distribution for enhanced sustainability and cost savings.

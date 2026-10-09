@@ -1,0 +1,9 @@
+1. **DC Microgrid Integration Platform**: A software tool that enables seamless integration and management of various DC microgrids within ports, industries, data centers, and buildings to optimize energy use and improve system resilience.
+
+2. **High-Efficiency DC Transformers**: Advanced transformers designed for DC applications to efficiently manage voltage levels across different systems without the need for AC conversion, enhancing overall energy efficiency in industrial settings.
+
+3. **DC-Powered Electric Vehicle Chargers**: Fast-charging infrastructure tailored for electric vehicles using direct current, reducing charging time and improving energy utilization at ports and urban areas.
+
+4. **Thermal Energy Storage Systems with DC Integration**: Solutions that store excess thermal energy generated or collected through renewable sources, utilizing DC systems to maintain efficiency and reliability in data centers and buildings.
+
+5. **DC-Powered Building Automation Systems**: Integrated building management solutions powered by direct current to reduce conversion losses, improve energy savings, and enable smarter control of heating, lighting, and ventilation across various sectors.

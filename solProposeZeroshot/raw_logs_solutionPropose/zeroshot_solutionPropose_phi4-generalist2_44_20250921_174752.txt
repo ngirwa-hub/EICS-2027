@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A comprehensive platform for efficiently managing and optimizing the distribution of DC power across microgrids in ports, industries, data centers, and buildings.
+
+2. **DC Energy Storage Integration**: Facilitates direct integration of battery storage systems with DC networks to enhance efficiency by eliminating AC conversion losses, crucial for stable energy supply.
+
+3. **DC-Powered Electric Vehicle Charging Infrastructure**: An infrastructure solution focusing on deploying fast-charging stations powered by DC technology to support the growing number of electric vehicles at ports and urban centers.
+
+4. **Advanced Thermal Management System for DC Applications**: A system designed to effectively manage heat in high-power DC applications, improving reliability and efficiency in industrial processes and data center operations.
+
+5. **DC-Powered IoT Sensor Networks**: Deploying sensors that operate on DC power within smart buildings and industrial environments to monitor conditions without needing AC-DC conversion, enhancing energy efficiency and reducing complexity.

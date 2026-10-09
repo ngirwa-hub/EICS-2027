@@ -1,0 +1,9 @@
+1. High Efficiency DC Pumps: A system that utilizes brushless DC pumps for water or air handling systems in buildings, data centers and industry. The high efficiency pumps reduce energy consumption and improve environmental performance.
+
+2. Microgrids for Ports: A solution that integrates DC microgrids into ports to improve energy resilience and enable local energy trading among port operators and nearby communities.
+
+3. Energy-efficient DC Lighting Systems: An intelligent lighting system that utilizes semiconductor technology to produce high-efficiency DC lighting systems for various sectors, including data centers, buildings, and ports.
+
+4. Modular Solar Power Plants: A solution that enables the deployment of modular solar power plants in industrial areas or on building rooftops, optimizing energy production and reducing grid dependence.
+
+5. DC-DC Converters for Electric Vehicles: An innovative DC-DC converter technology that efficiently converts electricity from renewable sources to charge electric vehicles used in ports, industry, data centers, and buildings. This technology reduces energy losses during the conversion process, improving efficiency and reducing environmental impact.

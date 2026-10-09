@@ -1,0 +1,14 @@
+1. **DC-Powered Electric Vehicles for Ports:**
+   Deployment of electric vehicles such as cranes and cargo handling equipment powered directly by DC, reducing reliance on AC conversion systems and enhancing energy efficiency at ports.
+
+2. **Industry-Specific DC Power Modules:**
+   Customizable power modules tailored to specific industrial processes, allowing direct integration with existing machinery without the need for AC-DC conversions, thus improving process efficiencies.
+
+3. **Data Center Cold Chain Management via DC:**
+   Integration of cooling systems in data centers that operate directly on DC power, enhancing efficiency by reducing energy losses associated with AC to DC conversion and leveraging waste heat for other processes.
+
+4. **Building Integrated Photovoltaic (BIPV) with DC Systems:**
+   Utilizing building-integrated photovoltaics designed to feed into a DC grid within the building infrastructure, minimizing energy loss from solar generation to consumption through direct DC usage.
+
+5. **DC-Integrated Smart Grid Interfaces:**
+   Development of smart interfaces for grids that manage and optimize energy flows between AC and DC systems in buildings, ensuring seamless integration of renewable sources and enhancing overall system reliability and sustainability.

@@ -1,0 +1,9 @@
+1. Solar PV System: A solar photovoltaic system that uses DC technology to convert sunlight directly into electricity, reducing energy losses during conversion and increasing efficiency.
+
+2. Efficient Lighting: An LED lighting system that utilizes DC technology for efficient energy consumption in port areas, warehouses, and industrial settings.
+
+3. Electric Vehicle Charging Stations: A DC-based charging infrastructure that accelerates the transition to electric vehicles in ports, industry, data centers, and buildings by providing fast and convenient charging options.
+
+4. Grid-Connected Solar Systems: An integrated solar system that feeds energy directly into the grid through DC connectors, reducing the need for AC conversion and minimizing energy losses.
+
+5. Energy Management System: A DC-based energy management system that optimizes energy consumption and storage in data centers and buildings by monitoring and controlling devices, reducing waste and increasing efficiency.

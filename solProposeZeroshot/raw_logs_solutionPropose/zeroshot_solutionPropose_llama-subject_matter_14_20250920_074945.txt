@@ -1,0 +1,5 @@
+1. High-efficiency DC Motor Drive: An innovative drive system that optimizes energy consumption and reduces wear on motors in industrial applications.
+2. Eco-Friendly Ports: A sustainable port infrastructure design that integrates solar panels, energy storage systems, and efficient lighting to reduce emissions and operating costs.
+3. Green Data Centers: An optimized data center layout that maximizes airflow, cooling efficiency, and renewable energy utilization, reducing energy consumption and carbon footprint.
+4. Intelligent Building Management System: A smart building management system that optimizes energy usage through real-time monitoring, predictive maintenance, and automated control systems.
+5. DC Grid for Ships: An innovative power distribution system for ships that utilizes high-voltage DC technology to reduce energy losses and improve energy efficiency in maritime applications.

@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A centralized control system for managing power distribution and optimizing energy usage within a DC microgrid, facilitating efficient integration with renewable sources in ports, industries, data centers, and buildings.
+
+2. **DC Power Quality Analyzer**: An advanced tool designed to monitor and ensure the quality of DC power being distributed in various sectors, crucial for maintaining reliability and performance in sensitive environments like data centers.
+
+3. **Integrated Renewable Energy Management System (I-REMS)**: A comprehensive system for managing renewable energy sources within a DC framework, optimizing their output and integration with existing infrastructure across ports, industries, data centers, and buildings.
+
+4. **DC Fault Detection and Isolation System**: This system rapidly identifies and isolates faults in the DC network to prevent disruptions, enhancing operational safety and reliability in high-demand environments like industrial sectors and data centers.
+
+5. **Energy Storage Integration Platform (ESIP)**: A platform that facilitates seamless integration of various energy storage technologies with DC systems, improving flexibility and resilience for energy management across ports, industries, data centers, and buildings.

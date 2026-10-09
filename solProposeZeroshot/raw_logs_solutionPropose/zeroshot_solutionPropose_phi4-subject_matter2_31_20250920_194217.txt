@@ -1,0 +1,14 @@
+1. **DC Microgrid Management System:**
+   - An advanced control system designed for managing and optimizing the performance of DC microgrids in ports, industries, data centers, and buildings. It ensures efficient energy distribution, integration of renewable sources, and demand response management.
+
+2. **Hybrid AC/DC Power Systems:**
+   - Integrated solutions that allow seamless switching between AC and DC power to enhance operational flexibility and resilience in critical infrastructures like ports and industrial facilities. This system improves efficiency by minimizing conversion losses.
+
+3. **High-Efficiency DC Chargers for Electric Vehicles (EVs):**
+   - Specialized chargers designed to provide fast charging for electric vehicles using direct current, reducing charging times significantly at ports and commercial buildings while supporting the electrification of transportation in urban environments.
+
+4. **DC-Powered HVAC Systems:**
+   - Heating, ventilation, and air conditioning systems that operate on DC power, reducing conversion losses compared to AC-powered systems and improving energy efficiency in data centers and large buildings with constant cooling demands.
+
+5. **DC Power Quality Monitoring Tools:**
+   - Devices and software designed for real-time monitoring and analysis of power quality in DC networks, ensuring reliability and performance in critical applications like data centers where stable power is crucial for operations.

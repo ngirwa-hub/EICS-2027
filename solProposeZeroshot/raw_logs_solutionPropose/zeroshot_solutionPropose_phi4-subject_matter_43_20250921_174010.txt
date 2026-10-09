@@ -1,0 +1,9 @@
+1. **DC Microgrid Integration Platform**: A comprehensive system that enables seamless integration and management of multiple DC sources and loads within ports, industries, data centers, and buildings. This platform enhances operational efficiency by optimizing power distribution and reducing reliance on AC conversion.
+
+2. **Renewable Energy DC Direct Feed Solutions**: Systems designed to directly connect renewable energy sources like solar panels or wind turbines in DC form to the end-use applications in sectors such as ports and industrial facilities. These solutions minimize conversion losses and increase overall system efficiency.
+
+3. **DC-Powered Electric Vehicle Charging Stations**: Specialized charging stations for electric vehicles that operate on DC power, reducing conversion steps from renewable energy sources directly at ports or building sites. This enhances charging speed and energy efficiency while supporting sustainable transportation infrastructure.
+
+4. **Advanced Thermal Management Systems for DC Equipment**: Innovative cooling solutions tailored specifically for DC-powered systems in data centers and industrial settings. These systems improve thermal performance and reliability of DC equipment, ensuring optimal operation under varying load conditions.
+
+5. **DC Lighting Solutions for Buildings**: Energy-efficient lighting systems that utilize DC power directly, eliminating the need for AC-DC conversion losses typical in traditional lighting setups. This solution is particularly beneficial for buildings with integrated solar panels or other renewable energy sources.

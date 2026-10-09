@@ -1,0 +1,9 @@
+1. **DC Microgrid Integration for Ports:** A system that allows the integration of multiple renewable energy sources directly into a port's existing infrastructure using DC microgrids. This reduces conversion losses and enhances energy efficiency at ports.
+
+2. **Industrial DC-AC Hybrid Systems:** A hybrid energy system designed to seamlessly switch between DC and AC power, optimizing industrial processes by utilizing DC systems where they are most efficient while maintaining compatibility with AC-dependent machinery.
+
+3. **Data Center Power Quality Management:** A technology specifically designed for data centers that stabilizes power quality in a DC supply network, ensuring consistent performance of sensitive equipment and reducing downtime due to power fluctuations.
+
+4. **DC-Based HVAC Solutions for Buildings:** Innovative heating, ventilation, and air conditioning systems powered by direct current, which improve energy efficiency and reduce operational costs compared to traditional AC-powered systems.
+
+5. **DC-Driven Electric Vehicle Charging Infrastructure:** A scalable infrastructure solution that directly powers electric vehicle (EV) charging stations with DC, decreasing the need for conversion from AC, thereby speeding up charging times and enhancing user experience in ports and industrial areas.

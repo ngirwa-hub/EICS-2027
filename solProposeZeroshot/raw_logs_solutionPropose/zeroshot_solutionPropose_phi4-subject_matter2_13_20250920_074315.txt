@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: An intelligent platform for monitoring and controlling DC microgrids in ports and industrial areas, optimizing energy distribution and enhancing reliability.
+
+2. **High-Efficiency DC Chargers**: Specialized chargers designed for electric vehicles (EVs) at ports and commercial buildings, providing faster charging with reduced energy losses through direct current systems.
+
+3. **DC-Powered HVAC Systems**: Integration of HVAC systems in data centers and industrial facilities using direct current to improve energy efficiency by reducing conversion stages and associated losses.
+
+4. **Renewable Energy Synchronous Inverters**: Devices that synchronize renewable generation directly into DC grids, facilitating seamless integration of solar and wind power without intermediate AC conversion steps.
+
+5. **DC Power Quality Monitoring Tools**: Advanced tools for real-time monitoring and analysis of voltage, current, and frequency in DC systems within data centers to ensure consistent performance and prevent outages.

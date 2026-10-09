@@ -1,0 +1,10 @@
+1. Ports: DC Powered Cranes
+   - The use of direct current powered cranes can increase efficiency and reduce energy costs in port operations.
+2. Industry: Direct Current Precision Machining
+   - The implementation of precision machining using DC technology can improve accuracy, speed up manufacturing processes and reduce energy consumption.
+3. Data Centers: DC-Based Cooling Systems
+   - Utilizing direct current cooling systems in data centers can offer higher efficiency, reduced electricity bills, and better control over temperature and humidity levels.
+4. Buildings: Direct Current Lighting Systems
+   - Introducing DC lighting systems in buildings allows for more efficient use of energy, easier installation of smart controls, and lower maintenance costs.
+5. Ports, Industry, Data Centers, Buildings: Modular DC Power Systems
+   - Adopting modular direct current power systems provides scalability and flexibility to suit varying energy demands in different sectors, reducing over-provisioning of energy supply.

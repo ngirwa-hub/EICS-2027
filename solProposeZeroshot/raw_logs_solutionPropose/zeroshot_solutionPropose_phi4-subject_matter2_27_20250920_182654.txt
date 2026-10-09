@@ -1,0 +1,14 @@
+1. **DC Power Management System:**
+   An advanced system that optimizes and manages the distribution and consumption of DC power across different sectors such as ports, industry, data centers, and buildings, enhancing energy efficiency and reliability.
+
+2. **Hybrid AC/DC Microgrid:**
+   A scalable microgrid solution that integrates both AC and DC sources to ensure seamless interoperability and flexibility in power supply, particularly useful for industries with diverse energy needs.
+
+3. **DC Energy Storage Integration:**
+   A system designed to integrate battery storage directly with DC networks, reducing conversion losses and providing enhanced reliability and backup solutions for critical operations in ports, data centers, and industrial facilities.
+
+4. **Smart Inverter Technology:**
+   Innovative inverters that facilitate the integration of renewable energy sources into DC grids, improving power quality and enabling better grid management across various application sectors like buildings and industry.
+
+5. **DC-AC Hybrid Distribution Network:**
+   A distribution network model that combines both DC and AC systems to optimize the efficiency of power delivery in complex environments such as ports and industrial complexes, reducing infrastructure costs and enhancing system robustness.

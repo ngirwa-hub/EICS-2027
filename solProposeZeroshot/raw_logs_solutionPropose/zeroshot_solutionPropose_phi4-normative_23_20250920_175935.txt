@@ -1,0 +1,9 @@
+1. **DC-Powered Port Equipment**: Implementing port equipment such as cranes and transport vehicles that operate directly on DC power to reduce conversion losses and enhance energy efficiency in ports.
+
+2. **Industrial Process Integration**: Utilizing DC for industrial processes like welding or electroplating, which can directly benefit from DC's characteristics, reducing the need for AC-DC conversions and improving process efficiency.
+
+3. **Data Center DC Microgrids**: Establishing microgrids within data centers that operate on DC to minimize energy losses during power conversion, improve reliability, and facilitate integration with renewable energy sources like solar panels.
+
+4. **DC-Efficient Building Lighting**: Integrating LED lighting systems designed for direct use of DC power in buildings, especially those powered by rooftop solar installations, to maximize energy efficiency and reduce installation complexity.
+
+5. **Building Energy Management System (BEMS) on DC**: Developing a building management system that operates on DC to optimize the control and distribution of energy within buildings, enhancing sustainability and reducing energy waste.

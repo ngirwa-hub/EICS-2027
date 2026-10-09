@@ -1,0 +1,5 @@
+1. Solar-Powered Ports: Harnessing solar energy for powering ports' operations and equipment, reducing dependency on fossil fuels.
+2. Industrial DC Microgrids: Developing localized microgrids in industries for decentralized energy management and improved efficiency.
+3. Data Center Efficiency: Implementing DC power systems to optimize data center cooling and reduce energy consumption.
+4. DC Smart Lighting System: Using direct current technology to control lighting systems in buildings, providing energy-efficient solutions and better control over lighting needs.
+5. Renewable Energy Hybrid Systems: Developing hybrid power systems combining renewable energy sources with DC technology for optimized energy management in buildings.

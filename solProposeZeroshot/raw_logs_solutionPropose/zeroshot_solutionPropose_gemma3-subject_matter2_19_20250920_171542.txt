@@ -1,0 +1,5 @@
+1. DC-Based Power Distribution Units (PDUs): Intelligent DC PDUs manage power distribution within DC microgrids, offering granular control, monitoring, and load balancing capabilities.
+2. Modular DC Power Plants: Pre-fabricated, scalable DC power plants utilizing renewable sources (solar, wind) can be deployed rapidly to meet fluctuating industrial or port energy demands.
+3. DC-Native Lighting Systems: LED lighting directly powered by DC eliminates AC-DC conversion losses in buildings, improving efficiency and reducing heat generation.
+4. DC-Powered Robotics and Automation: Direct DC power for industrial robotics and automation systems reduces conversion losses and allows for more efficient integration with DC microgrids.
+5. Dynamic DC Load Shedding: An automated system that prioritizes critical DC loads and sheds non-essential loads during periods of high demand or grid instability.

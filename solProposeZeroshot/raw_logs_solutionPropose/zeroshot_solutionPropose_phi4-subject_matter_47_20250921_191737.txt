@@ -1,0 +1,9 @@
+1. **DC Microgrid Control Systems:** Advanced control systems that manage the distribution and stability of DC microgrids in various sectors such as ports and data centers, enhancing efficiency and reliability.
+
+2. **DC Renewable Energy Integration Platform:** A platform designed for seamless integration of solar panels and wind turbines with existing infrastructure to directly supply DC power, reducing conversion losses particularly beneficial in industrial settings.
+
+3. **Energy Management Software for DC Systems:** Specialized software that optimizes the performance of DC-powered systems by managing energy flow and storage, crucial for data centers aiming for high efficiency and sustainability.
+
+4. **DC Power Quality Monitoring Tools:** Tools designed to continuously monitor and maintain power quality in DC networks within buildings and industries, ensuring compliance with standards and minimizing downtime.
+
+5. **Modular DC Energy Storage Units:** Scalable battery storage solutions tailored for use in ports and industrial applications, allowing flexible energy management and peak shaving directly in DC form.

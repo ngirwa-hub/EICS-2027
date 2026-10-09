@@ -1,0 +1,5 @@
+1. Fast Charge DC System: A DC fast charging system for electric vehicles that uses high-power DC chargers, reducing charging time and increasing throughput at port locations.
+2. Efficient DC HVAC Systems: Highly efficient direct current heating, ventilation, and air conditioning systems for industrial processes or commercial buildings, improving energy efficiency and reducing operational costs.
+3. DC Microgrids in Data Centers: Deploying DC microgrids within data centers to reduce energy losses during power conversion, increase resilience, and enable more efficient use of renewable energy sources.
+4. Smart DC Lighting Systems: Adopting smart direct current lighting systems with sensors and controls in buildings to optimize energy consumption based on occupancy or natural light levels.
+5. Advanced DC Power Quality Control: Implementing advanced power quality control systems for DC grids, ensuring stable voltage levels and minimizing harmonic distortion, particularly important in sensitive industrial applications.

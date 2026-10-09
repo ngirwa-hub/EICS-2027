@@ -1,0 +1,9 @@
+1. **DC Power Distribution System:** A modular and scalable power distribution network designed for seamless integration with renewable energy sources in ports, industry, data centers, and buildings.
+
+2. **Integrated Renewable Energy Management System (I-REMS):** A platform for optimizing the operation of DC systems by integrating solar panels, wind turbines, and storage solutions to enhance efficiency and sustainability across sectors.
+
+3. **DC Power Quality Monitoring Tool:** An advanced monitoring system that ensures consistent power quality in DC networks by detecting and mitigating fluctuations, crucial for sensitive operations like those in data centers.
+
+4. **DC Energy Management Interface (DC-EMI):** A user-friendly interface for managing energy flows within DC systems, allowing users to monitor, control, and optimize energy use across diverse applications in industry and buildings.
+
+5. **Hybrid DC Microgrid Solution:** A versatile microgrid setup that combines renewable generation with DC distribution to support energy resilience and efficiency improvements in ports and industrial settings.

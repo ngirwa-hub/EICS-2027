@@ -1,0 +1,5 @@
+1. DC-Based Power Distribution Units (PDUs): Intelligent PDUs designed for DC microgrids, offering remote monitoring, load balancing, and power quality enhancement within DC systems.
+2. High-Efficiency DC Lighting Systems: LED lighting directly powered by DC sources, bypassing AC-DC conversion and reducing energy waste while enhancing system efficiency.
+3. DC-Native Battery Management System (BMS): A BMS specifically designed for DC microgrids, optimizing battery performance, extending lifespan, and providing advanced grid services.
+4. DC-Coupled Microgrid Controller: A centralized control system managing multiple DC sources, loads, and storage, ensuring stable operation and optimized energy flow in complex DC networks.
+5. Dynamic Voltage Sag Mitigation via DC Storage: Rapid response DC storage systems to address voltage sags, crucial for sensitive equipment in data centers and industrial processes, improving reliability.

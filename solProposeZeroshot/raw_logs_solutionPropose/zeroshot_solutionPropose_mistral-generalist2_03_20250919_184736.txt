@@ -1,0 +1,14 @@
+1. Solution Title: DC Grid Tie Inverter for Ports
+   Brief Explanation: A device that converts the direct current (DC) produced by renewable energy sources in ports (e.g., solar panels or wind turbines) into alternating current (AC) suitable for grid connection, promoting grid integration and stability.
+
+2. Solution Title: DC Distribution System for Industry
+   Brief Explanation: A network that distributes DC power within industrial facilities, reducing energy losses and enabling the efficient use of various renewable energy sources in a single system.
+
+3. Solution Title: DC UPS Systems for Data Centers
+   Brief Explanation: Uninterruptible Power Supply (UPS) systems designed to operate directly with DC power in data centers, improving efficiency and reducing downtime during power outages or grid instability events.
+
+4. Solution Title: Energy Recovery DC System for Buildings
+   Brief Explanation: A system that recovers energy from braking processes (e.g., elevators, air conditioning) in buildings and converts it into DC power, which can be stored or used immediately to offset grid demand.
+
+5. Solution Title: Modular DC Microgrids for Buildings
+   Brief Explanation: Pre-engineered, scalable DC microgrids designed for building-scale applications, enabling the integration of various renewable energy sources and energy storage solutions into a single system that can operate independently from the grid when needed.

@@ -1,0 +1,9 @@
+1. High-Power DC Charging Stations: A solution for electric vehicles at ports and industrial facilities that utilizes high-power DC charging stations, reducing charging time and enhancing overall efficiency.
+
+2. Grid-Connected Solar Panels: Integrating solar panels directly into the electrical grid using DC technology, maximizing energy harvesting and reducing transmission losses in data centers, buildings, and industrial facilities.
+
+3. Flexible DC Power Grids: A system that enables power distribution through flexible AC or DC power grids for ports, industry, data centers, and buildings, providing increased efficiency and reduced operational costs.
+
+4. Multi-Level Converter (MLC) Systems: An innovative solution that integrates MLC systems with DC-DC converters to efficiently convert electrical energy between different voltage levels in various sectors, such as ports, industry, data centers, and buildings.
+
+5. Energy Efficient Lighting Systems: A solution that employs high-efficiency LED lighting connected via DC technology in port terminals, warehouses, and industrial facilities, reducing energy consumption and lowering operational costs.

@@ -1,0 +1,9 @@
+1. Solar Power Integration in Ports: Utilizing solar power for port operations, such as cargo handling and lighting systems. This reduces reliance on fossil fuels and lowers carbon footprint.
+
+2. Wind Turbines in Industry: Installing wind turbines in industrial areas to capture energy from the wind and convert it into DC power for local use or grid integration.
+
+3. Data Center Efficiency: Implementing DC power distribution systems in data centers, reducing energy waste and increasing efficiency by using less AC-DC conversion equipment.
+
+4. Building Energy Management: Deploying DC energy management systems in buildings to monitor, control, and optimize energy use, leading to reduced energy consumption and costs.
+
+5. Battery Storage in DC Microgrids: Integrating battery storage directly with DC microgrids to manage grid stability, balance supply and demand, and ensure reliable power delivery. This reduces the need for AC-DC conversion losses in battery systems.

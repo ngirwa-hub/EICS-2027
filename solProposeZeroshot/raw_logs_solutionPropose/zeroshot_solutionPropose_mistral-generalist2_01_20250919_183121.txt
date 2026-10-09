@@ -1,0 +1,14 @@
+1. Solution Title: Direct Current Grid Integration for Ports:
+   A system designed to convert alternating current from shore-side power supply to direct current, enabling the use of DC-based equipment in ports and reducing energy losses.
+
+2. Solution Title: Modular Power Distribution for Industry:
+   Pre-fabricated, plug-and-play DC power modules that allow easy integration of renewable energy sources into industrial systems, improving efficiency and reducing installation costs.
+
+3. Solution Title: Energy Efficient LED Lighting for Buildings:
+   High-efficiency, direct current compatible LED lighting solutions for buildings, providing substantial energy savings compared to traditional AC lighting systems.
+
+4. Solution Title: DC Charging Infrastructure for Electric Vehicles in Data Centers:
+   A system that enables the charging of electric vehicles within data centers using direct current, optimizing battery efficiency and reducing the need for energy conversion.
+
+5. Solution Title: Power Conditioning and Management Systems for Buildings:
+   Intelligent systems that monitor, control, and optimize the distribution and use of DC power in buildings, improving energy efficiency and grid stability.

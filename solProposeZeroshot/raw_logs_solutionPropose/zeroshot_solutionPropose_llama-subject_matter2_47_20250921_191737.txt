@@ -1,0 +1,9 @@
+1. Ports: High Power DC Converter for Ships: A high-power DC converter system designed specifically for use in ships, allowing for efficient power conversion and distribution throughout the vessel. This solution enables the integration of renewable energy sources onboard, reducing reliance on fossil fuels.
+
+2. Industry: Modular DC Microgrid System: A modular DC microgrid system designed to be easily scaled up or down depending on the specific needs of an industrial site. This solution enables efficient energy management and reduces waste by integrating renewable energy sources with existing infrastructure.
+
+3. Data Centers: DC-DC Conversion for Efficient Cooling: A DC-DC conversion system designed to optimize cooling in data centers, reducing the need for air conditioning while maintaining optimal operating temperatures. This solution enables cost savings and environmental benefits by integrating renewable energy sources with existing cooling systems.
+
+4. Buildings: Smart Building Management System: A smart building management system that integrates DC power systems to optimize energy usage, reduce waste, and improve occupant comfort. This solution enables the integration of renewable energy sources with building automation systems for improved efficiency and reduced environmental impact.
+
+5. Industry: DC Grid Integration for Smart Manufacturing: A DC grid integration system designed specifically for use in smart manufacturing environments, allowing for efficient power distribution and reducing waste through optimized energy management. This solution enables the adoption of renewable energy sources with minimal disruption to existing production processes.

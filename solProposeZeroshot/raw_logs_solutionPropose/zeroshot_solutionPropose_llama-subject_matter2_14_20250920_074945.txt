@@ -1,0 +1,5 @@
+1. Fast Charging DC EV Chargers: A system that enables rapid charging of electric vehicles using high-powered DC chargers, reducing charging time and enhancing the user experience.
+2. DC HVAC Systems: An innovative heating, ventilation, and air conditioning system that uses DC technology for efficient and effective temperature control in buildings, improving energy efficiency.
+3. Smart DC Lighting: A lighting solution that utilizes DC technology to provide more efficient, customizable, and smarter lighting systems in ports, industry, data centers, and buildings.
+4. PVT Water Heaters: An innovative hybrid heating system that integrates photovoltaic (PV) and thermal energy storage (TES), combining solar power generation with efficient water heating for hot water production in commercial and residential buildings.
+5. DC Fuel Cell Buses: A zero-emission public transportation solution that utilizes fuel cells to generate electricity, providing clean and sustainable transportation in ports, industry, data centers, and buildings.

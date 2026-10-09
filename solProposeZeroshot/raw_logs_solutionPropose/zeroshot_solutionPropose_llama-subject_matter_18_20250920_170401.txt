@@ -1,0 +1,5 @@
+1. Solar PV Inverter: An inverter that optimizes the use of solar photovoltaic systems by converting direct current (DC) power from solar panels into alternating current (AC) for port usage.
+2. DC Fast Charging Stations: A system that enables electric vehicles to be charged quickly using direct current (DC) technology, reducing charging time and improving efficiency.
+3. Efficient Lighting System: An LED lighting system that utilizes direct current (DC) power for efficient illumination in buildings, providing energy savings and reduced maintenance costs.
+4. High-Efficiency DC Motors: A type of motor designed to operate on direct current (DC) power, offering higher efficiency and lower energy consumption compared to traditional AC motors in industrial applications.
+5. DC Power Supply for Medical Equipment: A specialized power supply system that utilizes direct current (DC) technology to provide stable and reliable power to critical medical equipment, ensuring optimal performance and patient safety.

@@ -1,0 +1,14 @@
+1. **DC Power Management System: Ports**
+   - A centralized control system that optimizes power distribution and consumption in port operations, enhancing efficiency by coordinating various DC-powered equipment.
+
+2. **High-Efficiency LED Lighting Systems: Buildings**
+   - Implementation of DC-compatible LED lighting systems that reduce energy losses compared to AC conversions, lowering operational costs for building owners.
+
+3. **Inductive Charging Solutions: Industry**
+   - Wireless charging pads or stations for industrial machinery and tools using DC power, increasing convenience and reducing downtime associated with wired charging.
+
+4. **DC Microgrid Integration Platform: Data Centers**
+   - A software platform that integrates various renewable energy sources into a DC microgrid, ensuring reliable and efficient power supply to data centers while minimizing conversion losses.
+
+5. **Energy Harvesting Devices: Buildings/Industries**
+   - Systems that capture ambient energy (e.g., solar or kinetic) to generate DC power for small-scale applications like sensors or lighting within buildings and industrial environments.

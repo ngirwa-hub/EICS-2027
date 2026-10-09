@@ -1,0 +1,9 @@
+1. **DC-Powered Port Equipment**: Specialized equipment designed for ports that operate on direct current, reducing energy losses from AC-DC conversion and enhancing operational efficiency.
+
+2. **Industrial DC Microgrids**: Localized microgrid systems tailored for industrial sites that utilize DC power to streamline energy management, improve reliability, and integrate renewable energy sources more effectively.
+
+3. **Data Center Thermal Management Systems (DCM)**: Advanced cooling solutions specifically designed for data centers powered by DC, enhancing efficiency in thermal regulation without conversion losses associated with AC systems.
+
+4. **Smart Building Energy Management Systems (BEMS-DC)**: Integrated management platforms that optimize the use of DC power within buildings to improve energy efficiency, reduce costs, and enhance occupant comfort through real-time monitoring and control.
+
+5. **DC Charging Infrastructure for Electric Vehicles (EVs)**: Comprehensive charging networks for electric vehicles in ports and industrial areas that utilize direct current, offering faster charging times and reducing infrastructure complexity by avoiding AC-DC conversion stages.

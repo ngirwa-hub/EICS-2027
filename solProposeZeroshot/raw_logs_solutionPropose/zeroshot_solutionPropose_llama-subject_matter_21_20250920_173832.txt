@@ -1,0 +1,5 @@
+1. Efficient DC Power Conversion: A system that optimizes the conversion of AC power to DC power for efficient energy transfer in port and industrial applications.
+2. Modular DC Grid System: A flexible and scalable solution for deploying renewable energy sources in data centers, offering increased capacity and resilience while reducing energy consumption.
+3. Smart Building Lighting Control: An intelligent system that uses DC power to control lighting systems in buildings, providing better energy efficiency and reduced maintenance costs.
+4. High-Efficiency DC Motors: Energy-efficient motors designed for use in industrial equipment, with higher power density and improved torque characteristics compared to traditional AC motors.
+5. Microgrids for Ports: A decentralized system that enables local energy management in ports, reducing reliance on central grid infrastructure and increasing resilience against power outages.

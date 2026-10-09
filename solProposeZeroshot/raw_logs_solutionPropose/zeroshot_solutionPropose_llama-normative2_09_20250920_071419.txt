@@ -1,0 +1,5 @@
+1. Solar PV Inverter: A smart inverter that optimizes solar photovoltaic (PV) systems' energy output and efficiency for different loads in buildings, ports, data centers, and industries.
+2. Energy-efficient DC Motors: Highly efficient electric motors designed specifically for DC power supply, reducing energy consumption and emissions in manufacturing, transportation, and other industrial applications.
+3. Flexible Grid Solutions: DC-based grid solutions that allow for the integration of renewable energy sources and storage systems, enabling more flexible and resilient electricity grids in ports, data centers, buildings, and industries.
+4. Intelligent EV Charging Stations: Advanced DC charging stations that use machine learning algorithms to optimize charging efficiency and reduce charging times for electric vehicles (EVs) at ports, parking lots, and urban areas.
+5. DC-based HVDC Transmission Systems: High-voltage direct current (HVDC) transmission systems that allow for long-distance power transfer and grid integration of renewable energy sources in remote or underutilized regions, benefiting industries, data centers, ports, and buildings.

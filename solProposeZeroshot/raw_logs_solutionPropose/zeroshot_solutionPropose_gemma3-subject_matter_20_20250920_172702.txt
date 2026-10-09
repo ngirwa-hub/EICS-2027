@@ -1,0 +1,5 @@
+1. DC Power Distribution Units (PDUs): Intelligent DC PDUs manage power distribution within DC microgrids, offering features like remote monitoring, load balancing, and surge protection.
+2. DC-Native Energy Management Systems (EMS): These EMS platforms are designed specifically for DC grids, optimizing energy usage, predicting demand, and integrating renewable sources with enhanced efficiency.
+3. Standardized DC Power Interfaces: Establishing open standards for DC power interfaces promotes interoperability between different DC equipment and manufacturers, reducing integration costs and complexity.
+4. DC Fault Current Limiting Devices: These devices restrict fault currents in DC circuits, preventing damage to equipment and improving system safety, especially crucial in industrial and port environments.
+5. Dynamic Voltage Sag Mitigation for DC Loads: A system employing DC voltage sags to ensure sensitive DC loads, like those in data centers or industrial processes, maintain stable operation during grid disturbances.

@@ -1,0 +1,9 @@
+1. **DC-Powered Electric Vehicle Charging Stations**: Infrastructure designed for fast-charging electric vehicles directly with DC power, reducing conversion losses and enhancing charging efficiency in ports and urban areas.
+
+2. **Industrial Process Optimization through DC Integration**: Solutions that integrate DC systems into industrial processes to reduce energy loss from AC-DC conversions, improving overall plant efficiency and reducing operational costs.
+
+3. **Data Center Cooling Systems Using DC Power**: Direct integration of cooling systems with DC power sources in data centers to minimize conversion losses and enhance the reliability and sustainability of IT infrastructure operations.
+
+4. **DC Microgrid for Smart Buildings**: Implementation of local DC microgrids within buildings that connect renewable energy sources directly, improving energy efficiency and reducing reliance on centralized AC grids.
+
+5. **DC-Powered LED Lighting Systems**: Lighting systems specifically designed to operate on DC power, increasing energy efficiency in buildings by eliminating the losses associated with AC-DC conversion.

@@ -1,0 +1,9 @@
+Solution 1: DC Grid Integration for Ports: A centralized DC distribution system designed for ports to efficiently manage and distribute power from multiple renewable energy sources, reducing conversion losses and enabling the integration of electric vessels.
+
+Solution 2: Modular DC Power Systems for Industry: Pre-engineered, standardized, and scalable modular DC power systems for industrial applications, simplifying installation, maintenance, and upgrading while improving energy efficiency.
+
+Solution 3: DC Microgrids for Data Centers: Decentralized DC microgrids specifically designed for data centers to meet high power demands, minimize conversion losses, and ensure uninterrupted power supply during grid outages or peak loads.
+
+Solution 4: Building-Integrated Photovoltaic Systems (BIPV) for Buildings: Solar panels integrated within building materials, such as roofing tiles or facade cladding, to produce DC energy directly while reducing construction costs and enhancing aesthetics.
+
+Solution 5: Energy Storage Solutions for Buildings: On-site DC energy storage systems that store excess renewable energy generated during peak production hours and release it during periods of high demand, ensuring a stable and reliable power supply for buildings.

@@ -1,0 +1,14 @@
+1. **DC Microgrid Integration:**
+   A framework for integrating renewable energy sources directly into existing DC microgrids in ports and industrial sites. This reduces conversion losses by eliminating the need for AC-DC transformations, thus improving efficiency.
+
+2. **DC-based Energy Management System (EMS):** 
+   An advanced system designed to optimize energy usage and distribution within data centers using direct current. It leverages real-time data analytics to enhance operational efficiency and reduce energy costs.
+
+3. **High-Efficiency DC UPS:**  
+   A Uninterruptible Power Supply tailored for buildings that operate directly on DC power, optimizing the use of solar panels and other renewable sources by minimizing conversion losses associated with traditional AC UPS systems.
+
+4. **DC-Powered Electric Vehicle (EV) Charging Stations:**
+   Infrastructure specifically designed to charge electric vehicles using direct current, which can be more efficient than AC charging, particularly for fast-charging applications in ports and industrial complexes.
+
+5. **DC Lighting Systems:**  
+   Energy-efficient lighting solutions utilizing DC power that directly connect with renewable energy sources like solar panels, reducing the need for AC conversion and enhancing overall system efficiency.

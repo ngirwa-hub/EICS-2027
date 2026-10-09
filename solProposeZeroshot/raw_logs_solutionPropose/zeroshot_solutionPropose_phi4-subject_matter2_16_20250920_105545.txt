@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A centralized system for managing and optimizing the performance and reliability of distributed DC microgrids in ports, industry, data centers, and buildings.
+
+2. **DC Voltage Regulation Module**: A module designed to maintain stable voltage levels within DC networks, enhancing the integration efficiency of variable renewable energy sources.
+
+3. **DC Power Quality Monitor**: An advanced monitoring tool that continuously assesss power quality parameters like voltage stability, harmonic distortion, and load balancing in DC grids.
+
+4. **High-Efficiency DC Charging Infrastructure**: A rapid charging solution specifically optimized for DC applications to support electric vehicle fleets in ports and industrial settings, reducing downtime and energy losses.
+
+5. **DC Cooling System Integration**: A cooling system designed to work directly with DC power sources, improving the efficiency of thermal management in data centers and large buildings.

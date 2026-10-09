@@ -1,0 +1,14 @@
+1. **DC Microgrid Integration:**
+   A system that allows seamless integration of renewable energy sources with existing infrastructure in ports and industries, reducing reliance on traditional AC systems.
+
+2. **DC-Powered LED Lighting:**
+   Energy-efficient lighting systems for buildings and data centers using DC power, reducing conversion losses and improving overall efficiency.
+
+3. **High-Efficiency DC Motors:**
+   Advanced motor designs optimized for DC operation, enhancing energy savings in industrial applications by eliminating the need for AC-DC conversion.
+
+4. **DC Charging Infrastructure:**
+   Development of fast-charging stations for electric vehicles using DC power, facilitating quicker charge times and improving sustainability at ports and urban areas.
+
+5. **Thermal Energy Storage (TES) with DC Integration:**
+   Systems that utilize thermal storage solutions integrated with DC power to enhance energy efficiency in buildings by storing excess heat or cold for later use.

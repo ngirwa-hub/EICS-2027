@@ -1,0 +1,9 @@
+1. **DC Power Optimization for Ports**: A system designed to optimize the use of direct current power in port operations, reducing energy losses and improving efficiency by minimizing unnecessary AC-DC conversions.
+
+2. **Industry-Specific DC Motor Drives**: Tailored motor drives that operate directly on DC power for industrial machinery, enhancing performance while decreasing energy consumption and maintenance needs compared to traditional AC motors.
+
+3. **Data Center Power Management System**: A solution focusing on real-time monitoring and management of direct current power usage in data centers to improve efficiency, reduce downtime, and ensure optimal cooling through precise control mechanisms.
+
+4. **DC Load Balancing Technology for Buildings**: Innovative systems that manage DC loads within buildings more effectively, ensuring energy is distributed evenly across various appliances and reducing waste by addressing demand fluctuations directly at the source.
+
+5. **Hybrid Energy Storage Systems (HESS) with DC Integration**: Systems combining different storage technologies such as batteries and supercapacitors to store direct current energy efficiently, providing a balanced approach to energy availability and stability in renewable-heavy environments.

@@ -1,0 +1,9 @@
+1. **DC Microgrid Architecture for Ports**: A modular and scalable power architecture that enables efficient energy distribution and management across port facilities using direct current, reducing conversion losses and improving resilience.
+
+2. **Industrial Process Integration with DC Power**: Systems designed to integrate various industrial processes directly on a DC grid, minimizing the need for AC-DC conversions, thus enhancing process efficiency and reducing operational costs.
+
+3. **Data Center Energy Management System (DCEMS) in DC**: An advanced energy management system tailored for data centers that optimizes power usage and cooling systems using direct current infrastructure to increase overall efficiency and reduce carbon footprint.
+
+4. **Residential DC Power Distribution Units**: Compact distribution units designed for use in buildings, enabling the integration of household appliances operating on DC directly from renewable sources or local storage solutions.
+
+5. **DC-Powered Smart Building Systems**: Integrated building automation systems that operate on DC power to control lighting, HVAC, and other smart devices more efficiently by reducing conversion losses and improving system interoperability.

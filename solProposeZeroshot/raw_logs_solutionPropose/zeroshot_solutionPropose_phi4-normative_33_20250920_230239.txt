@@ -1,0 +1,9 @@
+1. **DC Microgrid Control Systems**: Advanced control systems for managing power distribution and balancing within DC microgrids in ports, enhancing efficiency and reliability.
+
+2. **DC-Powered Electric Vehicle (EV) Charging Stations**: Dedicated charging infrastructure for EVs using DC technology, reducing energy losses during charging in industrial settings.
+
+3. **High-Efficiency DC Lighting Systems**: Energy-efficient lighting solutions powered directly by DC systems to minimize conversion losses in data centers and buildings.
+
+4. **Integrated DC Thermal Management Systems**: Systems that utilize waste heat from DC operations for heating or cooling purposes, improving overall energy efficiency in industrial facilities.
+
+5. **DC-Enabled Smart Grid Interfaces**: Interfaces that facilitate seamless integration of DC technologies with existing smart grid infrastructure, enabling better resource management in ports and urban areas.

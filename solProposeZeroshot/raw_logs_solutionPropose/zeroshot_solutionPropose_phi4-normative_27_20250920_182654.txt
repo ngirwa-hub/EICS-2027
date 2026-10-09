@@ -1,0 +1,9 @@
+1. **DC Microgrid for Ports**: A decentralized energy system tailored specifically for port operations that integrates renewable sources like solar panels and wind turbines, providing efficient power management directly in DC form.
+
+2. **Industrial Process Energy Management System**: An intelligent platform using IoT sensors and AI algorithms to optimize industrial processes by managing energy flows in DC, reducing consumption and enhancing efficiency.
+
+3. **Data Center DC Cooling Integration**: A cooling solution that operates directly on DC, improving energy efficiency by eliminating the conversion losses associated with traditional AC systems used for data center temperature regulation.
+
+4. **Building-Level DC Power Management System**: An integrated system designed to manage and optimize power usage within buildings using a direct current approach, facilitating seamless integration of renewable sources like rooftop solar panels.
+
+5. **DC-Powered Smart Grid Interfaces**: Interfaces that enable seamless communication between smart appliances in various sectors (ports, industry, data centers, buildings) and the DC grid, enhancing energy efficiency and user control over consumption.

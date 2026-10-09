@@ -1,0 +1,14 @@
+1. Solar PV Tracking System: A system that optimizes solar panel orientation for maximum energy production in ports, industry, data centers, and buildings by tracking the sun's movement.
+Explanation: By tracking the sun's position, this system ensures that solar panels are always facing the sun, leading to increased energy output and cost savings.
+
+2. DC Fault Current Limiters: A device that protects electrical systems from overloads during fault conditions in ports, industry, data centers, and buildings.
+Explanation: During power outages or equipment failures, excessive currents can flow through the system, damaging components and potentially causing fires. DC Fault Current Limiters prevent these issues by limiting current levels during fault events.
+
+3. Grid-Connected Wind Turbines: A technology that generates renewable energy for use in ports, industry, data centers, and buildings by integrating wind turbines with the power grid.
+Explanation: By connecting wind turbines directly to the electrical grid, this solution allows for efficient energy generation and integration into existing power systems, reducing reliance on fossil fuels.
+
+4. DC Bus Bars: A system that connects DC components in a modular manner, simplifying installation and maintenance in data centers.
+Explanation: By using bus bars to distribute electrical current, this solution streamlines the process of connecting and managing DC components within a data center, reducing downtime and improving efficiency.
+
+5. DC Lighting Systems: An LED-based lighting system designed specifically for use in ports, industry, data centers, and buildings.
+Explanation: This system offers energy savings through the use of efficient LED bulbs and can be easily integrated with other DC components, creating a cohesive and cost-effective solution for illumination needs.

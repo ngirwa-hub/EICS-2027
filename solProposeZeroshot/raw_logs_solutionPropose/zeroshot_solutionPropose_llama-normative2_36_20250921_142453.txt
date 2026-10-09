@@ -1,0 +1,9 @@
+1. Solar Power System for Ports: A solar power system installed on port infrastructure to reduce dependence on non-renewable energy sources and lower carbon footprint.
+
+2. Energy Efficient Warehouses: DC technology implementation in warehouses that allows for better lighting control, temperature regulation, and power management, resulting in improved energy efficiency and cost savings.
+
+3. Industrial DC Grids: Developing a closed-loop DC grid system for industrial applications to reduce energy losses during conversion from AC to DC power and improve power quality.
+
+4. Smart Building Control with DC Power: Using DC technology to control lighting, HVAC, and other building systems more efficiently and responsively, resulting in reduced energy consumption and costs.
+
+5. Data Center DC Cooling System: Utilizing DC cooling technology for data centers to reduce energy loss during conversion from AC power and improve temperature management and efficiency within the facility.

@@ -1,0 +1,9 @@
+Solution 1: DC Grid Tie Inverter for Ports: A device that converts excess renewable energy from port facilities into DC power for distribution within the port system or export to the grid, improving efficiency and reducing losses.
+
+Solution 2: Direct Current Arc Fault Detection for Industry: A system designed to detect and isolate dangerous arcing faults in DC industrial systems, enhancing safety and reliability.
+
+Solution 3: DC Microgrids for Data Centers: Autonomous DC power distribution networks within data centers, allowing for better energy management, reduced losses, and increased resilience during grid outages.
+
+Solution 4: DC Building Energy Management System (BEMS) for Buildings: An intelligent system that optimizes building energy consumption and demand response by controlling various loads and generating renewable energy sources in a DC format, improving efficiency and sustainability.
+
+Solution 5: Solid-State Power Conditioners for Industry: Compact and efficient power converters that ensure precise voltage and current control in industrial applications, reducing energy losses and increasing system reliability.

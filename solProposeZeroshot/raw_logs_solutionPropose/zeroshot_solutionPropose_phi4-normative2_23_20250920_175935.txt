@@ -1,0 +1,9 @@
+1. **DC-Powered Electric Vehicles for Ports**: Develop charging infrastructure for DC-powered electric vehicles and port machinery, reducing emissions and enhancing energy efficiency.
+
+2. **Industrial Process Optimization using DC Systems**: Implement DC systems to optimize industrial processes by minimizing energy losses and improving the integration of renewable sources directly into production lines.
+
+3. **Data Center Power Management with DC Distribution**: Enhance data center power management through a direct DC distribution system that improves energy efficiency, reduces cooling requirements, and simplifies infrastructure.
+
+4. **DC Microgrid for Resilient Building Energy Supply**: Establish DC microgrids in buildings to enhance resilience against grid outages, improve integration of local renewable generation, and reduce conversion losses.
+
+5. **Renewable DC Source Integration**: Facilitate the direct connection of renewable energy sources (like solar panels) to DC systems, bypassing inefficient AC conversions and enhancing overall system efficiency.

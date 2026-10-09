@@ -1,0 +1,9 @@
+1. **DC-Powered Docking Systems:** Infrastructure that utilizes DC power for charging and operating port equipment directly from renewable energy sources, reducing emissions and enhancing sustainability at ports.
+
+2. **Industrial Process Integration:** Solutions designed to seamlessly integrate industrial machinery with DC power sources, minimizing energy losses and improving operational efficiency through reduced AC-DC conversion.
+
+3. **Data Center Cooling Optimization:** A system that employs DC cooling solutions, such as thermally driven chillers directly powered by DC, increasing energy efficiency and reducing reliance on traditional HVAC systems in data centers.
+
+4. **Residential DC Microgrids:** Implementation of localized DC microgrid systems for buildings to enhance energy resilience, optimize renewable energy use, and reduce conversion losses compared to AC systems.
+
+5. **DC-Powered Smart Lighting:** Deployment of smart lighting solutions powered directly by DC sources in both indoor and outdoor settings, improving energy efficiency and allowing direct integration with solar panels or other renewables.

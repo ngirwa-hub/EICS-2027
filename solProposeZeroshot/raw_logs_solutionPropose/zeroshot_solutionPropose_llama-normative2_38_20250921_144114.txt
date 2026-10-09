@@ -1,0 +1,5 @@
+1. Solar PV System Integration: A system that integrates solar photovoltaic systems directly into DC grids for efficient energy conversion and storage.
+2. Efficient DC Lighting System: An LED lighting solution that utilizes DC technology to provide energy-efficient, high-quality illumination in ports, buildings, industry, and data centers.
+3. Energy-Efficient HVAC Systems: A system that uses direct current for heating, ventilation, and air conditioning in buildings, reducing energy consumption and carbon footprint.
+4. DC Powered Electric Vehicles: An electric vehicle charging solution that utilizes DC power to rapidly charge EVs at ports, industry, data centers, and buildings, improving sustainability and transportation efficiency.
+5. Advanced DC Battery Technology: A new generation of battery technology optimized for direct current grids, providing higher energy density, longer life cycles, and faster charging capabilities in various applications.

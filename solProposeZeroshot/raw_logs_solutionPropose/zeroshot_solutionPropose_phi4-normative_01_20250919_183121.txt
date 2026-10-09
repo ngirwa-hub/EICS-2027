@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System:** A platform for optimizing the operation and integration of various DC power sources and loads within microgrids in sectors like ports and data centers, enhancing efficiency and reliability.
+
+2. **DC-Powered Electric Vehicles (EV) Charging Stations:** Infrastructure enabling fast charging of electric vehicles directly from a DC grid, reducing energy conversion losses and supporting sustainable transportation at industrial sites and urban areas.
+
+3. **Integrated Photovoltaic-DC Systems for Buildings:** Solutions that combine photovoltaic systems with DC power distribution within buildings, minimizing conversions between AC and DC and maximizing renewable energy utilization efficiency.
+
+4. **DC-Powered HVAC Systems for Data Centers:** Systems designed to operate heating, ventilation, and air conditioning directly from a DC source, reducing conversion losses and improving the energy efficiency of data centers.
+
+5. **Modular DC Power Distribution Units (PDUs):** Compact units that distribute power efficiently within industrial environments or data centers, allowing scalability and flexibility in managing DC loads without converting to AC.

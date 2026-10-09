@@ -1,0 +1,5 @@
+1. DC Microgrids for Ports: A localized DC microgrid that integrates renewable energy sources and energy storage systems, providing resilient power supply for port operations.
+2. DC-Based Lighting System for Industry: An LED lighting system with direct current technology, reducing energy consumption and maintenance costs in industrial settings.
+3. DC Energy Efficient Cooling Systems for Data Centers: A cooling system that utilizes DC technology to improve efficiency and reduce energy consumption in data centers.
+4. DC-Based Building Management System: An intelligent building management system that operates using direct current technology, enabling efficient control of lighting, HVAC, and other building systems.
+5. DC EV Charging Infrastructure for Buildings: A network of direct current electric vehicle charging stations within buildings or parking lots, promoting the use of electric vehicles and reducing dependence on fossil fuels.

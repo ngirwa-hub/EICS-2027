@@ -1,0 +1,9 @@
+Solution 1: Direct Current Power Distribution System for Ports: A modular, efficient, and scalable power distribution system designed specifically for port infrastructure, reducing energy losses and improving operational flexibility.
+
+Solution 2: DC Microgrids for Industry: Decentralized power generation and distribution systems within industrial facilities that provide reliable, clean, and resilient electricity supply, reducing reliance on the grid and minimizing energy costs.
+
+Solution 3: DC Electric Vehicle Charging Stations for Ports: High-power charging stations equipped with DC fast charging technology, enabling rapid charging of electric vehicles (EVs) at ports and reducing charging times significantly.
+
+Solution 4: Energy Management System for Data Centers: An intelligent energy management system that optimizes power usage in data centers by managing load distribution, demand response, and energy storage for improved efficiency and reduced costs.
+
+Solution 5: DC Power-over-Ethernet (PoE) for Buildings: A technology that delivers both data and electrical power over standard Ethernet cabling, simplifying the installation process while offering a more efficient and reliable solution for smart buildings' electrical needs.

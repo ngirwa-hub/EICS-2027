@@ -1,0 +1,5 @@
+1. DC Power Distribution Units (PDUs): Intelligent DC PDUs manage power distribution within DC microgrids, providing monitoring, control, and load balancing capabilities for enhanced efficiency and reliability.
+2. Dynamic Voltage Sag Mitigation System: This system uses DC-DC converters to rapidly compensate for voltage sags in DC grids, critical for sensitive equipment in data centers and industrial processes.
+3. DC-Based Wireless Power Transfer (WPT) System: Enables contactless power delivery within buildings and ports, useful for charging electric vehicles, powering sensors, and reducing cabling complexity.
+4. DC-Native Energy Management System (EMS): A specialized EMS designed for DC grids, optimizing energy usage, predicting load profiles, and integrating renewable energy sources with high efficiency.
+5. DC-Based Microgrid Controller: This controller manages the operation of DC microgrids, coordinating distributed generation, storage, and loads to ensure stable and efficient power delivery across ports and industrial facilities.

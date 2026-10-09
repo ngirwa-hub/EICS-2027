@@ -1,0 +1,14 @@
+Solution 1: High Voltage Direct Current (HVDC) Grid Tie Inverter:
+A system that converts excess renewable energy generated in ports, industry, data centers, and buildings into high voltage DC for transmission over long distances, improving efficiency and reducing line losses.
+
+Solution 2: DC Microgrid Controller:
+A device that manages the distribution of power within a DC microgrid in buildings, optimizing load balancing, energy storage, and grid stability while ensuring safe operation.
+
+Solution 3: Direct Current Arc Fault Detection and Mitigation System:
+An automated system designed to detect and suppress dangerous arcs that may occur during DC cable faults or maintenance, ensuring safety and minimizing downtime in ports, industry, data centers, and buildings.
+
+Solution 4: DC-AC Power Converter for Energy Storage:
+A device that converts DC energy stored from renewable sources into AC power for grid connection or backup purposes in ports, industry, data centers, and buildings, improving grid integration and resilience.
+
+Solution 5: DC Integrated Solar Tracking System:
+A solar panel tracking system optimized for direct current operation, maximizing energy production in ports, industry, data centers, and buildings by following the sun's movement throughout the day.

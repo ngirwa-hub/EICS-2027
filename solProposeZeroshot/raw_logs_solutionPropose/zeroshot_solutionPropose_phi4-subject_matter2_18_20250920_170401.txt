@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A software platform for managing and optimizing the performance of DC microgrids in ports, ensuring efficient energy distribution and integrating renewable sources seamlessly.
+
+2. **High-Efficiency DC Lighting Systems**: Advanced lighting systems designed specifically for data centers that operate directly on DC power to reduce conversion losses and improve energy efficiency.
+
+3. **DC-Powered HVAC Solutions**: Heating, ventilation, and air conditioning systems operating directly on DC power in buildings, enhancing energy savings by eliminating AC-DC conversions.
+
+4. **Industrial Process Direct Drive Systems**: Equipment designed to run industrial processes directly from DC sources, optimizing energy use and reducing the need for costly conversion stages.
+
+5. **Renewable Energy Source Synchronization Tool**: A tool that aids in synchronizing renewable energy sources such as solar panels and wind turbines with existing DC systems in industry settings, improving reliability and integration efficiency.

@@ -1,0 +1,9 @@
+1. **DC Power Management System**: A centralized control system for managing and optimizing the distribution of direct current power across various applications in ports, industries, data centers, and buildings.
+
+2. **DC-Powered Electric Vehicle (EV) Charging Stations**: Infrastructure designed specifically for DC charging that provides faster charging times for electric vehicles used in port operations or industrial fleets.
+
+3. **Integrated DC Lighting Systems**: Energy-efficient lighting systems powered by direct current to reduce conversion losses and improve efficiency in data centers and buildings.
+
+4. **DC-Optimized HVAC Systems**: Heating, ventilation, and air conditioning systems tailored to run on DC power, enhancing energy savings and reducing operational costs in industrial and building environments.
+
+5. **Hybrid Renewable Energy Systems (HRES) with DC Integration**: Systems that combine solar panels or wind turbines with direct current technology for seamless power distribution and storage within data centers or buildings.

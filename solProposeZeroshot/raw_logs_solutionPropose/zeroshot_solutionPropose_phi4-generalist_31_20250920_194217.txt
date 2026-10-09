@@ -1,0 +1,9 @@
+1. **DC Microgrid Control Systems**: Advanced control systems that manage and optimize the operation of DC microgrids in ports, industries, data centers, and buildings to ensure efficient energy distribution and reliability.
+
+2. **Energy Management Software for DC Networks**: Software solutions designed to monitor, analyze, and optimize energy usage within DC networks across various sectors, enhancing operational efficiency and reducing costs.
+
+3. **DC-Powered Lighting Systems**: Efficient lighting systems powered directly by DC that minimize conversion losses and improve energy savings in industrial facilities and data centers.
+
+4. **Integrated DC Renewable Energy Sources**: Solutions that seamlessly integrate renewable energy sources like solar panels into existing DC infrastructure to boost sustainable energy use in buildings and industries.
+
+5. **DC Load Balancing Technology**: Systems that dynamically balance loads within a DC network, enhancing stability and reducing the risk of outages in critical environments such as data centers and industrial plants.

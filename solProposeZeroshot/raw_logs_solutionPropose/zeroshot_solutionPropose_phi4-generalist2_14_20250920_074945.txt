@@ -1,0 +1,9 @@
+1. **DC Microgrid System for Ports**: A decentralized energy system that integrates renewable sources and battery storage to provide reliable power directly in port areas, reducing reliance on traditional grid supply.
+
+2. **Industrial DC Power Distribution Unit**: A solution designed to efficiently distribute DC power within industrial facilities, minimizing conversion losses and enhancing overall energy efficiency.
+
+3. **Data Center DC-Powered Cooling System**: An integrated cooling system for data centers that utilizes direct current for more efficient operation of cooling equipment, leading to reduced energy consumption.
+
+4. **DC-Integrated Building Management System**: A control system for buildings that manages various DC-powered devices directly, improving energy management and reducing conversion-related inefficiencies.
+
+5. **Offshore Wind Turbine DC Connection Module**: A module enabling the direct connection of offshore wind turbines to port facilities using DC technology, enhancing energy transfer efficiency and simplifying infrastructure requirements.

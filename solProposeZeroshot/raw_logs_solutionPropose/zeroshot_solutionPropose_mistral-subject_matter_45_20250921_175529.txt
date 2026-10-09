@@ -1,0 +1,9 @@
+Solution 1: DC Grid Integration for Ports: A system that allows ports to transition from AC to DC power distribution, reducing transmission losses and enabling efficient handling of electric vessels and shore-side equipment.
+
+Solution 2: DC Microgrids for Industrial Applications: Decentralized DC power systems designed for industrial facilities, providing reliable power supply during grid outages and reducing energy losses in long cable runs.
+
+Solution 3: DC Power Supply for Data Centers: Direct current power distribution within data centers, improving power efficiency and reducing conversion losses, leading to cost savings and increased reliability.
+
+Solution 4: Building-integrated Photovoltaic (BIPV) Systems with DC Output: Solar panels integrated into building facades or roofs, generating DC electricity that can be directly used for on-site consumption without the need for AC conversion.
+
+Solution 5: DC Power Busbar Systems for Buildings: A high-capacity, low-loss DC power distribution system for large buildings, reducing the number of connections and improving overall efficiency compared to traditional AC systems.

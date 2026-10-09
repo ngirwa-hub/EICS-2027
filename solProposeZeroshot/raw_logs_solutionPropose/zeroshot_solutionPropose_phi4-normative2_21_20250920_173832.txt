@@ -1,0 +1,9 @@
+1. **DC Port Lighting System**: An energy-efficient lighting system specifically designed for ports that operates on direct current, reducing conversion losses and enhancing overall port sustainability.
+
+2. **DC-Powered Industrial Machinery Interface**: A platform allowing industrial machinery to be directly powered by DC sources, minimizing the need for AC-DC conversions and thereby increasing efficiency and reducing operational costs.
+
+3. **Data Center Thermal Management via DC**: A cooling solution tailored for data centers that leverages DC-powered thermal management technologies to improve energy efficiency and reduce heat-related inefficiencies.
+
+4. **DC Home Appliance Integration System**: An integration platform enabling residential buildings to directly connect appliances to DC power sources, which reduces conversion losses and simplifies the transition to a DC-based home energy system.
+
+5. **DC-Based Building Management Systems (BMS)**: A comprehensive building management system that operates on direct current to streamline various building operations such as lighting, HVAC, and security systems for improved energy efficiency and reduced operational costs.

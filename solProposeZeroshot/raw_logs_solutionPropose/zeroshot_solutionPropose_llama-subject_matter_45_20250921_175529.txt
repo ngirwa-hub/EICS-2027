@@ -1,0 +1,9 @@
+1. Solar PV Tracking System: A system that uses advanced sensors and algorithms to automatically adjust the orientation and tilt of solar photovoltaic panels based on weather and seasonal changes, increasing energy yield.
+
+2. Energy Storage Backup Power Supply: A solution that integrates battery storage systems with backup power generators in ports, industry, data centers, and buildings to ensure uninterrupted operations during grid outages or emergencies.
+
+3. DC Microgrids for Islanded Operations: A system that enables port facilities, industrial plants, data centers, and buildings to operate independently of the main power grid in remote locations, reducing dependence on centralized power distribution networks.
+
+4. DC Smart Grid Integration: A solution that integrates DC smart grids with existing AC grids, facilitating the exchange of energy and ancillary services between different regions and sectors, and optimizing the overall energy system.
+
+5. Hybrid Power Systems for Ports: A combination of renewable energy sources (e.g., solar, wind) with energy storage systems and backup power generators to provide reliable and sustainable power supply for port operations.

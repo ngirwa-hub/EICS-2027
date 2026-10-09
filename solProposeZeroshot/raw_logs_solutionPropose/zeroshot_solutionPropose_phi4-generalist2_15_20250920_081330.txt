@@ -1,0 +1,14 @@
+1. **DC Power Distribution System for Ports:**
+   A system that enhances port operations by directly distributing power through DC networks, reducing energy conversion losses and improving overall efficiency.
+
+2. **Industrial Process Optimization with DC Integration:**
+   This solution involves tailoring industrial processes to utilize direct current, minimizing the need for AC-DC conversions, which leads to lower operational costs and improved process reliability.
+
+3. **Data Center Energy Efficiency Enhancement using DC Power:**
+   A strategy that leverages DC power directly within data centers to reduce conversion losses from AC to DC, thereby increasing energy efficiency and reducing cooling requirements.
+
+4. **Building-Level DC Microgrid Implementation:**
+   This involves setting up microgrids at the building level powered by DC, enhancing energy management through direct use of renewable sources like solar panels, and improving resilience during power outages.
+
+5. **DC Power Quality Monitoring System:**
+   A tool designed to continuously monitor the quality of DC power in various applications such as ports and industrial settings, ensuring stable and efficient operation while identifying issues before they escalate.

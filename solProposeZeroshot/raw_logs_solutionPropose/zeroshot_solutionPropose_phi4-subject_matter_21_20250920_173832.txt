@@ -1,0 +1,9 @@
+1. **DC Microgrid Control Systems**: Advanced control systems for managing and optimizing the operation of DC microgrids in ports, industries, data centers, and buildings, ensuring efficient energy distribution and reliability.
+
+2. **Hybrid AC/DC Power Systems**: Integrated power systems that combine AC and DC infrastructures to leverage the advantages of both, facilitating seamless transition and interoperability in industrial and port applications.
+
+3. **DC-Powered Electric Vehicle (EV) Charging Stations**: Infrastructure designed for charging electric vehicles using direct current, reducing conversion losses and enhancing efficiency in ports and data centers with high EV usage.
+
+4. **Resilient DC Lighting Systems**: Energy-efficient lighting solutions powered by DC to reduce energy consumption and improve reliability in buildings and industrial settings.
+
+5. **DC Renewable Integration Modules**: Specialized modules for integrating renewable energy sources like solar panels directly into DC grids, maximizing efficiency and simplifying installation in data centers and building applications.

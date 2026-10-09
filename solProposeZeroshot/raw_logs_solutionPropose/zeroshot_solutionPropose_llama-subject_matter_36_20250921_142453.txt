@@ -1,0 +1,5 @@
+1. Solar PV System: A photovoltaic system that generates direct current power for ports and industrial applications using solar panels, providing renewable energy and reducing reliance on fossil fuels.
+2. Energy-Efficient Lighting: An LED lighting system designed for data centers that use DC technology, with high energy efficiency and reduced environmental impact.
+3. Grid-Connected Battery Storage: A battery storage solution for buildings that connects to the grid via a direct current link, allowing for efficient energy management and backup power supply during grid outages.
+4. EV Charging Infrastructure: An electric vehicle charging system designed for ports and industrial applications, using DC fast-charging technology for quick and convenient charging of electric vehicles.
+5. Power Quality Improvement: A device that improves the quality of DC power by filtering out harmonic disturbances, ensuring stable power supply to sensitive equipment in data centers and buildings.

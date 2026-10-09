@@ -1,0 +1,5 @@
+1. High Efficiency DC Motors: Energy-efficient motors designed for use in industrial and commercial settings within the four sectors mentioned.
+2. DC Fuel Cell Technology: Utilizing hydrogen fuel cells to produce electricity for transportation, power generation, and other applications within ports, industry, data centers, and buildings.
+3. Solar PV on DC Systems: Deploying photovoltaic solar panels directly on DC systems to generate renewable energy in real-time, reducing the need for battery storage or alternative energy sources in various sectors.
+4. Direct Air Conditioning: An air conditioning system that operates using direct current, allowing for greater energy efficiency and cost savings in buildings.
+5. Advanced DC Lighting Systems: LED lighting systems that use direct current for increased energy efficiency, longer lifespan, and better control over color temperature and brightness within the four sectors mentioned.

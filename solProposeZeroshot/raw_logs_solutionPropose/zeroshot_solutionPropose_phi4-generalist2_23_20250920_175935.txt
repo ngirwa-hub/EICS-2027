@@ -1,0 +1,9 @@
+1. **DC-Powered Charging Stations:** Facilities specifically designed for fast and efficient charging of electric vehicles and machinery using direct current, reducing downtime in ports and industrial settings.
+
+2. **Integrated DC Cooling Systems:** Advanced cooling solutions for data centers that use DC power directly from renewable sources to improve energy efficiency and reduce thermal management costs.
+
+3. **DC-based Smart Lighting Controls:** Energy-efficient lighting systems powered by DC that integrate with smart building technologies to optimize usage, reduce energy consumption, and enhance lighting quality in commercial buildings.
+
+4. **Hybrid Renewable Energy Systems (HRES) for DC Integration:** Combines solar panels, wind turbines, and battery storage directly into a DC system, enhancing the reliability and sustainability of power supply in ports and industrial areas.
+
+5. **DC Microgrid Management Software:** A digital platform that manages the distribution and optimization of DC power within microgrids across buildings or industries, improving energy resilience and efficiency.

@@ -1,0 +1,9 @@
+1. **DC Microgrid Control System**: A centralized or decentralized control mechanism for managing the distribution and conversion of power within a DC microgrid at ports, industries, data centers, or buildings. This system ensures optimal operation by balancing loads, integrating renewable energy sources, and maintaining grid stability.
+
+2. **Renewable Energy Integration Platform**: A platform that facilitates seamless integration of renewable energy sources like solar PV and wind turbines with existing DC infrastructure in ports, industrial sites, data centers, and buildings. It includes software tools for monitoring, forecasting, and optimizing the use of renewable resources.
+
+3. **DC Power Quality Monitoring Device**: An advanced sensor suite designed to monitor and manage power quality issues such as voltage dips, harmonic distortions, or transients within DC networks in ports, industrial environments, data centers, and buildings. This ensures consistent performance and protection for sensitive equipment.
+
+4. **Modular DC UPS System**: A modular unit that provides uninterrupted power supply by maintaining a stable DC source during outages, tailored specifically for critical operations at ports, industry facilities, data centers, or high-demand buildings. Its modularity allows scalability and easy maintenance.
+
+5. **DC Grid-Integrated Electric Vehicle Charger**: An innovative charging system designed to integrate directly with existing DC grids in ports and industrial areas, enabling efficient charging of electric vehicles without AC/DC conversion losses. This solution supports the growing need for EV infrastructure while reducing energy waste.

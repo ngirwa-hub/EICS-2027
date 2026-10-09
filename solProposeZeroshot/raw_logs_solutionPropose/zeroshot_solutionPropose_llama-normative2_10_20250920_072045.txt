@@ -1,0 +1,9 @@
+1. Solar PV Tracking System for Ports: A system that automatically adjusts solar panels based on weather conditions and orientation to maximize energy production in ports.
+
+2. Energy Efficient DC Lighting for Industry: An LED-based lighting system designed specifically for industrial applications, using high-efficiency DC drives to reduce energy consumption and improve productivity.
+
+3. Microgrid Control System for Data Centers: A centralized control system that integrates renewable energy sources and DC power distribution in data centers to optimize energy efficiency and reliability.
+
+4. Building Automation System for Buildings: An intelligent control system that optimizes heating, ventilation, and air conditioning (HVAC) based on occupancy and environmental conditions, reducing energy consumption and improving indoor air quality.
+
+5. DC Elevator Drive System for High-Rise Buildings: A DC-powered elevator drive system that reduces energy consumption and increases efficiency by eliminating the need for costly AC motor upgrades in older buildings.

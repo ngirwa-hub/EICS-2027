@@ -1,0 +1,19 @@
+Solution 1: Direct Current (DC) Shore Power System for Ports
+Short title: DC Shore Power System
+Brief explanation: A system that enables the connection of vessels to onshore power supply using DC voltage, reducing energy losses and improving air quality by minimizing emissions during berthing.
+
+Solution 2: Modular DC Power Distribution Units for Industry
+Short title: Modular DC PDUs
+Brief explanation: Pre-fabricated, standardized units that simplify DC power distribution in industrial settings, promoting flexibility, safety, and efficiency in large-scale production facilities.
+
+Solution 3: DC Microgrids for Data Centers
+Short title: DC Microgrid Solution
+Brief explanation: A system of interconnected DC energy sources and loads designed to operate independently from the main grid, improving energy efficiency, reliability, and resilience in data centers.
+
+Solution 4: Smart DC Energy Management for Buildings
+Short title: Smart DC EMS
+Brief explanation: An intelligent control system that optimizes energy consumption within buildings by managing the distribution of DC power from various renewable sources, improving overall efficiency and reducing peak demand.
+
+Solution 5: Power-over-Ethernet (PoE) Systems for Building Automation
+Short title: PoE Solution for Buildings
+Brief explanation: A networking technology that enables the simultaneous transmission of power and data over Ethernet cables, simplifying the integration of various building automation devices, such as lighting, security, and HVAC systems.

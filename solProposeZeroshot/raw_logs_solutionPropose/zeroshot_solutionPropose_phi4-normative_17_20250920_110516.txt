@@ -1,0 +1,9 @@
+1. **DC-Powered Dock Equipment**: Innovative port equipment such as cranes and forklifts powered directly by DC can reduce conversion losses and enhance operational efficiency at shipping terminals.
+
+2. **Industrial Process Control via DC**: Implementing direct current systems in industrial process controls allows for precise energy management, minimizing waste and improving safety in sectors like manufacturing and processing.
+
+3. **DC Optimized Data Center Cooling Systems**: Utilizing DC for data center cooling equipment enhances energy efficiency by reducing conversion steps and lowering the overall carbon footprint of large-scale data operations.
+
+4. **Building Integrated Photovoltaic (BIPV) with DC**: Integrating photovoltaic panels directly into building structures to supply DC power reduces transmission losses and supports sustainable urban development.
+
+5. **DC Microgrid for Smart Buildings**: Developing microgrids that operate on direct current within buildings can enhance resilience, energy efficiency, and flexibility in managing distributed renewable resources.

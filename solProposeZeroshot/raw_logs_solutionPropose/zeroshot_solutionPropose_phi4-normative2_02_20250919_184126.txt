@@ -1,0 +1,9 @@
+1. **DC Microgrid Control System**: A centralized or decentralized control system that manages the distribution and load balancing within a DC microgrid, enhancing efficiency and reliability in ports, industries, data centers, and buildings.
+
+2. **DC-Powered Electric Vehicle Chargers**: Infrastructure for charging electric vehicles using DC power directly, reducing conversion losses and improving charge times at ports and urban areas with high vehicle turnover.
+
+3. **Integrated Renewable Energy Management System (I-REMS)**: A system that integrates renewable energy sources such as solar and wind into existing infrastructures by managing their output in DC format, optimizing energy use across different sectors including industry and data centers.
+
+4. **DC Distribution Feeder Automation**: An automated system for controlling and monitoring DC distribution feeders to improve reliability and efficiency in large facilities like industrial plants and buildings with significant power demands.
+
+5. **DC Energy Storage Management Software**: A software solution that optimizes the performance and integration of battery storage systems operating on DC within microgrids, crucial for energy-intensive operations such as data centers and industrial applications.

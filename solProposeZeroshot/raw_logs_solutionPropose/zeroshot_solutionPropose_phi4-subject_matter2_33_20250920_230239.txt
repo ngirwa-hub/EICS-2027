@@ -1,0 +1,14 @@
+1. **DC Microgrid Control System:**
+   A centralized or decentralized control system designed specifically for managing and optimizing the operation of DC microgrids in ports, industrial sites, data centers, and buildings.
+
+2. **DC-Powered Electric Vehicles (EV) Charging Infrastructure:**
+   Specialized charging stations that provide direct current to electric vehicles, reducing conversion losses and improving efficiency, especially crucial in ports and industrial areas with high EV usage.
+
+3. **Renewable Energy Integration Platform for DC Systems:**
+   A software platform facilitating the seamless integration of renewable energy sources like solar panels directly into existing or new DC infrastructures across various sectors.
+
+4. **DC-Powered Heating and Cooling Solutions:**
+   Direct current heating, ventilation, and air conditioning (HVAC) systems designed to operate more efficiently on DC power, reducing conversion losses in buildings and data centers.
+
+5. **DC-Enabled Smart Sensors and IoT Devices:**
+   Internet of Things (IoT) devices and sensors that operate directly on DC power for improved energy efficiency and reliability in monitoring and managing operations across ports, industries, and building environments.

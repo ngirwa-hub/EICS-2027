@@ -1,0 +1,9 @@
+1. **DC Microgrid Architecture**: A comprehensive framework for integrating renewable energy sources and storage within ports, industries, data centers, and buildings using direct current systems to enhance efficiency and reliability.
+
+2. **DC Power Management Software**: Advanced software platforms that optimize the distribution, consumption, and storage of DC power across various sectors, ensuring efficient load balancing and minimizing losses.
+
+3. **High-Voltage DC (HVDC) Substation Interface**: Interfaces designed for seamless integration of HVDC links with local DC grids in ports and industries to facilitate large-scale renewable energy adoption and long-distance transmission.
+
+4. **Renewable Energy Forecasting Tool**: A data-driven tool that accurately predicts solar, wind, and other renewable outputs to better manage DC grid operations in sectors like data centers, where power demand is high and stable.
+
+5. **DC-AC Hybrid Inverter Systems**: Innovative inverters that efficiently manage both AC and DC loads within buildings and industries, allowing for flexible energy distribution while optimizing the use of existing AC infrastructure during the transition period.

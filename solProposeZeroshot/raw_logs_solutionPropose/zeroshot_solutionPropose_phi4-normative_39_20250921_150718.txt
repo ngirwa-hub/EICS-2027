@@ -1,0 +1,14 @@
+1. **DC Microgrid Management System:**
+   A centralized control platform designed specifically for managing DC microgrids within ports, industries, data centers, and buildings, enhancing efficiency and reliability.
+
+2. **Integrated Energy Storage Systems (IESS):**
+   Advanced energy storage solutions that integrate seamlessly with existing DC infrastructure to optimize energy usage and provide backup power across various sectors.
+
+3. **DC-Powered Heating and Cooling:**
+   Direct current systems for heating and cooling applications in buildings and data centers, improving energy efficiency by directly utilizing electrical heat pumps or chillers without AC conversion losses.
+
+4. **DC Load Management Software:**
+   A software tool that optimizes the distribution of DC loads across different sectors to minimize energy waste and balance demand with supply effectively.
+
+5. **Hybrid AC-DC Inverters:**
+   Devices that facilitate efficient transition and interoperability between AC and DC systems, particularly in environments like ports where mixed-use applications are prevalent.

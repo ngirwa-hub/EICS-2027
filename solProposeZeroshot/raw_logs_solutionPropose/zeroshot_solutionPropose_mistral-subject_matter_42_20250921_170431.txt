@@ -1,0 +1,14 @@
+Solution 1: DC High Voltage Breaker for Industry and Ports:
+A high voltage breaker designed specifically for direct current applications in industrial and port settings, enabling safe and efficient switching or isolation of large power loads.
+
+Solution 2: DC Grid-Tied Energy Storage for Buildings:
+A grid-connected energy storage system for buildings that stores excess renewable energy as DC electricity, reducing conversion losses and improving overall grid stability.
+
+Solution 3: DC Microgrid Controller for Data Centers:
+An advanced control system for data center microgrids that optimizes power distribution and load management while ensuring seamless integration with the main grid and other DC sources.
+
+Solution 4: DC Distribution Automation for Ports:
+Automated distribution systems for ports using direct current technology to improve power flow efficiency, reduce energy losses, and enhance overall operational control.
+
+Solution 5: DC Building Energy Management System (BEMS):
+An integrated building energy management system that controls and monitors all aspects of a building's DC power infrastructure, including lighting, HVAC, and appliances, to optimize energy usage and reduce costs.

@@ -1,0 +1,5 @@
+1. DC-Native Power Electronics for Variable Speed Drives: Utilizing DC-DC converters and inverters directly coupled to DC sources to optimize motor speed and efficiency in industrial processes, reducing AC conversion losses.
+2. DC-Based Microgrid Management System: A centralized control system for managing power flow, load balancing, and fault detection within DC microgrids across multiple sectors, including ports, industry, data centers, and buildings.
+3. High-Efficiency DC Power Distribution Units (PDU): PDUs specifically designed for DC systems, minimizing voltage drop and power loss during distribution within buildings and data centers, improving overall energy efficiency.
+4. Bidirectional DC Charging Infrastructure: Enables both charging of electric vehicles (ports, buildings) and vehicle-to-grid (V2G) capabilities within a DC microgrid, providing grid support and flexibility.
+5. DC-Based Reactive Power Compensation: Utilizes DC-DC converters to provide dynamic reactive power compensation in DC grids, improving power quality and reducing harmonic distortion.

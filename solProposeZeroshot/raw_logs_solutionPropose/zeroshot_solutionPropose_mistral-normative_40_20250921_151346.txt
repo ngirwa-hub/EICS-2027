@@ -1,0 +1,14 @@
+Solution 1: DC Grid-tied Energy Storage System (for Ports, Industry, Data Centers, Buildings)
+This solution involves the integration of large-scale energy storage systems that are directly compatible with DC grids, reducing conversion losses and improving grid stability during peak demand periods.
+
+Solution 2: DC Microgrid Control and Management System (for Ports, Industry, Buildings)
+A system that optimizes the operation and control of multiple DC sources within a microgrid to ensure efficient energy distribution, load management, and fault detection in real-time.
+
+Solution 3: DC Power Quality Conditioner (for Data Centers, Buildings)
+This device maintains consistent power quality by eliminating harmonics and other distortions, ensuring optimal performance of sensitive electronic equipment within the data center or building.
+
+Solution 4: DC Solar Tracking System (for Ports, Industry, Buildings)
+A system that adjusts solar panels to follow the sun's movement during the day, maximizing energy capture and output efficiency. This is particularly beneficial for ports and industrial applications with large roof surfaces or outdoor space.
+
+Solution 5: DC Building Integration Solutions (for Buildings)
+This refers to various technologies designed to integrate renewable energy sources (e.g., solar panels, wind turbines) directly into building infrastructure, reducing the need for AC-DC conversion and improving overall system efficiency. Examples might include smart facades, rooftop microgrids, or combined heat and power systems.

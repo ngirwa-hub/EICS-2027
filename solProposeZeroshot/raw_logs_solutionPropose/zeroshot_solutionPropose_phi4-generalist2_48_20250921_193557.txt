@@ -1,0 +1,9 @@
+1. **DC Power Management Systems**: These systems optimize the distribution and utilization of DC power across various applications, improving efficiency in ports, industry, data centers, and buildings by reducing conversion losses.
+
+2. **High-Capacity DC Chargers for Electric Vehicles**: Essential for ports and industrial sites with vehicle fleets, these chargers enable rapid charging of electric vehicles directly from DC sources, enhancing operational efficiency and sustainability.
+
+3. **DC Microgrid Controllers**: These controllers manage energy flows within DC microgrids, ensuring reliability and stability in data centers and buildings by optimizing the use of local renewable energy resources and storage systems.
+
+4. **Integrated HVAC Systems with DC Input**: By designing heating, ventilation, and air conditioning systems to operate directly on DC power, this solution reduces conversion losses in buildings and data centers, leading to energy savings and improved system efficiency.
+
+5. **DC-Capable Renewable Energy Interfaces**: These interfaces allow seamless integration of renewable energy sources such as solar panels into existing DC networks at ports and industrial sites, maximizing the utilization of locally generated clean energy.

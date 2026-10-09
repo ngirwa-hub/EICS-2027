@@ -1,0 +1,9 @@
+1. **DC Microgrid Control Systems**: Advanced control systems designed to manage and optimize the distribution of power within a DC microgrid, ensuring efficient energy use across ports, industry, data centers, and buildings.
+
+2. **DC Power Quality Monitoring Devices**: Tools that continuously monitor the quality of DC power in real-time, detecting issues such as voltage fluctuations or harmonics that could affect sensitive equipment in industries and data centers.
+
+3. **High-Efficiency DC Motor Drives**: These drives convert DC power into mechanical energy more efficiently than traditional AC systems, benefiting industrial applications with high-powered machinery by reducing energy losses and operational costs.
+
+4. **DC-Powered Lighting Solutions**: Energy-efficient lighting technologies that operate directly on DC power, suitable for data centers and buildings aiming to reduce conversion losses and improve overall energy efficiency.
+
+5. **Integrated Renewable Energy Management System (I-REMS)**: A comprehensive system that integrates renewable energy sources like solar panels into DC infrastructures in ports and buildings, optimizing generation, storage, and distribution for maximum sustainability.

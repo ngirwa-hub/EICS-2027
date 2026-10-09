@@ -1,0 +1,5 @@
+1. Solar PV Tracking System: A system that optimizes the orientation and positioning of solar photovoltaic panels to maximize energy generation based on weather patterns and seasonal changes.
+2. Energy-efficient Lighting: LED lighting systems that use low voltage DC power for better energy efficiency, longer lifespan, and improved color rendering compared to traditional high voltage AC lighting.
+3. EV Charging Infrastructure: A network of Direct Current (DC) fast chargers for electric vehicles, providing rapid charging with minimal energy losses and enhancing convenience for commuters and travelers.
+4. DC Power Supply for Industrial Applications: Customizable power supply systems designed specifically for industrial applications, offering reliable, efficient, and cost-effective DC power solutions for manufacturing processes and equipment.
+5. DC Microgrids for Ports: Integrated DC microgrids for ports that optimize energy management, reduce energy waste, and improve grid resilience by coupling renewable energy sources with energy storage systems and demand response strategies.

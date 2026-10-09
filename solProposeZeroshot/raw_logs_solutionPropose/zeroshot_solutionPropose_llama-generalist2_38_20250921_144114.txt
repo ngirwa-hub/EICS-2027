@@ -1,0 +1,14 @@
+1. Smart and Sustainable DC Cables for Ports: Develop energy-efficient DC cables that reduce losses during transmission and minimize environmental impact.
+   Explanation: Improved cable design can enhance the performance and efficiency of DC systems in ports, reducing energy consumption and costs.
+
+2. DC Microgrid Integration System for Industry: A system that integrates various DC sources (renewable, backup generators) and loads within a factory to optimize energy use.
+   Explanation: By using DC microgrids, industrial facilities can reduce energy waste and improve grid stability while utilizing local renewable resources effectively. 
+
+3. Real-Time Monitoring and Control System for Data Centers: A tool that enables in real-time monitoring and control of DC systems in data centers.
+   Explanation: Improved monitoring and control can enhance the efficiency, reliability, and security of DC-based data center operations, optimizing energy consumption.
+
+4. Building Management System for Buildings: A system that enables efficient management of DC lighting and HVAC systems in buildings.
+   Explanation: By integrating building management systems with DC technologies, energy consumption can be reduced while providing better control over indoor environment.
+
+5. Efficient DC Pumps for Water Management: Develop high-efficiency DC pumps for water treatment facilities that reduce energy consumption and improve operational efficiency.
+   Explanation: By using DC technology in water management, energy losses are minimized during transmission, enhancing operational efficiency and reducing costs.

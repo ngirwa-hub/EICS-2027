@@ -1,0 +1,9 @@
+1. **DC-Powered Port Equipment**: This includes the use of direct current systems for powering cranes and other port machinery, reducing energy losses associated with AC-DC conversion and enhancing operational efficiency.
+
+2. **Industrial Process Integration**: Utilizes DC power directly in industrial processes such as electrochemical manufacturing or aluminum production to reduce conversion steps and increase overall system efficiency.
+
+3. **Data Center Cooling Systems**: Implements DC cooling solutions for data centers to streamline the integration of renewable energy sources like solar panels, minimizing AC-DC conversion losses associated with traditional HVAC systems.
+
+4. **DC Microgrid in Buildings**: Develops small-scale microgrids using DC power within buildings to efficiently manage local generation from photovoltaics and battery storage, reducing reliance on grid-tied AC systems.
+
+5. **DC Smart Grid Interface**: Designs interfaces for integrating distributed DC energy resources like rooftop solar panels directly into the smart grid infrastructure, improving energy distribution efficiency and reliability across sectors.

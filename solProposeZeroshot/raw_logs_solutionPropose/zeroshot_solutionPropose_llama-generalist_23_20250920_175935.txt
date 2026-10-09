@@ -1,0 +1,5 @@
+1. Floating Solar Power: Harnessing solar power in floating systems on water bodies, providing a sustainable alternative for renewable energy generation in ports.
+2. Industrial Scale Energy Storage: Developing large-scale energy storage solutions for industrial applications to ensure stable power supply and reduce dependency on fossil fuels.
+3. DC Microgrids for Data Centers: Implementing DC microgrids in data centers, reducing energy consumption and increasing efficiency by managing power distribution and demand response strategies.
+4. Building Management System Integration: Integrating building management systems with DC technologies to optimize energy consumption and reduce overall energy usage in buildings.
+5. EV Charging Infrastructure: Developing efficient and sustainable electric vehicle (EV) charging infrastructure utilizing DC technologies, promoting the adoption of electric transportation and reducing carbon footprint.

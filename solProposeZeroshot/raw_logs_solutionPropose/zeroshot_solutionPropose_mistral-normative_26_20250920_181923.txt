@@ -1,0 +1,14 @@
+1. Solution Title: DC Power Docking Systems for Ports
+   Brief Explanation: Automated docking systems that provide direct current power supply to electric vessels at ports, streamlining charging processes and reducing energy losses during transfer.
+
+2. Solution Title: High-Voltage Direct Current (HVDC) Grid Connection for Industry
+   Brief Explanation: Implementing HVDC grid connections in industrial areas, enhancing the efficiency and reliability of power transmission over long distances with reduced energy losses.
+
+3. Solution Title: DC Energy Management Systems for Data Centers
+   Brief Explanation: Intelligent systems that manage energy distribution and demand within data centers using direct current, optimizing power usage and reducing conversion losses.
+
+4. Solution Title: Integrated Photovoltaic (PV) Roofing Solutions for Buildings
+   Brief Explanation: Combining solar panels with building materials to create integrated photovoltaic roofs that generate electricity directly as DC current, eliminating the need for AC-DC conversion.
+
+5. Solution Title: Building Integrated Energy Storage (BIES) Systems
+   Brief Explanation: Batteries integrated within the structure of buildings to store excess renewable energy generated on-site, providing backup power and reducing reliance on the grid.

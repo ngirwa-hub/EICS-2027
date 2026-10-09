@@ -1,0 +1,5 @@
+1. Ports: High Power DC Converter: A converter that efficiently converts high power DC into low-voltage DC for use in port applications, reducing energy losses during conversion.
+2. Industry: Modular DC Microgrids: A flexible and modular DC microgrid solution designed specifically for industrial settings, allowing for easy scalability and customization of energy production and consumption needs.
+3. Data centers: Fault-Tolerant DC Infrastructure: A fault-tolerant DC infrastructure for data centers that ensures continuous power supply even during equipment failures or grid fluctuations, improving resilience and uptime.
+4. Buildings: Smart Lighting Control: An intelligent lighting control system that utilizes DC technology to optimize energy consumption in buildings while maintaining optimal illumination levels.
+5. Industry and data centers: Efficient Cooling Systems: A DC-based cooling system designed for industrial and data center applications, providing increased efficiency and reduced energy consumption compared to traditional AC-based systems.

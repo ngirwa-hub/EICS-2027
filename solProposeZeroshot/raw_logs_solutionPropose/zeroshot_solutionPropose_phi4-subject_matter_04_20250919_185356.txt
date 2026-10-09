@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: An advanced platform for optimizing energy distribution and load management within DC microgrids in ports, industries, data centers, and buildings, ensuring efficient use of renewable sources.
+
+2. **Integrated Solar-DC Inverters**: Devices that combine solar panels with DC inverters to directly supply power in DC form, reducing conversion losses and enhancing the efficiency of solar energy systems in various sectors.
+
+3. **Smart Grid Communication Interface**: A technology facilitating seamless communication between DC components within smart grids, enabling real-time data exchange for better grid management and integration of renewable energy sources.
+
+4. **DC Power Quality Monitoring System**: An innovative system designed to continuously monitor and manage power quality issues specific to DC systems, ensuring reliable operation across different sectors like ports and data centers.
+
+5. **Renewable Energy Forecasting Tool for DC Systems**: A predictive tool that uses machine learning algorithms to forecast renewable energy output in DC grids, aiding in better planning and integration of renewables in industries and buildings.

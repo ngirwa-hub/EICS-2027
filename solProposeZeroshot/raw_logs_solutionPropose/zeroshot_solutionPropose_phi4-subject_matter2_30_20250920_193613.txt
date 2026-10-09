@@ -1,0 +1,9 @@
+1. **DC Microgrid Control Systems**: Advanced control systems that optimize the operation and integration of renewable energy sources within DC microgrids in ports and industries, enhancing efficiency and reliability.
+
+2. **DC Power Quality Monitoring Devices**: Tools designed to continuously monitor and ensure power quality in DC networks, particularly useful for data centers where stable power is crucial for operational integrity.
+
+3. **Modular DC UPS Systems**: Uninterruptible Power Supply systems using modular DC designs that provide seamless backup power, reducing downtime and enhancing resilience across critical infrastructure like buildings and data centers.
+
+4. **DC-Friendly Building Management Systems (BMS)**: Integrated BMS solutions tailored for DC networks in smart buildings to optimize energy use, improve efficiency, and facilitate the integration of renewable sources directly into building operations.
+
+5. **DC Charging Infrastructure for Electric Vehicles**: Deployment of DC fast-charging stations at ports and industrial sites to support the increasing adoption of electric vehicles, providing efficient charging solutions that align with existing DC systems.

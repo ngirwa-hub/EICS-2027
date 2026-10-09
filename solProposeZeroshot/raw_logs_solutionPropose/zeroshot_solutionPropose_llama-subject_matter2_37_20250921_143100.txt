@@ -1,0 +1,9 @@
+1. Solar PV Panels for Ports: High-efficiency solar photovoltaic panels that harness energy from the sun and convert it into direct current for use in ports. This reduces reliance on fossil fuels, lowers carbon emissions, and provides cost savings.
+
+2. Energy Storage Systems for Industry: Utilizing energy storage systems to integrate renewable energy sources such as wind or solar with DC power grids. This enables industries to reduce dependency on conventional grid electricity, improving resilience and reducing costs.
+
+3. High-Efficiency DC Compressors for Data Centers: Advanced direct current compressors that improve the efficiency of data centers by reducing energy consumption and minimizing waste heat. This technology results in lower operating costs and improved sustainability for data centers.
+
+4. LED Lighting Systems for Buildings: Implementing LED lighting systems that operate on DC power, offering significant energy savings compared to traditional incandescent bulbs. These systems can also be easily controlled and integrated with smart building technology.
+
+5. DC Fault Current Limiters for Electrical Vehicles: Advanced circuitry that regulates the flow of current in electric vehicle charging stations, ensuring safe and efficient charging while reducing the risk of fire hazards and electrical faults. This technology improves safety and reliability for EV charging infrastructure.

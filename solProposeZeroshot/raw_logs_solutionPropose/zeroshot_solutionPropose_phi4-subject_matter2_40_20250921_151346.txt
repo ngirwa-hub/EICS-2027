@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System:** A centralized platform for managing and optimizing the distribution and consumption of DC power within microgrids at ports or industrial sites, enhancing operational efficiency.
+
+2. **Renewable Energy Source Integration Module:** A solution designed to seamlessly integrate renewable energy sources like solar panels directly into DC grids in data centers and buildings without AC conversion, maximizing energy utilization.
+
+3. **DC Power Quality Monitoring Device:** An advanced monitoring system that continuously assesss power quality within DC networks, ensuring stable operation across sectors such as industry and data centers.
+
+4. **HVDC Substation Design Software:** A tool for designing high-voltage direct current (HVDC) substations tailored to the specific needs of ports or industrial areas, optimizing long-distance electricity transmission efficiency.
+
+5. **Energy Storage System Interface for DC Grids:** An interface that connects energy storage systems directly with DC grids, facilitating rapid deployment and management in sectors like data centers and buildings, ensuring reliability and sustainability.

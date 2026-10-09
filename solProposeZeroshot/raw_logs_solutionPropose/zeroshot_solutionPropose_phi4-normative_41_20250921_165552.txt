@@ -1,0 +1,9 @@
+1. **DC-Powered Lighting Systems**: Implementing lighting systems that run directly on DC power in ports and buildings can significantly reduce energy conversion losses compared to traditional AC systems.
+
+2. **DC Charging Infrastructure for Electric Vehicles (EVs)**: Developing dedicated DC charging stations at ports and data centers to facilitate rapid charging of electric vehicles, minimizing downtime and enhancing logistics efficiency.
+
+3. **Integrated DC Cooling Systems**: Utilizing direct current for cooling in data centers can improve energy efficiency by reducing losses associated with AC-DC conversions in traditional HVAC systems.
+
+4. **DC Renewable Energy Integration Platform**: A platform that enables seamless integration and management of multiple renewable DC sources, such as solar panels and wind turbines, across industrial sites to optimize power usage and storage.
+
+5. **Smart DC Energy Management Software**: Advanced software solutions for monitoring and managing energy flows within buildings and industries powered by DC grids, optimizing efficiency, reducing waste, and providing predictive maintenance insights.

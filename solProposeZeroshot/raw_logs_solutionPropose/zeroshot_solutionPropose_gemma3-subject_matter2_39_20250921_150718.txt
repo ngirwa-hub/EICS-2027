@@ -1,0 +1,5 @@
+1. DC-Native Load Management System: Intelligent software and hardware that optimizes DC power distribution based on real-time load profiles and renewable energy availability within a DC microgrid.
+2. High-Efficiency DC Power Distribution Units (PDU): Advanced PDUs designed specifically for DC systems, minimizing voltage drop and power losses through optimized component selection and layout.
+3. DC Grid Cybersecurity Framework: A comprehensive cybersecurity protocol tailored to DC microgrids, addressing unique vulnerabilities associated with DC power electronics and communication protocols.
+4. DC Fault Current Limiting Devices: Specialized devices that proactively limit fault currents in DC systems, protecting equipment and improving overall system resilience.
+5. Modular DC Power Plants: Scalable and containerized DC power generation units integrating renewable energy sources and power electronics for flexible and distributed power supply.

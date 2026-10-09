@@ -1,0 +1,16 @@
+Certainly! Here are some additional DC solutions that could be important for the sectors mentioned:
+
+1. **DC Microgrid Management System:**
+   A comprehensive management system designed specifically for DC microgrids in ports and industrial sites, optimizing energy distribution and improving operational efficiency.
+
+2. **Portable DC Power Units:**
+   Compact and efficient portable power units utilizing DC technology, ideal for providing reliable energy to remote or temporary locations within ports or construction sites.
+
+3. **DC Lighting Systems:**
+   Advanced lighting solutions using DC technology that reduce energy consumption and offer better adaptability in buildings and data centers with fluctuating loads.
+
+4. **High-Capacity DC Charging Stations:**
+   High-capacity charging stations for electric vehicles (EVs) based on DC systems, designed to expedite charging times and support large fleets in industrial and port settings.
+
+5. **DC Heat Pump Solutions:**
+   Innovative heat pump technology that operates directly on DC power, providing efficient heating or cooling options for buildings and data centers, reducing the need for AC-DC conversion.

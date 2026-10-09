@@ -1,0 +1,9 @@
+1. **DC Charging Infrastructure for Ports**: Development and installation of DC charging stations for electric vehicles at ports to facilitate faster charging times, supporting the electrification of logistics fleets.
+
+2. **Industrial Process Integration via DC Power**: Implementation of direct current systems in industrial processes that naturally operate on DC power, such as electrolysis or certain manufacturing lines, to improve energy efficiency by reducing conversion losses.
+
+3. **DC-Powered Lighting Systems for Buildings**: Adoption of DC-powered LED lighting solutions within buildings to enhance energy efficiency and reduce the need for AC-DC conversions, leveraging the natural DC output from solar panels.
+
+4. **Data Center Cooling Optimization through DC Integration**: Utilization of direct current systems in data center cooling mechanisms to directly power components such as pumps and fans, enhancing operational efficiency by minimizing conversion losses.
+
+5. **Renewable Energy Microgrids for Remote Ports**: Establishment of self-sufficient renewable energy microgrids using direct current technology at remote ports, improving energy access and reliability while reducing dependency on traditional power grids.

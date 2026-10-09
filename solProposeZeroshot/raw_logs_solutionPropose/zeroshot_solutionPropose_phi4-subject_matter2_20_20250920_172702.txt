@@ -1,0 +1,9 @@
+1. **DC Power Distribution Units**: Compact and efficient units designed for distributing DC power within ports, industries, data centers, and buildings, optimizing energy usage by reducing conversion losses.
+
+2. **DC-based Microgrid Controllers**: Advanced control systems that manage DC microgrids, enhancing stability and efficiency in renewable energy integration across various sectors such as ports and industrial facilities.
+
+3. **High-Efficiency DC Chargers for Electric Vehicles (EVs)**: Fast-charging stations specifically designed to charge EVs using DC power, reducing charging times and improving infrastructure at ports and buildings with high vehicle turnover.
+
+4. **DC Cooling Systems**: Innovative cooling solutions utilizing DC power for data centers and industrial processes, offering energy savings by eliminating the need for AC-DC conversion in cooling equipment.
+
+5. **DC-Powered Lighting Solutions**: Energy-efficient lighting systems directly powered by DC, reducing conversion losses and increasing overall efficiency in buildings and industrial settings with integrated renewable sources.

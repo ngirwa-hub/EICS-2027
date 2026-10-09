@@ -1,0 +1,5 @@
+1. DC-Based Power Distribution Units (PDUs): DC PDUs provide a standardized and efficient method for distributing DC power within a facility, incorporating monitoring, switching, and potentially energy storage capabilities.
+2. High-Efficiency DC Fans and Cooling Systems: Utilizing DC fans and pumps directly powered from the DC grid significantly reduces AC-DC conversion losses in data centers and industrial environments, improving overall energy efficiency.
+3. Modular DC Power Architectures: This approach allows for scalable and adaptable DC power systems, easily configurable to meet changing load demands in ports, data centers, and industrial facilities.
+4. DC-Native Lighting Systems: Directly powering LED lighting with DC eliminates the need for AC-DC power supplies in buildings and reduces energy waste.
+5. Dynamic Load Shedding for DC Microgrids: A system that automatically reduces non-critical DC loads during periods of high demand or grid instability, prioritizing essential functions within ports and industrial settings.

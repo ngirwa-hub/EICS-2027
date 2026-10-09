@@ -1,0 +1,9 @@
+1. Highly Efficient DC Lighting System: A lighting system that utilizes efficient DC LED lamps, offering improved energy efficiency and reduced maintenance costs compared to traditional AC-based systems.
+
+2. DC Power Supply for Electrically Driven Vehicles: An innovative power supply solution specifically designed for electric or hybrid vehicles in ports, providing a reliable source of DC energy for transportation needs.
+
+3. Modular DC Microgrid for Ports: A modular and scalable microgrid solution that enables the integration of multiple renewable energy sources with efficient DC distribution systems to enhance energy efficiency in ports.
+
+4. Smart DC Grid for Industrial Applications: An intelligent DC grid system that optimizes power consumption in industrial settings, allowing for real-time monitoring and control of power usage to reduce waste and increase productivity.
+
+5. High-Efficiency DC Cooling System: A cutting-edge cooling solution utilizing DC technology for efficient heat dissipation in data centers, reducing energy consumption and improving overall performance.

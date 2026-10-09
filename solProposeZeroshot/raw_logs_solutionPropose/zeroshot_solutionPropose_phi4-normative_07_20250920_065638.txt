@@ -1,0 +1,9 @@
+1. **DC Microgrid Integration: Enhanced microgrids for ports using DC power can reduce conversion losses and improve energy efficiency by directly connecting renewable sources like solar panels with DC loads such as cranes and lighting systems.**
+
+2. **Industries' Flexible DC Power Distribution Network: A modular, scalable network that allows industrial facilities to efficiently manage variable loads and integrate multiple renewable sources, minimizing AC-DC conversion inefficiencies.**
+
+3. **Data Center Unified DC-Powered Infrastructure: A solution for data centers to unify power distribution under DC, optimizing energy use by eliminating repetitive conversions between AC and DC systems for cooling, servers, and networking equipment.**
+
+4. **Building Integrated Photovoltaic (BIPV) with DC Load Management: Incorporates photovoltaic panels directly into building structures like facades or roofs, paired with a DC load management system to supply power locally without conversion losses.**
+
+5. **DC Energy Management System for Multi-tenant Buildings: A smart energy management platform that uses DC technology to individually monitor and control the energy consumption of different units in multi-tenant buildings, improving efficiency and tenant satisfaction.**

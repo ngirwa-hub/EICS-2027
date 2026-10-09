@@ -1,0 +1,9 @@
+1. **DC-Powered Lighting Systems:** Implementation of lighting systems that operate directly on DC power, eliminating the need for AC-DC conversion, thereby improving energy efficiency and reducing maintenance in ports, industries, data centers, and buildings.
+
+2. **DC Charging Infrastructure for Electric Vehicles (EVs):** Development of EV charging stations that provide direct current, enhancing charging speed and efficiency for vehicles at ports, industrial sites, and commercial facilities with high parking turnover rates.
+
+3. **Integrated DC Microgrid Solutions:** Establishment of microgrids capable of managing both generation and consumption in DC, allowing seamless integration of renewable energy sources like solar panels, improving sustainability across buildings and industry settings.
+
+4. **DC-Powered HVAC Systems:** Design and implementation of heating, ventilation, and air conditioning systems that run on direct current to optimize power usage, particularly beneficial for data centers where temperature control is crucial.
+
+5. **DC Supply Units for Industrial Machinery:** Creation of supply units capable of powering industrial machines directly with DC, reducing conversion losses and improving the overall efficiency of energy-intensive industrial processes.

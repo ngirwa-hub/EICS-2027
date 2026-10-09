@@ -1,0 +1,9 @@
+1. Solar PV Integration: Incorporating photovoltaic solar panels directly into buildings and other structures for power generation, reducing reliance on the grid.
+
+2. Efficient Lighting: Replacing conventional incandescent light bulbs with LED lights that consume less energy and have a longer lifespan.
+
+3. DC-Powered Electric Vehicles: Deploying electric vehicles powered by direct current, providing clean transportation solutions in ports, industry, and buildings.
+
+4. Energy Efficient HVAC Systems: Implementing high-efficiency heating, ventilation, and air conditioning systems that use less energy to maintain comfortable indoor conditions.
+
+5. DC Microgrids for Islands: Developing small-scale DC microgrids to provide electricity in remote or isolated regions, such as islands, reducing dependence on centralized power grids.

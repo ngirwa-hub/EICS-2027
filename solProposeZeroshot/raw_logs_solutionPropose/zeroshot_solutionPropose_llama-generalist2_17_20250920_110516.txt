@@ -1,0 +1,5 @@
+1. Smart Ports DC Grid: A system that integrates DC grids with smart ports to optimize energy use and reduce greenhouse gas emissions in port operations.
+2. Intelligent DC Industry Applications: A set of applications for the industrial sector using DC technologies, such as electric vehicles, robotics, and automation systems, to increase efficiency and reduce environmental impact.
+3. Efficient Data Center DC System: A system that optimizes energy consumption in data centers by using high-efficiency DC power supplies, efficient cooling systems, and modular design for better scalability.
+4. BuildingDC Solutions: A set of solutions for the building sector that focuses on reducing energy consumption through DC lighting systems, smart HVAC systems, and grid-connected battery storage for backup power.
+5. DC Microgrids in Transportation: A system that integrates DC microgrids with electric vehicles, charging stations, and public transportation to reduce dependence on fossil fuels and promote sustainable mobility.

@@ -1,0 +1,5 @@
+1. Solar DC System for Ports: A solar power system that generates DC electricity and feeds it directly into the port's existing DC grid, reducing reliance on fossil fuels and minimizing energy losses from AC-DC conversion.
+2. Efficient DC Motors for Industry: Highly efficient DC motors designed specifically for industrial applications, offering improved performance, longer lifespan, and reduced energy consumption compared to traditional AC motors.
+3. Data Center DC Infrastructure: A specialized data center infrastructure that uses high-efficiency DC power systems, resulting in lower cooling and maintenance costs, along with improved energy efficiency.
+4. Smart Building DC Management System: An intelligent building management system that optimizes energy consumption by integrating DC power distribution with advanced control algorithms, reducing energy waste and enhancing occupant comfort.
+5. Wind DC Hybrid System for Buildings: A hybrid renewable energy system combining wind turbines with DC solar panels to generate clean, reliable electricity for buildings, minimizing reliance on fossil fuels and lowering operational costs.

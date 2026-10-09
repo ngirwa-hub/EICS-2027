@@ -1,0 +1,9 @@
+1. **DC Microgrid Integration for Ports**: A system that connects various renewable energy sources and loads within port facilities using a DC microgrid, reducing reliance on AC conversion and enhancing energy efficiency.
+
+2. **Industrial DC Power Hub**: A centralized power distribution unit in industrial settings that allows multiple equipment to be powered directly from DC, minimizing energy losses associated with frequent AC-DC conversions.
+
+3. **Data Center DC Distribution System**: An infrastructure solution designed to supply data centers with direct current, optimizing the power delivery for high-efficiency servers and cooling systems that can operate on DC.
+
+4. **Building-Level DC Power Management Systems**: Advanced control systems tailored for buildings that optimize energy consumption by managing and prioritizing loads based on their compatibility with DC power sources.
+
+5. **DC-Powered Charging Infrastructure for Electric Vehicles (EVs)**: Dedicated charging stations in ports, industrial areas, and public spaces that supply direct current to electric vehicles, reducing the need for onboard AC-DC conversion and increasing charging efficiency.

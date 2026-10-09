@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System: Centralized control system for optimizing energy distribution and usage across a DC microgrid in ports, industry, data centers, or buildings.**
+
+2. **DC-Powered Electric Vehicle (EV) Charging Infrastructure: Fast-charging stations for electric vehicles that operate on direct current, reducing conversion losses and improving charging efficiency at ports and commercial areas.**
+
+3. **Energy Management Software for DC Systems: An intelligent software platform to monitor, control, and optimize energy usage in facilities using DC technologies, enhancing energy efficiency and cost savings across sectors like industry and data centers.**
+
+4. **Integrated Renewable Energy Interface: A solution that seamlessly integrates renewable energy sources such as solar or wind directly into the DC infrastructure, facilitating efficient power supply in buildings and industrial sites.**
+
+5. **DC-Coupled Battery Storage Systems: High-efficiency battery systems connected directly to DC networks, enhancing energy storage capabilities for data centers and industrial facilities by minimizing conversion losses.**

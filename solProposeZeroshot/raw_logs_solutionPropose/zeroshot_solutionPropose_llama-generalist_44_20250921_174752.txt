@@ -1,0 +1,9 @@
+1. Solar Tracking System: A system that tracks the movement of the sun and adjusts the orientation of solar panels for maximum energy generation in ports, industry, data centers, and buildings.
+
+2. DC Microgrid Controller: A control system that manages and optimizes energy consumption and distribution in microgrids, improving efficiency and reducing waste in ports, industry, data centers, and buildings.
+
+3. EV Charging Stations: DC-based charging stations for electric vehicles, providing faster charging times and increased convenience for transportation needs in ports, parking garages, and public spaces in buildings.
+
+4. DC Lighting System: A lighting system that uses DC technology to reduce energy consumption and increase efficiency in port warehouses, industrial facilities, data centers, and building interiors.
+
+5. Renewable Energy Integration: A platform that integrates renewable energy sources (e.g., wind, solar) with DC microgrids, improving the reliability of energy supply in ports, industry, data centers, and buildings.

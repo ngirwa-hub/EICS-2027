@@ -1,0 +1,5 @@
+1. Solar PV for Ports: Harnessing solar power to generate electricity for port operations, reducing dependence on fossil fuels and lowering energy costs.
+2. Energy Efficient Lighting for Industry: Implementing LED lighting systems in industrial facilities for improved energy efficiency and cost savings.
+3. DC Grid Integration for Data Centers: Incorporating DC power distribution in data centers to reduce energy losses during AC-DC conversion, improving efficiency and reducing costs.
+4. Building Management System for Buildings: Implementing a DC-based building management system that optimizes energy usage and reduces operational costs.
+5. Electric Vehicle Charging Infrastructure for Ports: Deploying DC fast charging stations in ports to facilitate electric vehicle charging, reducing emissions and supporting sustainable transportation.

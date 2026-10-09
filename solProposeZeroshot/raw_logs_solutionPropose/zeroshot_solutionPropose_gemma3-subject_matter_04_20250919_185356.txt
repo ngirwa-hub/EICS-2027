@@ -1,0 +1,5 @@
+1. DC Power Distribution Units (PDUs): Intelligent DC PDUs manage power distribution within DC microgrids, providing metering, monitoring, and load shedding capabilities.
+2. DC-Based Microgrid Controller: A centralized controller manages the operation of DC microgrids, optimizing energy flow, balancing loads, and integrating renewable energy sources.
+3. DC-Native Energy Management System (EMS): An EMS specifically designed for DC systems, allowing for granular control and optimization of energy consumption within buildings and industrial facilities.
+4. DC Harmonic Filter: Specialized filters to mitigate harmonic distortion inherent in DC power conversion processes, ensuring power quality and equipment longevity.
+5. Standardized DC Power Interfaces: Agreed-upon physical and communication interfaces for DC equipment, promoting interoperability and reducing integration complexities across diverse applications.

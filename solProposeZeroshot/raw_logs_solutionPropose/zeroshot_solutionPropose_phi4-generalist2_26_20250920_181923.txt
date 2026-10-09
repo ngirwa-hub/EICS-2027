@@ -1,0 +1,9 @@
+1. **DC-Powered Electric Vehicles (EV) Charging Stations**: These stations provide direct current charging for electric vehicles, reducing conversion losses and improving efficiency in ports and industrial areas with high EV usage.
+
+2. **DC Microgrid Control Systems**: Advanced control systems for managing DC microgrids to enhance energy reliability and flexibility across industries, data centers, and buildings by optimizing resource allocation and demand response.
+
+3. **DC Power Distribution Units (PDUs)**: Units that distribute power directly in DC form within facilities like data centers, reducing the need for AC-DC conversions and thus improving energy efficiency.
+
+4. **Integrated Energy Management Software**: Software solutions that facilitate seamless integration and management of various DC energy systems across sectors to optimize performance and energy savings.
+
+5. **Flexible DC Grid Architectures**: Designs for adaptable grid architectures that accommodate diverse DC technologies, supporting scalable and resilient infrastructure in ports, industries, data centers, and urban developments.

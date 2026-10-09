@@ -1,0 +1,7 @@
+Here are some additional DC solutions, beyond the initial list, that would be valuable for the Shift2DC project’s target sectors:
+
+1. DC-Based Power Distribution Units (PDUs): Intelligent PDUs specifically designed for DC microgrids, providing load management, monitoring, and distribution capabilities with improved efficiency and reduced harmonic distortion.
+2. DC-Native Energy Management Systems (EMS): An EMS optimized for DC grids, allowing for real-time monitoring, control, and optimization of energy flows, incorporating forecasting and demand response capabilities tailored for DC loads.
+3. DC-Coupled Microgrid Controller: A centralized controller managing multiple DC microgrids, facilitating energy sharing, load balancing, and autonomous operation while addressing grid stability and resilience.
+4. High-Efficiency DC Lighting Systems: LED lighting solutions directly powered by DC voltage, eliminating AC-DC conversion losses common in conventional lighting systems and improving overall energy efficiency within buildings and industrial facilities.
+5. DC-Based Wireless Power Transfer (WPT) Infrastructure: Enables contactless power delivery for mobile equipment, robots, and IoT devices within ports, data centers, and industrial settings, reducing cabling and improving operational flexibility.

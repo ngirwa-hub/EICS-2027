@@ -1,0 +1,14 @@
+1. **DC Microgrid Control System: A centralized control platform for managing the operation and optimization of DC microgrids in ports, industries, data centers, and buildings.**  
+   This system enhances efficiency by coordinating energy flows between renewable sources, storage systems, and loads.
+
+2. **DC Power Distribution Panels: Customized panels designed to distribute direct current efficiently within facilities like factories or server rooms.**  
+   These panels reduce conversion losses and improve the reliability of power supply compared to traditional AC systems.
+
+3. **Integrated DC Energy Management Software: A software solution that provides real-time monitoring, control, and optimization for DC energy usage in various sectors.**  
+   This tool aids in maximizing energy savings and operational efficiency by managing loads and storage more effectively.
+
+4. **DC-Powered Electric Vehicle (EV) Charging Stations: Charging infrastructure optimized for direct current to reduce charging times and improve efficiency at ports and parking facilities.**  
+   These stations can leverage existing DC power from renewable sources, enhancing sustainability in transportation hubs.
+
+5. **Hybrid AC/DC Grid Interface: A system that seamlessly integrates hybrid grids allowing both AC and DC operations, ideal for diverse energy applications in buildings or industrial settings.**  
+   This interface supports flexible grid operation, accommodating various generation and storage technologies while minimizing conversion losses.

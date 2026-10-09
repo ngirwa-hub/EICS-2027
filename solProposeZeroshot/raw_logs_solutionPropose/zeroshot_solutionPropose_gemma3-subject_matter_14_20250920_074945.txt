@@ -1,0 +1,5 @@
+1. DC-Based Wireless Power Transfer (WPT): Enables contactless power delivery within facilities, useful for charging electric vehicles in ports and powering equipment in industrial settings, reducing cabling needs.
+2. DC-Native Microgrid Controller: A sophisticated control system specifically designed for DC microgrids, optimizing power flow, managing distributed generation, and ensuring grid stability in buildings and data centers.
+3. Dynamic DC Load Shaping: A system that actively manages and shifts DC loads to optimize power consumption and reduce peak demand, particularly relevant for data centers and industrial processes.
+4. DC-Coupled Energy Harvesting System: Integrates energy harvesting technologies (solar, wind, thermal) directly into DC grids, providing localized power generation for ports, buildings, and industrial facilities.
+5. DC-Based Power Quality Monitoring System: Provides real-time monitoring of DC voltage, current, harmonics, and other power quality parameters to ensure reliable operation in ports, industry, data centers, and buildings.

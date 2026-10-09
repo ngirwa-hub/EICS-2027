@@ -1,0 +1,14 @@
+1. **DC Microgrid Management System:**
+   A platform for optimizing the operation and control of DC microgrids within ports, industries, data centers, and buildings, enhancing efficiency by coordinating energy generation, storage, and consumption.
+
+2. **High-Efficiency DC Motors:**
+   Motors designed specifically for DC applications that offer higher efficiency and reliability in industrial machinery and equipment, reducing energy losses compared to AC motors.
+
+3. **Integrated DC Lighting System:**
+   A lighting solution for buildings utilizing DC power directly from photovoltaic panels or other renewable sources, minimizing conversion losses and improving energy savings.
+
+4. **DC-Powered Refrigeration Units:**
+   Energy-efficient refrigeration systems for data centers that operate on DC, reducing the need for AC-DC conversions and optimizing overall cooling efficiency.
+
+5. **Portable DC Charging Stations:**
+   Mobile charging units for ports that support multiple electric vehicles using DC power, facilitating quick and efficient energy transfer directly from renewable sources or storage systems.

@@ -1,0 +1,5 @@
+1. Solar Hybrid System: A combination of solar photovoltaic and wind energy generation connected directly to DC microgrids, providing cost-effective renewable power supply for port operations.
+2. Energy Management System (EMS): An advanced control system that monitors and optimizes energy consumption in data centers, reduces waste, and ensures efficient use of DC power.
+3. DC Lighting System: Replacement of traditional AC lighting systems with DC LED lights, reducing energy consumption and improving light quality for better port operations.
+4. DC HVAC System: An innovative heating, ventilation, and air conditioning system that utilizes direct current to optimize temperature control in buildings, providing more efficient and sustainable cooling solutions.
+5. DC Elevator System: A low-power DC elevator solution for industrial applications, reducing energy consumption and enhancing overall efficiency of the building's operation.

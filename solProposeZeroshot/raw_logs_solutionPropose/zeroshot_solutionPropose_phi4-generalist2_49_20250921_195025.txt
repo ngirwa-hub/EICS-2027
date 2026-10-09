@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A centralized platform for optimizing energy distribution and consumption in DC microgrids within ports or industrial facilities, enhancing efficiency and reliability.
+
+2. **DC Power Optimizer**: An intelligent device that maximizes the output of solar panels by adjusting electrical parameters to suit varying sunlight conditions, suitable for buildings and data centers aiming for increased renewable integration.
+
+3. **Portable DC Energy Storage Unit**: A mobile energy storage solution allowing easy transport of power across different sections within a port or industrial complex, facilitating flexible and efficient energy management.
+
+4. **DC-based Smart Lighting System**: An innovative lighting system powered by DC that uses sensors to adjust brightness based on occupancy and natural light levels, ideal for buildings and data centers to reduce energy consumption.
+
+5. **Wireless DC Power Transfer**: A technology enabling the transfer of electrical power without physical connections, perfect for charging electric vehicles or devices within ports and industrial settings without the need for traditional plug-in infrastructure.

@@ -1,0 +1,9 @@
+1. **DC Microgrid Controllers**: Advanced control systems that manage the distribution and flow of electricity in a DC microgrid, enhancing efficiency and reliability for ports, industries, data centers, and buildings.
+
+2. **Integrated Energy Management System (IEMS)**: A platform that optimizes energy usage across various sectors by integrating renewable sources with DC technology, ensuring efficient energy consumption and cost savings.
+
+3. **DC Power Quality Monitoring**: Devices that continuously monitor the quality of DC power to ensure stability and reliability in critical applications such as data centers and industrial operations.
+
+4. **Modular DC Energy Storage**: Scalable battery systems designed for easy integration into existing infrastructures, providing flexible energy storage solutions for buildings and industry.
+
+5. **DC Renewable Energy Forecasting Tool**: A predictive tool that uses data analytics to forecast the generation potential of renewable energy sources in a DC system, aiding in better planning and resource allocation across sectors.

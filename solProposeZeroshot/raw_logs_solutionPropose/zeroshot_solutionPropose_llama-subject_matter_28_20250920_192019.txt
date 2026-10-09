@@ -1,0 +1,5 @@
+1. Smart and Sustainable DC Cables for Ports: Develop high-performance, low-loss cables with embedded sensors and smart controls to monitor and manage energy flows in ports.
+2. Industry-Specific DC Solutions: Design customized DC systems tailored to the unique requirements of different industries such as automotive manufacturing, food processing, or pharmaceutical production.
+3. DC Energy Storage for Data Centers: Deploy battery storage systems and energy management systems to optimize power consumption and reduce reliance on non-renewable sources in data centers.
+4. Building DC Microgrids: Integrate DC microgrids within buildings to enable local energy generation, storage, and consumption while reducing grid dependence and emissions.
+5. DC-Based HVAC Systems for Buildings: Introduce high-efficiency DC heat pumps or air conditioning systems to enhance building comfort and reduce energy demand.

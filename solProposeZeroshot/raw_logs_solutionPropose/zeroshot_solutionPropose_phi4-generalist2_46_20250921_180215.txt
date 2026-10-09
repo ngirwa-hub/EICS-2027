@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A centralized platform for managing and optimizing the distribution of electricity in DC microgrids across ports, industries, data centers, and buildings, enhancing efficiency and reliability.
+
+2. **DC Solar Inverter Technology**: Advanced inverters designed to convert solar energy directly into usable DC power, reducing conversion losses and improving the integration of renewable energy sources in various sectors.
+
+3. **DC Cooling Systems for Data Centers**: Innovative cooling solutions that utilize direct current to reduce energy consumption and improve thermal management within data centers, leading to lower operational costs.
+
+4. **Energy Management Software for Buildings**: Intelligent software systems that optimize energy usage by integrating DC appliances and technologies, promoting sustainability and cost savings in building operations.
+
+5. **DC Charging Infrastructure for Ports**: Specialized charging stations designed for electric vehicles and equipment operating on direct current, facilitating the transition to sustainable transport solutions within port environments.

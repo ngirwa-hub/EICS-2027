@@ -1,0 +1,9 @@
+1. Solar Power System for Ports: A solar power system that utilizes photovoltaic panels to generate renewable energy for port facilities, reducing reliance on fossil fuels and lowering carbon footprint.
+
+2. DC Microgrid for Industry: An energy management system that incorporates DC microgrids in industrial settings, allowing for efficient use of energy resources and improved power quality.
+
+3. Efficient Lighting System for Data Centers: A lighting system that uses DC technology to provide energy-efficient illumination, reducing energy consumption and maintenance costs.
+
+4. Energy Management System for Buildings: An integrated system that utilizes DC technology to optimize energy management in buildings, improving energy efficiency and reducing operational costs.
+
+5. HVDC Transmission for Long-Distance Power Transfer: A high voltage direct current (HVDC) transmission system that enables the transfer of renewable energy from remote locations to urban areas, increasing energy accessibility and reliability.

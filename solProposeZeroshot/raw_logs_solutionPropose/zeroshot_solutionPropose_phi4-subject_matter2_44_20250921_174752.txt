@@ -1,0 +1,9 @@
+1. **DC-Powered Charging Infrastructure for Ports**: Develop dedicated direct current charging stations and infrastructure at ports to power electric vehicles (EVs) and maritime vessels directly using DC, reducing conversion losses and improving efficiency.
+
+2. **Integrated DC Microgrid Systems for Industry**: Implement self-contained microgrids within industrial facilities that operate entirely on DC power, enabling seamless integration of renewable energy sources and enhancing operational resilience.
+
+3. **DC Power Optimized Cooling Systems for Data Centers**: Design cooling systems specifically optimized for direct current power use in data centers to improve energy efficiency by minimizing conversion losses associated with AC-powered cooling technologies.
+
+4. **Building-Level DC Energy Management Systems**: Create comprehensive management systems that allow buildings to efficiently manage and distribute DC power, optimizing the use of solar panels and other renewable sources directly integrated into the building's electrical system.
+
+5. **DC Distribution Network for Urban Areas**: Develop an urban-scale DC distribution network capable of supporting mixed-use applications such as residential, commercial, and transportation sectors within a city, enhancing grid flexibility and reducing transmission losses.

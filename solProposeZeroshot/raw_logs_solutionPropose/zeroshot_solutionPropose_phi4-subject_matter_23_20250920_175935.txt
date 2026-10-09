@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: An integrated platform that optimizes the operation and energy flow within DC microgrids at ports, industries, data centers, and buildings, enhancing efficiency and reliability.
+
+2. **DC Power Quality Monitoring Device**: A tool designed to continuously monitor and ensure the quality of DC power, preventing disruptions in critical infrastructure like data centers and industrial operations.
+
+3. **DC-Powered HVAC Systems for Buildings**: Advanced heating, ventilation, and air conditioning systems powered directly by DC electricity, improving energy efficiency in buildings with high DC penetration.
+
+4. **Industrial Process Integration Module**: A solution that seamlessly integrates DC-powered machinery and processes within industries, reducing energy conversion losses and optimizing production workflows.
+
+5. **Port-Based Renewable Energy Management System**: A system tailored for ports to manage the integration of various renewable energy sources using DC technology, enhancing sustainability and operational efficiency.

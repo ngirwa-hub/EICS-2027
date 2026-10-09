@@ -1,0 +1,9 @@
+1. **DC Microgrid Control System: A management platform designed to optimize energy distribution and balance loads within a port's or data center’s direct current microgrids, ensuring efficient power delivery and resilience against outages.**
+
+2. **Renewable Energy DC Integration Module: An interface that seamlessly connects renewable energy sources like solar panels directly into an industrial DC network, enhancing sustainability by minimizing conversion losses and maximizing utilization of clean energy.**
+
+3. **DC Power Quality Monitoring System: A tool to continuously assess the quality of DC power in building environments, ensuring stability and reliability for critical applications such as HVAC systems or lighting networks powered by DC sources.**
+
+4. **Modular DC Charging Station for Ports: Flexible and scalable charging infrastructure specifically designed for port operations, enabling efficient electric vehicle (EV) and vessel charging directly from DC grids to reduce fuel consumption and emissions.**
+
+5. **DC Data Center Cooling System: A specialized cooling solution that uses direct current power to drive energy-efficient cooling systems in data centers, reducing the reliance on traditional AC-powered HVAC systems and improving overall energy efficiency.**

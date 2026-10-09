@@ -1,0 +1,5 @@
+1. Solar PV Power System: A renewable energy system that uses photovoltaic solar panels to generate direct current power for ports, industry, data centers, and buildings.
+2. Wind Turbine System: An energy system that uses wind turbines to generate direct current power for ports, industry, data centers, and buildings.
+3. Energy Storage Hybrid System: A hybrid system that combines renewable energy sources (such as solar panels and wind turbines) with energy storage solutions (like batteries or flywheels) to provide stable and reliable power supply for ports, industry, data centers, and buildings.
+4. DC Microgrid Management System: An intelligent management system that controls and optimizes the use of direct current power in microgrids for various applications, including ports, industry, data centers, and buildings.
+5. DC Smart Grid System: A smart grid system that enables efficient and flexible control of direct current power supply in different sectors, such as ports, industry, data centers, and buildings, to meet energy demands while minimizing losses and costs.

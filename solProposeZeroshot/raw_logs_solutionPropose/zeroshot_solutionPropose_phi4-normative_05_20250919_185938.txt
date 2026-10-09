@@ -1,0 +1,9 @@
+1. **DC Microgrid Control System:** An intelligent control system designed to manage and optimize the performance of DC microgrids in ports, enhancing energy efficiency and reducing emissions by coordinating various DC-powered assets.
+
+2. **Integrated DC Power Management Platform:** A platform that centralizes monitoring and management of DC power distribution across industrial facilities, improving operational efficiency and facilitating smoother integration with renewable energy sources.
+
+3. **Data Center DC Cooling System:** An advanced cooling technology utilizing DC power to improve the thermal efficiency in data centers, reducing electricity usage and enhancing overall sustainability by minimizing reliance on traditional AC-based systems.
+
+4. **DC-Powered Building Automation System:** A system that employs direct current to automate building operations such as lighting, HVAC, and security, thereby lowering energy consumption and optimizing resource use in a more sustainable manner.
+
+5. **Port DC Shuttle Bus Infrastructure:** An infrastructure setup for deploying electric shuttle buses powered by DC networks within ports, reducing carbon footprint and improving air quality by eliminating reliance on fossil fuel-based transportation systems.

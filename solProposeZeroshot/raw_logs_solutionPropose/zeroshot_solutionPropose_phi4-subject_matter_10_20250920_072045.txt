@@ -1,0 +1,14 @@
+1. **DC Microgrid Management System:**
+   A comprehensive system for managing and optimizing the operation of DC microgrids in ports, industries, data centers, and buildings. It ensures efficient energy distribution and load balancing by integrating various renewable sources and storage systems.
+
+2. **Hybrid Renewable Energy Interface (HREI):**
+   An interface technology that seamlessly integrates multiple renewable energy sources such as solar PV, wind turbines, and fuel cells into a unified DC network. This facilitates optimal power utilization and enhances the reliability of supply in industrial settings and data centers.
+
+3. **DC Power Quality Monitoring:**
+   A monitoring solution designed to ensure high-quality DC power delivery by detecting and mitigating issues like voltage fluctuations and harmonics. It is crucial for maintaining stable operations in critical environments such as data centers and smart buildings.
+
+4. **Modular DC Energy Storage Systems (MDESS):**
+   Scalable energy storage units that can be easily configured based on the specific needs of ports, industries, or commercial buildings. They provide backup power, improve resilience, and support peak shaving by storing excess renewable energy in DC form.
+
+5. **DC-Based Smart Lighting System:**
+   An innovative lighting solution for buildings and industrial facilities that leverages direct current to enhance energy efficiency and reduce conversion losses. It includes smart controls for adaptive lighting based on occupancy and natural light availability.

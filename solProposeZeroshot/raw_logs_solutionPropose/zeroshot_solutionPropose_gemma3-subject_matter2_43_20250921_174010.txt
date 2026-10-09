@@ -1,0 +1,5 @@
+1. DC-Based Power Distribution Units (PDUs): Intelligent PDUs manage and distribute DC power within buildings and industrial facilities, offering granular control and energy monitoring capabilities.
+2. Dynamic DC Voltage Regulation: A system that actively adjusts the DC voltage level based on load demand and renewable energy availability, optimizing efficiency and reducing losses.
+3. DC-Native Energy Management System (EMS): An EMS specifically designed for DC microgrids, enabling real-time monitoring, control, and optimization of energy flow and resource allocation.
+4. Modular DC Power Architectures: Standardized, scalable DC power modules that allow for flexible and adaptable power systems in data centers and industrial applications.
+5. DC-Based Wireless Power Transfer (WPT) for Ports: Utilizing WPT to charge electric vehicles and equipment in port environments, minimizing cabling and improving operational flexibility.

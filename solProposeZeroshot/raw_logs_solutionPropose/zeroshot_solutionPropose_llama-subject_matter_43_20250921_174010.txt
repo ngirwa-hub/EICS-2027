@@ -1,0 +1,5 @@
+1. Solar Microgrids: A system that utilizes small-scale solar power systems connected in microgrids, allowing for efficient distribution and management of energy within port or industrial areas.
+2. Efficient DC Pumps: An innovative solution that uses direct current to power pumps in data centers, leading to increased efficiency and reduced energy costs.
+3. Smart Lighting System: A system that utilizes DC technology for smart lighting systems in buildings, allowing for remote control and optimization of energy usage.
+4. Energy Efficient HVAC Systems: An innovative solution that uses DC technology to improve the efficiency of heating, ventilation, and air conditioning (HVAC) systems in buildings, leading to reduced energy consumption and costs.
+5. Modular DC Solutions: A flexible and modular approach to DC solutions for different sectors, allowing for customized and scalable implementation within ports, industry, data centers, and buildings.

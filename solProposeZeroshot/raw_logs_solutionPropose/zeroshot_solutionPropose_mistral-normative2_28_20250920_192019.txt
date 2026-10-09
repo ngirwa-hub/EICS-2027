@@ -1,0 +1,9 @@
+Solution 1: DC Distribution Grid for Ports: A modernized, high-voltage DC distribution system designed specifically for ports to manage large volumes of power from multiple renewable energy sources, reducing losses and enabling seamless integration of electric vessels.
+
+Solution 2: Modular DC Power Storage for Industry: Pre-fabricated, scalable DC energy storage modules that can be easily integrated into industrial facilities, providing onsite backup power and supporting the use of renewables in off-grid or microgrid applications.
+
+Solution 3: DC Microgrid Controller for Data Centers: An intelligent control system for DC microgrids in data centers, optimizing load management and energy distribution to reduce waste, improve efficiency, and increase reliability.
+
+Solution 4: Building Integrated Photovoltaics (BIPV) with Direct Current for Buildings: Energy-producing building materials that generate DC electricity directly, simplifying wiring and reducing energy loss, while also providing aesthetic benefits as part of the building's design.
+
+Solution 5: Onsite DC Generation and Consumption in Buildings: Micro combined heat and power (CHP) units that produce DC electricity on-site for buildings, enabling efficient, clean energy production and reducing reliance on the grid.

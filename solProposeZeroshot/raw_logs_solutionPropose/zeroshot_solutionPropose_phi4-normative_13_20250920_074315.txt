@@ -1,0 +1,9 @@
+1. **DC Microgrid Infrastructure**: A scalable and flexible energy system for ports that integrates renewable sources like solar panels directly into a DC network, optimizing power distribution efficiency and reducing carbon emissions.
+
+2. **Industrial DC Process Heating**: Utilizes direct current for heating processes in manufacturing, enhancing energy efficiency by minimizing conversion losses typically associated with AC systems, thereby reducing operational costs and environmental impact.
+
+3. **DC-Powered Data Center Cooling Systems**: A cooling system specifically designed to be powered directly from a DC microgrid, improving energy efficiency and reducing the overall carbon footprint of data centers through minimized power conversion stages.
+
+4. **Building-Level Energy Management System (DC-EMS)**: An intelligent control platform that manages all building operations on a direct current basis, optimizing energy use by synchronizing with local renewable sources to enhance sustainability and reduce reliance on traditional AC grids.
+
+5. **DC-Powered Electric Vehicle Charging Stations**: Stations designed for DC charging of electric vehicles in port areas and parking facilities within buildings, enabling faster charging times and integration with renewable energy sources to support sustainable transportation infrastructure.

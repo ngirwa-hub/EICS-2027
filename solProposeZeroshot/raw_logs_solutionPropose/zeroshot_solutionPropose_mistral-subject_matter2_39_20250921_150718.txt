@@ -1,0 +1,14 @@
+1. Solution Title: DC Grid Tie Inverter for Ports
+   Brief Explanation: A device that converts excess DC power from shore-side or onboard renewable energy sources (e.g., solar panels, wind turbines) into AC power for grid connection in ports.
+
+2. Solution Title: Direct Current Arc Fault Protection for Industry
+   Brief Explanation: An innovative solution to prevent dangerous DC arcs in high voltage applications within industries, ensuring worker safety and system reliability.
+
+3. Solution Title: Modular DC Power Distribution for Data Centers
+   Brief Explanation: A scalable and flexible DC power distribution system that enables efficient management of power loads in data centers, reducing energy losses and costs.
+
+4. Solution Title: Smart DC Load Management for Buildings
+   Brief Explanation: An intelligent system for optimizing the use of DC power within buildings, balancing load demands and ensuring efficient energy consumption.
+
+5. Solution Title: DC Microgrid Controllers for Ports, Industry, Data Centers, and Buildings
+   Brief Explanation: Advanced controllers that manage the operation of DC microgrids, ensuring stability, resilience, and seamless integration with the main grid or other energy sources.

@@ -1,0 +1,14 @@
+1. **DC Microgrid Management System:**
+   A centralized platform that optimizes energy distribution and consumption in ports, industries, data centers, and buildings using direct current (DC) microgrids.
+
+2. **DC-Powered Electric Vehicles (EVs):**
+   Charging infrastructure for electric vehicles using DC power to reduce charging time significantly compared to AC systems, particularly beneficial for ports with large vehicle fleets.
+
+3. **High-Efficiency LED Lighting:**
+   Integration of direct current LED lighting solutions in buildings and data centers to enhance energy efficiency and reduce electricity consumption by eliminating conversion losses from AC to DC.
+
+4. **DC-Powered HVAC Systems:**
+   Heating, ventilation, and air conditioning systems powered directly by DC, improving energy efficiency and reducing operational costs for industries and large facilities like data centers.
+
+5. **Energy Management Software:**
+   Advanced software that monitors and manages DC power usage across various applications such as ports and industrial settings to enhance energy savings and system reliability.

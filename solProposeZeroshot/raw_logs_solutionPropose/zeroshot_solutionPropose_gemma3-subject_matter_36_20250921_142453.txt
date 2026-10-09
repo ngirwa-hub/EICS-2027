@@ -1,0 +1,5 @@
+1. DC-Based Wireless Power Transfer (WPT) System: Facilitates power distribution within ports and buildings, reducing cabling needs and improving flexibility, particularly useful for automated guided vehicles (AGVs) and robotics.
+2. DC-Native Energy Management System (EMS): Provides real-time monitoring, control, and optimization of DC power flows within industrial facilities and data centers, enhancing efficiency and reducing operational costs.
+3. Modular DC Power Distribution Units (PDUs): Enables scalable and flexible power delivery within buildings and data centers, accommodating varying load demands and simplifying maintenance.
+4. High-Efficiency DC Lighting Systems: Reduces energy consumption and heat generation in ports, industrial settings, and buildings by directly powering LED lighting from DC sources.
+5. DC-Based Microgrid Controller: Optimizes energy usage and facilitates islanding capabilities within ports, industry, data centers, and buildings, enhancing resilience and reducing reliance on the main grid.

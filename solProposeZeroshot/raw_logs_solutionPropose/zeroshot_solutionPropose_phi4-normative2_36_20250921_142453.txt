@@ -1,0 +1,9 @@
+1. **DC Microgrid Systems:** Implement decentralized microgrids that utilize DC power for energy distribution within ports and industrial settings, enhancing reliability and reducing dependency on traditional AC systems.
+
+2. **Integrated DC Power Management Software:** Develop software platforms specifically tailored for managing DC energy flows in data centers, optimizing efficiency and facilitating the integration of renewable energy sources.
+
+3. **DC-Powered HVAC Systems for Buildings:** Design and deploy heating, ventilation, and air conditioning (HVAC) systems that run directly on DC power, improving overall system efficiency by minimizing conversion losses between DC generation and usage.
+
+4. **DC-Specific Energy Management Systems (EMS):** Create EMS solutions for industries focused on optimizing the use of DC power, providing detailed monitoring and control to improve operational efficiencies and reduce energy waste.
+
+5. **Smart Inverter Technology for DC Integration:** Develop smart inverters that seamlessly integrate DC systems into existing AC grids in ports and data centers, enhancing flexibility and enabling smoother transitions between different power systems.

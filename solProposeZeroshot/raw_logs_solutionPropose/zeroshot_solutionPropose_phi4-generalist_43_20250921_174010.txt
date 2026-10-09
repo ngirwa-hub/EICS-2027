@@ -1,0 +1,9 @@
+1. **DC Microgrid Control System**: An advanced control system for managing power distribution within DC microgrids in ports and industrial settings, optimizing energy efficiency and reliability.
+
+2. **Integrated Renewable Energy Management**: A platform that seamlessly integrates renewable energy sources like solar and wind with existing infrastructure, enhancing sustainability across industries and buildings.
+
+3. **DC Power Quality Monitoring**: A real-time monitoring tool ensuring the stability and quality of DC power supply in data centers, preventing disruptions and maintaining operational efficiency.
+
+4. **Modular DC Energy Storage Systems**: Portable and scalable battery units tailored for DC applications, providing flexible energy storage solutions suitable for various sectors including ports and buildings.
+
+5. **DC-Powered HVAC Systems**: Advanced heating, ventilation, and air conditioning systems operating on direct current to increase energy efficiency in data centers and modern office buildings.

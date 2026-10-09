@@ -1,0 +1,9 @@
+1. **DC Energy Storage Systems**: These systems store energy in battery form and integrate seamlessly with DC networks in ports, industries, data centers, and buildings to provide reliable power and enhance energy efficiency by reducing conversion losses.
+
+2. **Microgrid Control Software for DC Networks**: This software manages the operation of distributed energy resources within a DC microgrid, optimizing power flow and ensuring stability across sectors like ports and industrial facilities.
+
+3. **DC Power Quality Monitoring Tools**: These tools continuously assess the quality of DC power in real-time, helping to maintain stable operations in environments such as data centers where consistent power is crucial.
+
+4. **Hybrid AC-DC Distribution Network**: A flexible infrastructure that can seamlessly switch between AC and DC distribution, allowing industries and buildings to benefit from both systems' advantages based on operational needs.
+
+5. **Renewable Energy Integration Platforms for DC Systems**: These platforms facilitate the integration of renewable energy sources like solar or wind into existing DC infrastructures in sectors such as ports and buildings, enhancing sustainability and reducing carbon footprints.

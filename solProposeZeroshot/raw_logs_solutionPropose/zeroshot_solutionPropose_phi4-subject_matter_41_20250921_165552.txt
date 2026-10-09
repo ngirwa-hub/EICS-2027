@@ -1,0 +1,9 @@
+1. **DC Microgrid Controllers:** Advanced control systems for managing and optimizing the operation of localized DC microgrids, enhancing efficiency and reliability in ports, industry, data centers, and buildings.
+
+2. **DC Power Management Software:** Integrated software platforms that facilitate real-time monitoring and management of DC power flows, ensuring optimal performance and energy savings across various sectors.
+
+3. **Hybrid AC-DC Distribution Systems:** Innovative infrastructure designs combining both AC and DC distribution networks to maximize the benefits of each system in diverse applications such as ports and industrial facilities.
+
+4. **Modular DC Power Units:** Scalable and flexible units that can be easily integrated into existing buildings or data centers, allowing for tailored power solutions that meet specific energy demands.
+
+5. **DC-Powered Electric Vehicle Charging Stations:** Specialized charging stations using DC technology to provide faster and more efficient charging options at ports and in urban settings, supporting the transition to electric mobility.

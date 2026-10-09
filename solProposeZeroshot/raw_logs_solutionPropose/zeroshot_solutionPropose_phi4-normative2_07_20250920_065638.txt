@@ -1,0 +1,9 @@
+1. **DC Microgrid Integration Platform**: A software platform that enables seamless integration and management of various DC microgrids in ports, industries, data centers, and buildings, ensuring efficient energy distribution and operational coordination.
+
+2. **Energy Management System (EMS) for DC Networks**: An advanced EMS designed specifically to optimize energy use within DC networks across different sectors by utilizing real-time monitoring and control capabilities, enhancing overall system efficiency and reducing costs.
+
+3. **DC Power Quality Enhancement Module**: A device or software module that ensures high-quality power delivery in DC systems, minimizing fluctuations and disruptions, crucial for sensitive environments like data centers and industries.
+
+4. **DC-Efficient HVAC System**: An HVAC solution specifically engineered to operate on DC power, maximizing energy efficiency and reducing conversion losses, suitable for buildings and industrial facilities transitioning to DC infrastructure.
+
+5. **Modular DC-Powered Charging Stations**: Flexible and scalable charging solutions tailored for ports and industry settings, supporting various vehicle types with high-efficiency DC power delivery to facilitate the transition to electric transportation systems.

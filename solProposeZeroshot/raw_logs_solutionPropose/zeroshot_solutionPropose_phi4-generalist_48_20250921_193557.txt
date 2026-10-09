@@ -1,0 +1,9 @@
+1. **DC-Powered Electric Vehicle Chargers**: These chargers provide direct current for electric vehicles at ports and public parking areas in buildings, reducing charging time by eliminating AC-DC conversion.
+
+2. **DC Microgrid Management System**: A system that optimizes power distribution within DC microgrids across industries and data centers to enhance efficiency and reliability of energy supply.
+
+3. **DC Water Pumping Systems for Ports**: Direct current technology used in water pumping systems at ports can improve energy efficiency by reducing losses associated with AC-DC conversion.
+
+4. **Industrial Process Integration with DC Power**: This solution integrates various industrial processes that already operate on DC power, improving overall energy efficiency and minimizing the need for conversions.
+
+5. **DC Cooling Systems for Data Centers**: Utilizing direct current to power cooling systems in data centers can enhance energy efficiency by reducing the need for AC-DC conversion typically required by conventional systems.

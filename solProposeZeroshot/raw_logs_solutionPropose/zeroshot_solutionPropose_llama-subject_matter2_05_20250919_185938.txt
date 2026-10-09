@@ -1,0 +1,5 @@
+1. Renewable DC Microgrids for Ports: A system that integrates renewable energy sources such as solar and wind with DC microgrids at ports, optimizing energy management and reducing dependence on fossil fuels.
+2. Grid-Connected DC Systems for Industry: An integrated system that connects industrial processes directly to the grid through DC transmission, enabling efficient power exchange and reducing energy losses.
+3. Energy-Efficient DC Data Centers: A data center design that utilizes DC power distribution, reducing energy consumption and minimizing carbon footprint.
+4. Building Automation for DC Buildings: An intelligent building automation system that operates on DC power, improving energy efficiency and enabling seamless integration with other DC solutions in the building.
+5. DC-Based EV Charging Infrastructure: A charging infrastructure for electric vehicles that uses DC power, providing faster and more efficient charging compared to AC systems.

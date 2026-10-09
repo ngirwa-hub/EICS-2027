@@ -1,0 +1,5 @@
+1. DC Microgrids for Ports: An integrated system that uses DC energy storage and power electronics for efficient distribution of electricity within port areas.
+2. Solar-Powered DC Lighting Systems for Industry: A sustainable lighting solution using photovoltaic panels to generate DC power, reducing dependence on fossil fuels for industrial operations.
+3. Efficient DC Air Conditioning Systems for Data Centers: An energy-efficient DC system designed specifically for data centers that improves cooling efficiency and reduces energy consumption.
+4. Smart DC Lighting Controls for Buildings: A DC lighting control system that optimizes energy usage in buildings by adjusting LED light levels based on occupancy and natural light levels.
+5. DC Power Supplies for Electric Vehicles: An efficient power supply solution that converts AC power to DC energy for electric vehicles, increasing their range and reducing charging time.

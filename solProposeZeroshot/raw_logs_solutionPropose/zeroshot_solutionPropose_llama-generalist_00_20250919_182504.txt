@@ -1,0 +1,10 @@
+1. Ports: Purely DC Power Supply System
+   - This system provides power supply exclusively through direct current, reducing energy losses during conversion and increasing overall efficiency.
+2. Industry: DC Drive Technology for Electric Motors
+   - By using high-efficiency DC drives, this solution allows for better control of electric motor speed and torque, resulting in improved production efficiency and reduced energy consumption.
+3. Data Centers: DC Cooling System
+   - This system employs direct current to power cooling systems within data centers, reducing the reliance on traditional AC-based methods and improving overall energy efficiency.
+4. Buildings: DC Lighting System for Large Spaces
+   - A lighting solution that operates exclusively through direct current, offering increased energy savings and improved illumination quality in large-scale building applications such as warehouses or shopping malls.
+5. Ports: Modular Microgrid Architecture for DC Applications
+   - This modular design enables the creation of customized microgrids tailored to specific port needs, improving overall energy efficiency and resiliency in a flexible and scalable manner.

@@ -1,0 +1,5 @@
+1. DC-Based Power Distribution Units (PDUs): Intelligent DC PDUs manage power distribution within DC microgrids, offering remote monitoring, load balancing, and surge protection tailored for DC loads.
+2. Dynamic Voltage Sag Mitigation System: A DC system utilizing supercapacitors or fast-acting DC-DC converters to rapidly compensate for voltage sags, critical for sensitive equipment in data centers and industrial processes.
+3. DC-Native Energy Management System (EMS): A dedicated EMS optimized for DC microgrids, enabling advanced control strategies, predictive maintenance, and integration of distributed energy resources.
+4. DC Harmonic Filter Design Tool: Software to optimize harmonic filter design for DC systems, minimizing distortion and ensuring power quality in industrial and port environments.
+5. Modular DC Power Supply System: Standardized, scalable DC power supply modules allow for flexible system sizing and easy expansion in buildings and data centers.

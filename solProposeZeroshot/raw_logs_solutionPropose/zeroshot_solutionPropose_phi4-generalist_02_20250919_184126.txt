@@ -1,0 +1,9 @@
+1. **DC Charging Infrastructure for Ports**: Installations and systems designed to provide direct current charging capabilities at port facilities, facilitating efficient power transfer to ships without the need for AC-DC conversion.
+
+2. **Industrially Integrated DC Power Systems**: Customized DC grids within industrial settings that connect machinery and equipment directly with a DC supply, minimizing energy losses from multiple conversions and enhancing operational efficiency.
+
+3. **Data Center Onsite Renewable Integration**: Direct connection of renewable energy sources like solar panels to data centers using DC power systems, reducing the need for conversion stages and optimizing energy use from sustainable sources.
+
+4. **DC-Enabled Smart Building Systems**: Implementing building management systems that operate on direct current, improving compatibility with renewable energy installations and reducing reliance on AC conversions in smart buildings.
+
+5. **Portable DC Power Stations**: Mobile units providing flexible DC power solutions for temporary or emergency needs in various sectors, such as industrial sites and data centers, facilitating quick deployment and efficient power distribution.

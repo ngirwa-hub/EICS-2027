@@ -1,0 +1,9 @@
+1. **DC Power Management System:** An advanced control system that optimizes power distribution and usage in ports, industry, data centers, and buildings by efficiently managing direct current flows.
+
+2. **DC Microgrid Controller:** A solution that integrates various renewable energy sources within a DC microgrid framework to provide reliable power supply and enhance resilience in industrial facilities and buildings.
+
+3. **High-Efficiency Inverter Technology:** Specialized inverters designed for high efficiency when converting stored DC energy from batteries into AC for use in data centers, reducing energy waste and costs.
+
+4. **DC-Integrated Charging Infrastructure:** A system specifically developed for ports that provides efficient charging solutions for electric vehicles and ships using direct current to reduce conversion losses and speed up the transition to sustainable transport.
+
+5. **Smart DC Grid Monitoring Tool:** An intelligent monitoring tool for real-time tracking of power usage, faults, and efficiency in DC systems within data centers and industrial settings, aiding in proactive maintenance and energy management.

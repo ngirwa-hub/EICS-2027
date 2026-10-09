@@ -1,0 +1,5 @@
+1. Smart and sustainable DC cables for renewable energy integration: A system that utilizes advanced materials and designs to improve cable durability and reduce power losses during transmission.
+2. Industry-specific DC solutions for high-power applications: Specialized DC systems designed for specific industries, such as electric vehicle charging stations or metalworking factories, to optimize energy usage and efficiency.
+3. DC-based data center cooling system: A solution that uses direct current for air conditioning and heat management in data centers, reducing energy consumption and environmental impact.
+4. Building-level DC grid integration: A system that connects individual buildings to a low-voltage DC grid, enabling local energy distribution and reducing reliance on centralized power sources.
+5. Hybrid DC-AC renewable energy systems: An innovative approach that combines direct current and alternating current renewable energy sources, such as solar panels and wind turbines, to increase efficiency and maximize energy output.

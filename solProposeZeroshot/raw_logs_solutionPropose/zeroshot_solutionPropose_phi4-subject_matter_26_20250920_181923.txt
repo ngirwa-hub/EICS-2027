@@ -1,0 +1,9 @@
+1. **DC Microgrid Control System**: An advanced control system designed for managing and optimizing the performance of DC microgrids in ports and industrial settings, ensuring efficient energy distribution and stability.
+
+2. **DC Power Management Software**: A software solution that provides real-time monitoring and management capabilities for DC systems within data centers and buildings, enhancing operational efficiency and reliability.
+
+3. **Hybrid AC-DC Inverters**: Devices capable of converting between AC and DC with high efficiency, enabling seamless integration of renewable energy sources into existing infrastructure in ports and industrial complexes.
+
+4. **DC Power Quality Monitoring System**: A system designed to continuously assess and ensure the quality of power within DC grids, crucial for maintaining reliable operations in data centers and critical building infrastructures.
+
+5. **Modular DC Energy Storage Units**: Scalable storage solutions that can be easily integrated into existing DC systems across various sectors, providing flexibility and enhancing energy resilience in ports, industry, data centers, and buildings.

@@ -1,0 +1,9 @@
+1. Solar PV Floaters: Floating solar power systems that harness the energy from solar photovoltaic panels installed on floating structures in ports or industrial areas. This solution reduces land use and provides clean energy for port operations and local grid supplies.
+
+2. Energy-efficient DC Lighting: A lighting system that operates on low-voltage DC power to reduce energy consumption and improve efficiency. This solution can be implemented in buildings, data centers, and industrial facilities, providing improved illumination while reducing energy costs.
+
+3. Smart EV Charging Stations: An intelligent charging system for electric vehicles (EVs) that utilizes DC power and incorporates advanced features such as real-time monitoring, remote access, and predictive maintenance. This solution can be deployed in port parking lots or in industrial areas to support sustainable transportation.
+
+4. Hybrid DC/AC Power Conversion: A system that integrates both direct current (DC) and alternating current (AC) power conversion technologies to optimize energy efficiency and cost savings. This solution can be applied in data centers, buildings, or industrial facilities where a combination of DC and AC systems is required.
+
+5. Microgrids for Ports: A decentralized power system that enables ports to generate, store, and distribute their own electricity within the port area. This solution addresses energy security, reliability, and resilience while reducing dependence on centralized grid connections.

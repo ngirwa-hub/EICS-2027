@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System:** A platform that efficiently manages and optimizes the distribution and utilization of power within a DC microgrid, ensuring optimal performance in ports, industry, data centers, and buildings.
+
+2. **Integrated DC-Powered Cooling Solutions:** Energy-efficient cooling systems designed to operate directly on DC for use in data centers and industrial environments, reducing energy losses from AC-DC conversion typically associated with traditional cooling systems.
+
+3. **DC Power Distribution Unit (PDU):** A device specifically tailored for the distribution of direct current power within buildings and industrial settings, facilitating easier integration and management of various DC-powered devices and systems.
+
+4. **Real-Time Monitoring and Analytics for DC Systems:** Tools that provide comprehensive monitoring and analytics capabilities to track performance metrics in real-time, improving operational efficiency and reliability across data centers and industrial applications using DC power.
+
+5. **DC-to-AC Hybrid Power Interface:** A system designed to seamlessly integrate with existing AC infrastructure while facilitating increased adoption of DC technologies by allowing bidirectional conversion between DC and AC as needed for specific applications in ports or industrial settings.

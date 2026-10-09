@@ -1,0 +1,9 @@
+1. Solar PV Tracking System: A system that optimizes solar photovoltaic panel orientation by tracking the sun's movement, increasing energy production efficiency and reducing energy losses.
+
+2. HVDC Transmission: High-voltage direct current (HVDC) transmission technology enables efficient long-distance electricity transportation over large distances without losing power quality or quantity.
+
+3. DC Microgrids for Ports: A decentralized grid system that integrates renewable energy sources and energy storage systems to provide resilient and sustainable power supply for port operations.
+
+4. Efficient Cooling Systems: Advanced direct current (DC) cooling solutions that utilize variable speed drives, heat exchangers, and energy-efficient refrigerants to minimize energy consumption and carbon footprint in data centers.
+
+5. DC Lighting Systems: A DC lighting system that uses LED technology and advanced power electronics to provide high efficiency and low maintenance costs for buildings. It reduces energy consumption, enhances safety, and extends the lifespan of lighting fixtures.

@@ -1,0 +1,11 @@
+1. Solution Title: Power Electronics Interface for Vessels (PEIV): A system that enables direct connection of ships to shore-side DC grids, reducing conversion losses and increasing efficiency at ports.
+
+2. Solution Title: DC Grid Management System (DCGMS): An advanced system for monitoring and controlling DC grids in buildings, ensuring optimal operation and safety.
+
+3. Solution Title: DC Microgrid Controller for Industrial Applications (DMCIA): A controller that optimizes the distribution of power from renewable sources within industrial DC microgrids.
+
+4. Solution Title: Data Center DC Power Distribution Unit (DC-PDU): A system designed to distribute direct current power more efficiently within data centers, reducing energy losses and improving overall performance.
+
+5. Solution Title: Building Integrated Photovoltaic Systems with Direct Current Output (BIPV-DC): Solar panels integrated into building structures that produce DC power directly, eliminating the need for AC conversion in buildings.
+
+These solutions are not included in the initial list and could potentially be important for the specified sectors. Each solution is designed to improve efficiency, reduce energy losses, or increase safety within their respective applications.

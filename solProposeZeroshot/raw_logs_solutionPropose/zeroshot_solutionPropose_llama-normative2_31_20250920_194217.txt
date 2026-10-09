@@ -1,0 +1,5 @@
+1. High Efficiency DC Motor: A highly efficient DC motor that minimizes energy loss during operation and improves overall efficiency in port operations, industry applications, data centers, and building automation systems.
+2. Grid-connected DC Microgrids for Ports: A solution that allows ports to integrate their local power production with the grid, reducing reliance on fossil fuels and lowering greenhouse gas emissions.
+3. Advanced DC Lighting System: A sophisticated lighting system using DC technology that provides energy savings, longer lifespans of bulbs, and improved color rendering in port areas, warehouses, data centers, and buildings.
+4. Smart Charging Infrastructure for Electric Vehicles: A system that optimizes charging times and energy consumption by adjusting charging schedules based on factors such as occupancy patterns, weather forecasts, and traffic flow in the surrounding area.
+5. DC-based HVAC Systems: Highly efficient heating, ventilation, and air conditioning systems that use DC technology to provide accurate temperature control and improve indoor environmental quality in commercial buildings, data centers, and port facilities.

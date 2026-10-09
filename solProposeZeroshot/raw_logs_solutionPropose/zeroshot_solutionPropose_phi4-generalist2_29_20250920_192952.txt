@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A centralized control system that optimizes energy distribution and efficiency in DC microgrids, ensuring reliable power supply for ports, industries, data centers, and buildings.
+
+2. **High-Efficiency DC Lighting Systems**: Advanced lighting systems designed to operate on DC power, reducing conversion losses and enhancing energy efficiency across various sectors like data centers and buildings.
+
+3. **DC-Powered HVAC Solutions**: Heating, ventilation, and air conditioning (HVAC) units that run directly on DC power, improving energy efficiency and reducing operational costs in industries and large facilities such as data centers.
+
+4. **Renewable Energy Integration Platform**: A digital platform facilitating seamless integration of renewable energy sources into existing DC infrastructures across sectors like ports and industry, enhancing sustainability and energy resilience.
+
+5. **DC-Powered Electric Vehicle (EV) Charging Stations**: Dedicated charging stations that utilize DC power for faster and more efficient EV charging in urban areas, particularly beneficial at ports and industrial sites with high vehicle usage.

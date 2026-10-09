@@ -1,0 +1,5 @@
+1. Ports: Advanced DC Grid: A system that uses advanced direct current grids in ports to optimize energy usage and distribution for efficient cargo handling operations.
+2. Industry: DC Motors with Variable Speed Control: Electric motors with variable speed control, allowing industries to operate at lower speeds while reducing energy consumption and noise levels.
+3. Data Centers: DC Cooling System: A direct current-based cooling system in data centers that reduces energy consumption, enhances efficiency, and decreases environmental impact by eliminating the need for air conditioning systems.
+4. Buildings: DC Efficient Lighting: A DC lighting system designed to replace traditional AC lamps with energy-efficient LED bulbs or other DC lighting technologies, reducing energy consumption in buildings. 
+5. Ports: DC Transmission Cable: An innovative direct current transmission cable for power distribution within ports and industry facilities that reduces energy losses and improves efficiency by minimizing voltage drop during long-distance transmission.

@@ -1,0 +1,9 @@
+1. **DC-Powered Port Equipment:** This solution involves integrating direct current systems into port machinery such as cranes and automated guided vehicles (AGVs), reducing energy conversion losses and increasing operational efficiency.
+
+2. **Industrial Process Direct Current Systems:** Implementing DC power for specific industrial processes that require stable voltage, which can lead to reduced energy waste and enhanced process control in manufacturing environments.
+
+3. **Data Center Modular Power Distribution Units (PDU):** Development of PDUs specifically designed for efficient distribution of DC power within data centers, minimizing conversion stages from AC to DC, thus improving overall energy efficiency and reliability.
+
+4. **DC Microgrid Solutions for Buildings:** Establishing localized microgrids that utilize direct current for distributed generation and storage, enhancing resilience against grid disruptions and optimizing renewable energy use in urban buildings.
+
+5. **DC Power Conditioning Equipment:** Creating equipment tailored to condition and stabilize DC power supply for sensitive electronics across ports, industry, data centers, and buildings, ensuring smooth operation and extending the lifespan of electrical devices.

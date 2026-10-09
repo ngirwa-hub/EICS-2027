@@ -1,0 +1,9 @@
+1. Solution Title: DC Grid Connection for Ports: A system that allows ports to connect directly to a DC grid, reducing energy losses and enabling efficient handling of large amounts of power from renewable sources like wind turbines and solar panels.
+
+2. Solution Title: DC Power Distribution in Industry: A centralized DC power distribution system for industrial facilities, which can optimize the use of electricity, reduce energy losses, and facilitate the integration of renewable energy sources.
+
+3. Solution Title: DC UPS Systems for Data Centers: Uninterruptible Power Supply (UPS) systems using DC power to provide backup power in case of an outage, improving efficiency and reducing costs associated with AC-DC conversion.
+
+4. Solution Title: DC Microgrids for Buildings: A small-scale DC grid within a building that can be used for local power distribution, reducing energy losses and enabling the integration of renewable energy sources such as solar panels or wind turbines.
+
+5. Solution Title: Energy Management System (EMS) for Ports: An intelligent EMS designed specifically for ports that optimizes the use of energy resources, including DC systems, to improve efficiency, reduce costs, and manage grid stability. (This solution builds on existing solutions like DC cables and connectors by providing overall system management.)

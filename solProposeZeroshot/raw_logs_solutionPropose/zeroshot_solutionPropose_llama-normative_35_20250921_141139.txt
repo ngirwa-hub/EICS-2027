@@ -1,0 +1,9 @@
+1. Efficient DC Lighting System: A lighting system that operates on DC voltage and eliminates energy losses due to AC-DC conversion in conventional systems. It is more efficient and cost-effective for buildings.
+
+2. Fast Charging DC Batteries: DC fast chargers for electric vehicle (EV) batteries, which reduces charging time and improves EV adoption rates in port areas, industrial zones, and data centers.
+
+3. High-Power DC Motors: Advanced DC motors that offer high power density, increased efficiency, and reduced energy consumption in transportation, material handling equipment, and industrial applications.
+
+4. Modular DC Power System: A modular DC power system designed for data center applications, offering higher reliability, faster deployment times, and easier maintenance than traditional AC-based systems.
+
+5. Wireless DC Power Transfer: An innovative solution that enables wireless transfer of electricity using magnetic induction technology, eliminating the need for wires in buildings and industrial settings, reducing installation costs and enhancing safety.

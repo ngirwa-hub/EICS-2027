@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System: A platform for managing and optimizing the distribution of power within a DC microgrid**, ensuring efficient energy use across various sectors like ports, industry, data centers, and buildings.
+
+2. **DC-Powered Industrial Machinery: Development of industrial machinery that operates directly on DC**, reducing energy conversion losses and improving efficiency in manufacturing processes.
+
+3. **DC Power Supply for Data Centers: An integrated power supply solution designed to deliver electricity in DC form**, minimizing conversion stages and enhancing the energy efficiency of data center operations.
+
+4. **Energy-Efficient DC Lighting Systems for Buildings: LED lighting systems that operate directly on DC**, reducing energy consumption and installation complexity compared to traditional AC-powered systems.
+
+5. **DC-Enabled Smart Port Infrastructure: Implementation of smart technologies in ports using DC power**, such as automated equipment and sensors, improving operational efficiency and sustainability.

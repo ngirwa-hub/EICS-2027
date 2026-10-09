@@ -1,0 +1,9 @@
+Solution 1: DC Grid Tie Inverter for Buildings: A device that converts excess renewable energy from building-integrated solar panels or wind turbines into usable DC power, feeding it back into the local DC microgrid.
+
+Solution 2: Portside DC Terminal Equipment (PDTE): A system that enables the efficient and safe connection of ships to onshore power grids in ports, reducing emissions and improving air quality.
+
+Solution 3: DC Microgrid Control System for Industry: An advanced control system that optimizes the operation of a DC microgrid within industrial facilities, ensuring efficient energy distribution and load management.
+
+Solution 4: Data Center DC UPS (Uninterruptible Power Supply): A high-efficiency, direct current uninterruptible power supply for data centers, providing clean backup power in case of grid failures while minimizing conversion losses.
+
+Solution 5: Portable DC Battery Storage for Emergency Response: Compact, modular battery storage systems that can be deployed quickly at ports to provide emergency power during outages or grid stress events.

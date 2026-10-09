@@ -1,0 +1,9 @@
+1. Ports: Efficient DC Cooling System: A system that utilizes direct current for cooling purposes in ports, reducing energy consumption and lowering carbon footprint.
+
+2. Industry: DC-Powered Injection Molding Machine: An industrial machine that operates using direct current power, improving efficiency and lowering production costs.
+
+3. Data Centers: DC-Based Liquid Cooling System: A system that employs direct current to cool data center infrastructure, increasing energy efficiency and reducing cooling costs.
+
+4. Buildings: DC-Powered Lighting System: An LED lighting system powered by direct current, offering greater energy savings and reduced maintenance compared to traditional AC systems.
+
+5. Ports, Industry, Data Centers, Buildings: DC Microgrid Integration: The integration of local DC microgrids in various sectors, enabling energy management and reducing dependence on centralized power grids.

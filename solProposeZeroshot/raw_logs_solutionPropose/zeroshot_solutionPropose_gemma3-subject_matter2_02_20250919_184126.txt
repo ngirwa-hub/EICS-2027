@@ -1,0 +1,5 @@
+1. DC-Based Power Distribution Units (PDUs): Intelligent PDUs manage and distribute DC power within facilities, offering precise voltage regulation and load balancing capabilities. These are critical for optimizing energy use and reducing losses in DC systems.
+2. Dynamic Voltage Sag Mitigation System: Utilizes DC-DC converters and energy storage to rapidly compensate for voltage sags and interruptions, ensuring process reliability in industrial and data center environments.
+3. DC-Native Lighting Systems: Direct powering of LED lighting fixtures from a DC source eliminates AC-DC conversion, boosting overall system efficiency and reducing heat generation in buildings.
+4. DC-Based Wireless Power Transfer (WPT) for Ports: Enables contactless charging of electric vehicles and equipment within port facilities, improving operational flexibility and eliminating cable clutter.
+5. Modular DC Power Architectures: Offers scalable and adaptable DC power solutions by utilizing standardized DC power modules, facilitating easier integration and future expansion in data centers and industrial settings.

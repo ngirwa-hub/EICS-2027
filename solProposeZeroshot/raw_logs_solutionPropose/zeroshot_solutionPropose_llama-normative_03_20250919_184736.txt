@@ -1,0 +1,14 @@
+Solution Title: Solar PV System for Ports
+Explanation: A solar photovoltaic system can be installed on ports to generate clean energy and reduce their reliance on fossil fuels. This would not only help in reducing the carbon footprint but also lower operational costs in the long run.
+
+Solution Title: Energy Efficient Lighting System for Industry
+Explanation: DC-powered lighting systems can be implemented in industrial settings, which would significantly reduce energy consumption and maintenance costs. These systems are highly efficient, long-lasting, and offer better control over illumination.
+
+Solution Title: Data Center Cooling System using DC Fans
+Explanation: The use of Direct Current (DC) fans in data centers can help improve the efficiency of cooling systems. DC fans operate at a lower voltage and current compared to their AC counterparts, resulting in reduced power consumption and improved thermal management.
+
+Solution Title: Smart Building Automation System using DC Networks
+Explanation: By integrating DC networks into building automation systems, energy consumption can be optimized through real-time monitoring of lighting, HVAC, and other systems. This would allow for better control over energy usage and reduce overall operational costs.
+
+Solution Title: Efficient CCTV System using DC Power Supply
+Explanation: A closed-circuit television (CCTV) system powered by Direct Current can significantly improve the efficiency of surveillance systems. DC power supply offers lower voltage, reduced power consumption and longer life span compared to traditional AC power supplies for CCTV cameras. This results in reduced operational costs and improved security performance.

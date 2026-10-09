@@ -1,0 +1,5 @@
+1. Solar PV System Integration: A system that integrates solar photovoltaic (PV) panels directly into the DC grid, allowing for higher efficiency and reduced energy losses.
+2. Wind Turbine Integration: A system that integrates wind turbines directly into the DC grid, providing clean and sustainable energy to power ports, industry, data centers, and buildings.
+3. Energy Management System: An intelligent system that optimizes energy consumption and distribution in buildings, improving efficiency and reducing costs.
+4. DC Microgrid Controller: A control system that manages the operation of the DC microgrid, ensuring stable power supply and efficient energy management for ports, industry, data centers, and buildings.
+5. Grid Integration Testing: Conducting testing to ensure seamless integration of DC systems into the existing grid infrastructure, addressing technical challenges and regulatory barriers in ports, industry, data centers, and buildings.

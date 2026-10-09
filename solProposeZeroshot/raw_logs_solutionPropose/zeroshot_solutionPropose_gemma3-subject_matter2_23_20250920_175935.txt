@@ -1,0 +1,5 @@
+1. DC-Based Power Distribution Units (PDUs): Intelligent PDUs manage and distribute DC power within facilities, offering granular control, monitoring, and fault isolation capabilities.
+2. Dynamic Voltage Sag Compensation (DVSC) for DC Microgrids: Provides rapid voltage support during disturbances, crucial for sensitive equipment in data centers and industrial processes.
+3. DC-Native Energy Management Systems (EMS): EMS specifically designed for DC grids optimize energy usage, manage distributed generation, and enable demand response strategies.
+4. Modular DC-Coupled Solar Inverters: These inverters directly convert solar panel DC output to a compatible DC voltage level, minimizing conversion losses in buildings and industrial settings.
+5. DC-Based Wireless Power Transfer (WPT) Infrastructure: Enables contactless power delivery for charging electric vehicles in ports and powering equipment in industrial environments.

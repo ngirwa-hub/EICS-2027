@@ -1,0 +1,14 @@
+Solution 1: Direct Current Distribution Networks for Ports:
+A system that enables efficient and safe distribution of DC power in port terminals, reducing energy losses and promoting the integration of electric vehicles and renewable energy sources.
+
+Solution 2: High-Power DC Transmission Systems for Industry:
+High-voltage DC transmission lines designed to transport electricity from remote renewable energy sources to industrial facilities, minimizing transmission losses and enhancing grid stability.
+
+Solution 3: On-Site Solar Energy Conversion for Data Centers:
+A system that converts solar power generated on-site into DC electricity for direct use in data centers, reducing dependence on the main grid and improving energy efficiency.
+
+Solution 4: Building Integrated Photovoltaic Systems (BIPV) for Buildings:
+Photovoltaic modules integrated within building materials such as roofs, walls, or windows, generating DC power that can be directly utilized in the building or fed back into the grid.
+
+Solution 5: DC Microgrids for Energy Independence in Buildings:
+Small-scale decentralized energy systems that generate, store, and distribute DC electricity within buildings, ensuring energy independence during power outages and reducing reliance on the main grid.

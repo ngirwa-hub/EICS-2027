@@ -1,0 +1,9 @@
+1. High Efficiency DC Motors: A revolutionary design for DC motors that increases energy efficiency by reducing energy loss through friction and heat dissipation, resulting in lower energy consumption and costs.
+
+2. Smart Grid Integration for Ports: An innovative approach to integrating renewable energy sources with the existing grid infrastructure at ports to optimize energy management, reduce greenhouse gas emissions, and enhance overall efficiency.
+
+3. Flexible DC Conduit System: A flexible conduit system specifically designed for DC power distribution in industrial environments, offering increased durability and reduced maintenance costs compared to traditional rigid conduit systems.
+
+4. Modular Data Center Design: An adaptable data center design that utilizes modular DC-powered hardware components, enabling more efficient use of space and resources while reducing energy consumption and carbon footprint.
+
+5. DC Busbar Trunking System: A high-performance busbar trunking system designed for DC power distribution in buildings, providing increased reliability, flexibility, and reduced operational costs compared to traditional AC systems.

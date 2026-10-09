@@ -1,0 +1,14 @@
+1. Solution Title: Modular Direct Current Power Distribution for Buildings
+   Brief Explanation: A system that uses modular DC power distribution units (PDUs) in buildings to reduce energy losses and improve scalability for various loads.
+
+2. Solution Title: DC Microgrid Control System for Ports
+   Brief Explanation: A control system designed to manage multiple distributed energy resources within a port's microgrid, optimizing energy usage and demand response.
+
+3. Solution Title: DC-DC Optimal Power Sharing in Data Centers
+   Brief Explanation: An algorithm for optimal power sharing between DC components in data centers, ensuring efficient utilization of available resources and minimizing losses.
+
+4. Solution Title: DC Arc Fault Detection System for Industry
+   Brief Explanation: A system that detects and extinguishes arcing faults in DC power systems used in industry to prevent equipment damage and safety hazards.
+
+5. Solution Title: DC Power Optimization in Building Energy Management Systems (BEMS)
+   Brief Explanation: Integrating DC power optimization techniques into existing building energy management systems, improving overall energy efficiency and reducing costs.

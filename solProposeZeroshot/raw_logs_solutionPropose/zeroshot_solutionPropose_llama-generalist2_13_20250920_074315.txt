@@ -1,0 +1,5 @@
+1. Solar Power System Integration: Combining solar power systems with DC microgrids in ports, industry, data centers, and buildings for energy efficiency and cost reduction.
+2. Wind Turbine Integration: Incorporating wind turbines into DC microgrids to generate renewable energy in ports, industrial applications, data centers, and building areas with high wind potential.
+3. Electric Vehicle Charging Stations: Introducing fast-charging DC stations for electric vehicles at ports, parking lots, and garages to facilitate clean transportation and reduce emissions.
+4. Building Automation System: Adopting a DC-based building automation system that optimizes energy use in buildings by monitoring and controlling lighting, HVAC, and other systems, leading to increased efficiency and reduced energy consumption.
+5. Floating Solar Panels: Deploying floating solar panels at ports and industrial areas near water bodies for efficient energy generation while reducing land usage and visual pollution.

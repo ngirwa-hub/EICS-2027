@@ -1,0 +1,14 @@
+1. **DC Grid Management Software:**
+   An advanced software platform designed to optimize and manage the distribution and consumption of DC power within integrated networks at ports, industries, data centers, and buildings.
+
+2. **Modular DC Power Distribution Units:**
+   Compact units that facilitate flexible DC power delivery tailored for varying load demands in industrial settings and data centers, enhancing efficiency and scalability.
+
+3. **DC Microgrid Controller:**
+   A centralized control system for managing localized DC microgrids, ensuring efficient energy distribution and integration of renewable sources across different sectors like ports and buildings.
+
+4. **Energy Harvesting Systems for DC Integration:**
+   Technologies that capture ambient energy (e.g., solar, thermal) and convert it directly into usable DC power to supplement energy needs in buildings and data centers.
+
+5. **DC-Optimized Building Automation System:**
+   A system tailored for controlling lighting, HVAC, and other building operations using DC power, reducing conversion losses and enhancing overall energy efficiency in smart buildings.

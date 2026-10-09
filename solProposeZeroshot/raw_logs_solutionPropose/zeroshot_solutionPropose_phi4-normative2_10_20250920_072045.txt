@@ -1,0 +1,9 @@
+1. **DC-Powered Cooling Systems:** These systems use direct current for cooling operations in data centers and industrial settings, reducing energy loss compared to AC-powered systems and enhancing overall efficiency.
+
+2. **Onsite DC Microgrid:** An integrated microgrid powered by renewable sources (like solar panels) that directly supplies DC power to buildings or port facilities, minimizing the need for AC-DC conversions and improving energy reliability.
+
+3. **DC Distribution Network:** A dedicated distribution network within industrial complexes or ports that delivers direct current efficiently across various operations, reducing transmission losses compared to traditional AC networks.
+
+4. **DC-Powered Electric Vehicle (EV) Chargers:** Chargers designed specifically for DC supply, enabling faster charging of electric vehicles in port areas and data centers with large vehicle fleets, improving operational efficiency and sustainability.
+
+5. **DC-based HVAC Systems:** Heating, ventilation, and air conditioning systems powered by DC that provide more energy-efficient climate control solutions for buildings and industrial environments compared to AC-based systems.

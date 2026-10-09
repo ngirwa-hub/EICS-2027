@@ -1,0 +1,7 @@
+Here are some additional DC solutions relevant to the Shift2DC project’s focus areas (ports, industry, data centers, and buildings), not previously listed:
+
+1. DC-Powered Electric Vehicle (EV) Charging Infrastructure: Direct DC charging stations eliminate AC-DC conversion at the charger, increasing efficiency and potentially reducing costs for ports and buildings.
+2. DC-Based Lighting Control Systems: Utilizing DC power for lighting allows for simpler control schemes and potentially higher efficiency compared to traditional AC-based systems in buildings and industry.
+3. Modular DC Power Distribution Units (PDUs): These PDUs allow for scalable and adaptable DC power distribution within industrial facilities, data centers, and buildings, enabling flexible configurations.
+4. DC-Native Sensors for Energy Monitoring: Sensors designed to operate directly on DC power can provide more accurate and efficient energy monitoring within ports, industry, and data centers.
+5. DC-Compatible Power Supplies for Industrial Equipment: Direct DC power supplies reduce conversion losses for equipment like pumps, motors, and compressors commonly found in industrial and port environments.

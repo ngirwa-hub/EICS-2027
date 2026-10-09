@@ -1,0 +1,19 @@
+1. Ports Solutions:
+   a. Smart Charging System: A system that optimizes the charging process for electric vehicles in ports by adapting power supply according to the needs of each vehicle.
+   b. DC Microgrids in Port Infrastructure: The integration of DC microgrids in port infrastructure to provide sustainable and efficient energy solutions for the transportation sector.
+
+2. Industry Solutions:
+   a. DC-Powered Machine Tools: The use of direct current power supply for machine tools, increasing efficiency while reducing environmental impact.
+   b. Efficient DC Cooling Systems: The adoption of efficient and sustainable cooling systems based on DC technology in industrial processes.
+
+3. Data Centers Solutions:
+   a. DC-Powered Server Racks: The use of direct current power supply for server racks in data centers, increasing energy efficiency while reducing environmental impact.
+   b. Sustainable Data Center Design: The design and implementation of sustainable and efficient data centers that operate on DC power.
+
+4. Buildings Solutions:
+   a. DC-Powered Smart Homes: The integration of direct current power supply for smart homes, allowing for energy-efficient and sustainable living environments.
+   b. Intelligent DC Lighting Systems: The adoption of intelligent lighting systems based on DC technology in buildings, improving energy efficiency and reducing environmental impact.
+
+5. Additional Solutions:
+   a. DC Power Supply for Electric Buses: The implementation of direct current power supply for electric buses, increasing energy efficiency while reducing environmental impact.
+   b. Renewable Energy-based DC Grids: The development of renewable energy-based DC grids that operate in parallel to the existing AC grid, providing sustainable and efficient energy solutions.

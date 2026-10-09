@@ -1,0 +1,9 @@
+Solution 1: DC Grid Integration for Ports: A system that enables direct connection of electric vessels and equipment to a port's DC grid, reducing conversion losses and promoting efficient energy transfer.
+
+Solution 2: DC Battery Storage for Industry: A high-capacity battery storage solution designed specifically for industrial applications, providing backup power and supporting grid stabilization during peak demand.
+
+Solution 3: Modular DC Microgrids for Data Centers: A scalable, customizable DC microgrid system tailored to data centers, ensuring reliable power supply, reducing energy losses, and facilitating the integration of renewables.
+
+Solution 4: DC Home Energy Management Systems for Buildings: An integrated smart home solution that optimizes energy consumption within buildings by managing distributed DC loads and facilitating the seamless integration of solar PV and storage systems.
+
+Solution 5: DC Distribution Networks for Building Renovation: A modern, cost-effective solution for upgrading building electrical infrastructure to a DC distribution network, enabling easy integration of renewable energy sources and energy efficiency improvements.

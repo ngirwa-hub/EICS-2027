@@ -1,0 +1,9 @@
+1. **DC-Powered Electric Vehicle Chargers:** Infrastructure for charging electric vehicles directly with DC power, reducing conversion losses and enhancing efficiency at ports and industrial sites.
+
+2. **Integrated Energy Management System (IEMS):** A platform that optimizes the use of renewable energy sources by managing DC power flows across data centers and buildings, improving overall energy efficiency.
+
+3. **DC Microgrid for Industrial Processes:** A localized grid system powered by DC to supply stable and efficient power directly to industrial machinery, minimizing energy conversion losses and enhancing process reliability.
+
+4. **Energy Recovery Systems for Data Centers:** Technologies that capture waste heat from data center operations and convert it into usable DC power, thus improving sustainability and reducing cooling costs.
+
+5. **DC-Powered Lighting Solutions for Buildings:** Advanced LED lighting systems designed for direct use with DC power, offering improved energy efficiency and reduced infrastructure complexity in residential and commercial buildings.

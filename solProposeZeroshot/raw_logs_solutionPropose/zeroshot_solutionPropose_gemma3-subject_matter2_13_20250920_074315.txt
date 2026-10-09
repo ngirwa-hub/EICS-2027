@@ -1,0 +1,5 @@
+1. DC Power Distribution Units (PDUs): Intelligent DC PDUs manage power distribution within DC microgrids, offering features like remote monitoring, load balancing, and surge protection, crucial for dense DC loads.
+2. DC-Native Energy Management Systems (EMS): A DC EMS optimizes energy usage within DC systems, leveraging real-time data for efficient load management, peak shaving, and renewable energy integration.
+3. Dynamic DC Voltage Sag Mitigation: A system utilizing supercapacitors or fast-responding DC-DC converters to quickly compensate for voltage sags in DC microgrids, ensuring stable operation of sensitive equipment in data centers and industrial processes.
+4. DC Harmonic Filtering System: Specialized filters designed to mitigate harmonic distortion in DC circuits, improving power quality and reducing equipment stress, particularly important in industrial applications with non-linear DC loads.
+5. DC Fault Current Limiting Resistors: Resistors strategically placed within DC circuits to limit fault current magnitude, providing an additional layer of protection and enabling the use of smaller, less expensive DC circuit protection devices.

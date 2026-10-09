@@ -1,0 +1,5 @@
+1. Solar-Powered Ports: Harnessing solar energy for powering ports' infrastructure and operations, reducing reliance on fossil fuels.
+2. Industry DC Efficiency: Implementing direct current (DC) systems in industrial processes to increase efficiency, reduce energy losses, and lower operational costs.
+3. Data Center DC Cooling: Utilizing DC cooling systems for data centers, providing better temperature control and reducing energy consumption compared to traditional AC-based cooling methods.
+4. Building Intelligent Lighting: Introducing intelligent DC lighting systems that adapt to natural light and occupancy, optimizing energy usage in buildings.
+5. Hybrid Energy Solutions: Integrating renewable energy sources with energy storage systems and DC grids to provide reliable and sustainable power solutions for port, industrial, data center, and building applications.

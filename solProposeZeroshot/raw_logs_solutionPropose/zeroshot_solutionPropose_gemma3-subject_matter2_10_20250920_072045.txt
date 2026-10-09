@@ -1,0 +1,5 @@
+1. DC-Based Power Router: Dynamically distributes DC power between multiple sources (solar, storage, grid) to optimize efficiency and reliability within a DC microgrid.
+2. DC-Native Load Balancing System: Utilizes real-time DC voltage and current measurements to intelligently manage and balance the load across different branches of a DC grid, preventing overloads and voltage drops.
+3. Modular DC Power Distribution Units (PDUs): Standardized, scalable PDUs with integrated DC power management and monitoring capabilities for simplified deployment and maintenance in industrial and data center environments.
+4. DC Fault Current Limiter: Reduces fault currents in DC grids, minimizing equipment damage and improving system resilience, especially crucial for port and industrial applications with potentially high fault scenarios.
+5. Wireless DC Power Transfer System: Enables contactless power delivery for mobile equipment and devices within ports and buildings, enhancing flexibility and reducing cabling complexity.

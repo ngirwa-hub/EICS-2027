@@ -1,0 +1,9 @@
+1. Ports: DC Power System for Ships - A DC power system that utilizes renewable energy sources such as solar panels and wind turbines onboard ships to reduce dependence on fossil fuels.
+
+2. Industry: DC-Powered Injection Molding Machines - DC injection molding machines with improved efficiency and lower energy consumption compared to traditional AC machines, reducing energy costs and emissions.
+
+3. Data Centers: DC-Based Cooling System - A cooling system utilizing DC fans and pumps to increase energy efficiency and reduce energy losses in data centers.
+
+4. Buildings: DC Lighting Control System - An intelligent lighting control system that optimizes energy consumption by adjusting lighting levels based on occupancy, reducing energy waste and lowering costs.
+
+5. Industry: DC-Powered Electric Vehicles - DC electric vehicles for industrial applications such as transportation of goods and materials within factories or warehouses, reducing dependence on fossil fuels and emissions.

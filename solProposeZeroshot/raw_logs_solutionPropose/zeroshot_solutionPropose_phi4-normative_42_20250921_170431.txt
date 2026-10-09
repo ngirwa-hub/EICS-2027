@@ -1,0 +1,9 @@
+1. **DC Microgrid Infrastructure for Ports:** A comprehensive grid system designed specifically for ports, integrating renewable energy sources and providing efficient power distribution through direct current (DC), reducing reliance on traditional AC systems.
+
+2. **Industrial DC Power Distribution System:** An optimized network for delivering DC electricity to various industrial applications, minimizing conversion losses and enhancing the efficiency of processes that operate on DC power.
+
+3. **Data Center DC Cooling Solutions:** Innovative cooling technologies tailored for data centers utilizing direct current (DC), which increase energy efficiency by eliminating AC-DC conversions in cooling equipment operations.
+
+4. **DC-Powered Smart Building Management Systems:** Advanced management systems for buildings that leverage DC technology to improve energy efficiency and integrate renewable energy sources seamlessly into building power systems.
+
+5. **DC Off-grid Solar Systems for Remote Areas:** Portable, solar-powered DC systems designed for remote locations lacking grid access, providing reliable and sustainable energy solutions with minimal infrastructure requirements.

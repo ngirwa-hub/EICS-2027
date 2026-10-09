@@ -1,0 +1,5 @@
+1. Solar Photovoltaic (PV) Inverters: High-efficiency DC inverters that convert solar panel output to usable AC power for port applications, reducing the need for energy imports.
+2. LED Lighting Systems: Energy-efficient DC lighting solutions for industrial settings and buildings, providing improved light quality and reduced energy consumption.
+3. Electric Vehicle Charging Stations: A direct current fast charging system that enables efficient and rapid charging of electric vehicles at ports, reducing wait times and emissions.
+4. Data Center Cooling Systems: DC-based cooling solutions for data centers, providing more precise temperature control and reduced energy consumption compared to traditional AC-based systems.
+5. High-Voltage Direct Current (HVDC) Transmission: A technology that enables efficient long-distance transmission of renewable energy from remote locations, such as offshore wind farms or remote solar installations, to ports or other end-users.

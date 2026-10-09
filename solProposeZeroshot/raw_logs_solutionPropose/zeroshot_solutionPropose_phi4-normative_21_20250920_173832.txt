@@ -1,0 +1,9 @@
+1. **DC-Powered Lighting Systems: Efficient and cost-effective lighting solutions for ports, industries, data centers, and buildings that utilize direct current to minimize conversion losses and enhance energy efficiency.**
+
+2. **DC-Integrated Heating Solutions: Direct use of DC power for heating applications within industrial processes or building HVAC systems, reducing the need for AC-to-DC conversions and optimizing thermal management.**
+
+3. **DC-Powered Water Desalination Units: Systems designed specifically to run on DC electricity, making them suitable for deployment in port facilities and coastal industries, enhancing sustainability by leveraging renewable energy sources directly.**
+
+4. **DC-Based EV Charging Infrastructure: Advanced charging stations that utilize direct current for electric vehicles, improving the efficiency of power delivery and reducing conversion losses, particularly beneficial in ports and urban areas with high traffic.**
+
+5. **DC-Compatible HVAC Systems: Heating, ventilation, and air conditioning units designed to operate directly on DC power, aimed at increasing energy savings and reducing operational costs in data centers and large buildings.**

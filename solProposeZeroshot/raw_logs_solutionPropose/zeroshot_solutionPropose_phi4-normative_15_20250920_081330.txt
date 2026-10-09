@@ -1,0 +1,9 @@
+1. **DC Microgrid for Ports**: A localized grid that uses direct current to power port facilities, reducing reliance on centralized AC systems and enhancing energy resilience through distributed generation sources like solar panels.
+
+2. **Industrial DC Power Distribution System**: An efficient distribution network tailored for industrial applications that minimizes energy losses by providing high-power equipment with DC power directly, cutting down on the need for multiple conversions from AC to DC.
+
+3. **Data Center Hybrid Inverter Technology**: A solution integrating both AC and DC inputs, enabling data centers to optimize energy usage by switching between supply types based on demand and availability, thus enhancing efficiency and reducing costs.
+
+4. **Building Integrated Photovoltaic (BIPV) DC Systems**: These systems incorporate solar panels directly into building structures like facades and roofs to generate DC power onsite, streamlining integration with building electrical systems and promoting sustainable energy use.
+
+5. **DC-Powered Smart Lighting System for Buildings**: An advanced lighting solution that utilizes DC power directly from renewable sources such as solar panels, reducing conversion losses and allowing buildings to operate more sustainably by optimizing light usage based on occupancy and natural light levels.

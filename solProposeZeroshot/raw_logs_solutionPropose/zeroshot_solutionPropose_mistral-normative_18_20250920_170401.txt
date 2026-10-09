@@ -1,0 +1,9 @@
+Solution 1: DC Grid Integration for Ports: A system that integrates port operations into a centralized DC grid, reducing energy losses and enabling the seamless integration of various DC technologies like electric vessels and automated equipment.
+
+Solution 2: Modular DC Power Distribution for Industry: A scalable, flexible DC power distribution solution designed to meet industrial needs, improving energy efficiency and reducing maintenance costs in manufacturing processes.
+
+Solution 3: Direct DC Load Management for Data Centers: An intelligent load management system optimizing energy usage in data centers by directly controlling DC loads, improving energy efficiency and reducing heat generation.
+
+Solution 4: DC Microgrids with Energy Storage for Buildings: A solution that integrates renewable energy sources, energy storage, and DC microgrids to provide a self-sustaining power supply for buildings, improving resilience and reducing reliance on the grid.
+
+Solution 5: Smart DC Street Lighting Control System: An advanced control system for street lighting that manages lighting levels based on real-time data, reducing energy consumption while maintaining safety and convenience in urban areas.

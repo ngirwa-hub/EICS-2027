@@ -1,0 +1,5 @@
+1. DC-Based Power Distribution Units (PDUs): Intelligent PDUs manage DC power distribution within facilities, providing monitoring, control, and load balancing capabilities for connected DC equipment.
+2. Dynamic Voltage Sag Mitigation System: A DC-DC converter system designed to rapidly compensate for voltage sags, critical for sensitive industrial processes and data center operations.
+3. DC-Native Energy Management System (EMS): A comprehensive EMS specifically designed for DC microgrids, optimizing energy usage, forecasting demand, and integrating renewable sources.
+4. Standardized DC Power Interface: A universally adopted physical and communication interface for DC power delivery, promoting interoperability between different DC equipment vendors.
+5. DC-Based Wireless Power Transfer (WPT) System: A WPT system to power low-voltage devices and sensors in ports and buildings, eliminating the need for wired connections and simplifying installation.

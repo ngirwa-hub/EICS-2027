@@ -1,0 +1,5 @@
+1. DC Microgrids for Ports: A system that integrates distributed energy resources and loads in port areas into a localized DC grid, optimizing energy efficiency and reducing dependence on centralized power systems.
+2. High-Efficiency DC Power Conversion for Industry: Advanced power electronic converters that enable efficient DC power conversion for industrial processes, reducing energy losses and increasing overall system efficiency.
+3. DC Energy Storage for Data Centers: Battery storage solutions integrated with DC microgrids in data centers to provide backup power, reduce dependence on traditional AC grids, and improve resiliency against grid disruptions.
+4. DC Lighting Systems for Buildings: An LED-based lighting system that utilizes DC technology to reduce energy consumption and maintenance costs, while providing improved illumination quality and flexibility.
+5. DC HVAC System for Buildings: A highly efficient heating, ventilation, and air conditioning (HVAC) system that employs DC technology to optimize energy performance and minimize environmental impact.

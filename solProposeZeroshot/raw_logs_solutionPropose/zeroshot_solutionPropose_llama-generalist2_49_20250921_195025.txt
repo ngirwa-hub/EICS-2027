@@ -1,0 +1,14 @@
+1. Solution Title: Port DC Microgrid: A localized energy system that utilizes DC technology for efficient power distribution in ports, reducing energy waste and improving reliability.
+Explanation: Ports often have unique energy needs that can be met through DC microgrids. These systems enable energy storage and efficient power distribution, resulting in reduced energy waste and improved resilience.
+
+2. Solution Title: Industry DC Efficiency: A system that optimizes industrial processes using DC technology to reduce energy consumption and increase efficiency.
+Explanation: Many industries rely on energy-intensive processes that can benefit from the use of DC technology. By improving process efficiency, these systems can significantly reduce energy consumption while increasing productivity.
+
+3. Solution Title: Data Center DC Cooling: A cooling system that utilizes direct current for more efficient and sustainable data center operations.
+Explanation: Traditional air-cooling methods consume a significant amount of energy, making them an inefficient option for modern data centers. DC cooling systems can provide better thermal management while reducing power consumption.
+
+4. Solution Title: Building DC Lighting: A smart lighting system that utilizes direct current to reduce energy waste and enhance control in buildings.
+Explanation: Traditional AC lighting systems often result in significant energy waste due to inefficient bulbs or outdated fixtures. By transitioning to DC-based lighting, buildings can achieve better efficiency while also providing enhanced control options for occupants.
+
+5. Solution Title: Solar PV Hybrid System: A combination of solar photovoltaic panels and energy storage systems that use direct current technology for efficient power generation and storage in buildings.
+Explanation: Many buildings have rooftop space that can be used to install solar photovoltaic panels. By combining these with energy storage systems, buildings can maximize their renewable energy production while also reducing reliance on the grid.

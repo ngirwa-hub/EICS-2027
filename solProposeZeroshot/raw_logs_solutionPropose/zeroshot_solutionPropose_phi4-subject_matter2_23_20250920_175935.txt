@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A centralized platform for optimizing and managing energy distribution in DC microgrids, enhancing efficiency and reliability across ports, industries, data centers, and buildings.
+
+2. **DC Power Quality Analyzer**: An advanced tool designed to monitor and ensure the quality of power delivered through DC systems, crucial for sensitive applications in data centers and industrial processes.
+
+3. **Hybrid AC/DC Inverter Technology**: Innovative inverters that seamlessly integrate AC and DC grids, allowing flexible energy conversion tailored to the unique demands of ports and mixed-use buildings.
+
+4. **Renewable Energy Synchronization Module**: A technology module facilitating the synchronization of diverse renewable energy sources with existing DC infrastructure, promoting seamless integration in industrial settings.
+
+5. **DC Power Storage Solutions**: Advanced battery technologies specifically optimized for storage within DC networks, providing critical backup power and load balancing capabilities for data centers and large-scale buildings.

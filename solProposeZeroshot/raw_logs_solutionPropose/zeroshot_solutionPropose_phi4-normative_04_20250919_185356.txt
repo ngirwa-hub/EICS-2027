@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System:** A platform for efficiently managing and optimizing the distribution of power within port facilities, industrial sites, data centers, and buildings using DC microgrids, enhancing energy efficiency and reducing operational costs.
+
+2. **DC-Powered Cooling Systems:** Innovative cooling technologies specifically designed to operate on direct current, reducing the conversion losses typically associated with AC systems in data centers and other large-scale operations.
+
+3. **Integrated DC Lighting Solutions:** Advanced lighting systems that directly utilize DC power, eliminating the need for AC-DC conversions, thereby improving energy efficiency and extending the lifespan of LED lighting in buildings and industrial environments.
+
+4. **High-Efficiency DC-Powered HVAC Systems:** Air conditioning and heating solutions designed to run on direct current, which can significantly reduce energy losses associated with traditional AC systems and improve overall system performance in commercial and industrial settings.
+
+5. **DC-Specific Renewable Energy Integrations:** Tailored integration frameworks for combining solar panels or other renewable sources directly into DC systems without intermediary conversion steps, enhancing the sustainability of power supply in ports, industry, data centers, and buildings.

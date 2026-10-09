@@ -1,0 +1,9 @@
+1. **DC Microgrid Control Systems**: Advanced control systems for managing and optimizing DC microgrids in ports and industrial settings, ensuring efficient distribution and reliability.
+
+2. **DC-Powered Electric Vehicle (EV) Charging Stations**: High-efficiency charging stations specifically designed to provide DC power directly to electric vehicles, reducing conversion losses at ports and industrial facilities.
+
+3. **Renewable Energy Integration Platform for Data Centers**: A platform that integrates renewable energy sources with data centers' existing infrastructure, maximizing the use of solar or wind-generated DC power for operational efficiency.
+
+4. **DC-Powered HVAC Systems for Buildings**: Implementation of direct current systems in heating, ventilation, and air conditioning units to enhance energy savings and reduce conversion losses in residential and commercial buildings.
+
+5. **DC-Based Emergency Power Supply**: A reliable and fast-responding emergency power system using DC technology to ensure continuous operation of critical infrastructure during outages in ports, industry, data centers, and buildings.

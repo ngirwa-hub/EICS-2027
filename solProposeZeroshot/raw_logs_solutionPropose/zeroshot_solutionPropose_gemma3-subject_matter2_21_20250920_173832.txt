@@ -1,0 +1,5 @@
+1. DC-Based Energy Management System: A centralized control system optimizing energy flow and load balancing within DC microgrids, leveraging real-time data and predictive algorithms for enhanced efficiency.
+2. Wireless DC Power Transfer System: Enables contactless power delivery to devices within a DC environment, beneficial for ports (cranes, AGVs) and buildings (IoT devices) by reducing cabling complexity and improving safety.
+3. DC Fault Current Limiter: A device to restrict the magnitude of fault currents in DC grids, protecting equipment and improving system resilience, particularly important in densely populated industrial settings.
+4. DC Power Quality Monitoring & Correction: Hardware and software to actively monitor and correct voltage sags, swells, and harmonic distortions in DC systems, ensuring stable operation of sensitive equipment in data centers and buildings.
+5. Modular DC Power Distribution Units (PDU): Standardized, scalable PDU’s designed for DC grids, allowing for easy expansion and reconfiguration of power distribution in industrial and data center environments.

@@ -1,0 +1,5 @@
+1. Solar-Powered Port Infrastructure: Harnessing the sun's energy for port operations, including electricity generation and charging stations for vehicles.
+2. Energy Efficient Warehouses: Implementing DC power systems in warehouse facilities to reduce energy consumption and improve efficiency.
+3. DC-Powered Data Centers: Utilizing Direct Current for data center operations, providing increased efficiency and reduced energy costs.
+4. Intelligent Building Management System: A system that integrates DC technology for efficient control of lighting, ventilation, and heating systems in buildings.
+5. Efficient DC Transmission: Developing a high-voltage direct current (HVDC) transmission system to reduce energy losses during the transfer of electricity from renewable energy sources in remote locations to consumption centers like ports or industrial areas.

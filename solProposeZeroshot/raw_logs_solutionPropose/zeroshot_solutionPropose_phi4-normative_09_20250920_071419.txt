@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A platform that optimizes the distribution and consumption of DC power within ports, industries, data centers, and buildings, enhancing efficiency and reliability.
+
+2. **DC Charging Infrastructure for Electric Vehicles**: An integrated system of DC fast chargers specifically designed to reduce charging time and energy loss in electric vehicle fleets operating at ports and industrial sites.
+
+3. **DC Cooling Solutions**: Energy-efficient cooling systems powered by DC that are tailored for data centers and buildings, significantly reducing operational carbon footprints and improving thermal management.
+
+4. **DC-Powered Smart Lighting Systems**: Advanced lighting solutions using DC power that incorporate sensors and automation to minimize energy use in industry and commercial spaces while enhancing user comfort.
+
+5. **DC Energy Management Software**: Software tools designed to monitor, control, and optimize the performance of DC systems across various sectors, ensuring efficient energy usage and reducing costs.

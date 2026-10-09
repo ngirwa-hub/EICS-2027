@@ -1,0 +1,5 @@
+1. DC-Based Power Distribution Units (PDUs): Intelligent PDUs optimized for DC grids, offering remote monitoring, load balancing, and surge protection specifically for DC loads.
+2. High-Efficiency DC Lighting Systems: LED lighting solutions directly powered by DC, eliminating AC-DC conversion losses and reducing overall energy consumption in buildings and ports.
+3. DC-Native Motor Drives: Electric motors designed to operate directly from DC power, particularly beneficial for industrial applications and port equipment, increasing efficiency and reducing harmonic distortion.
+4. DC Grid Cybersecurity Framework: A comprehensive cybersecurity protocol tailored for DC microgrids, addressing unique vulnerabilities and ensuring data integrity and operational resilience in ports and data centers.
+5. Dynamic DC Load Shedding Algorithm: Software to prioritize and automatically shed non-critical DC loads during periods of grid stress or renewable energy curtailment, optimizing resource utilization in industrial settings and data centers.

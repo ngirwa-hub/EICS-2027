@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A centralized platform that optimizes the operation and integration of various DC power sources and loads within microgrids in ports, industries, data centers, and buildings.
+
+2. **Flexible DC Distribution Network**: An adaptable network infrastructure designed to efficiently distribute direct current across complex environments like industrial plants or large-scale data centers.
+
+3. **DC-Powered IoT Sensor Networks**: A system that utilizes DC for powering Internet of Things (IoT) sensors, enhancing energy efficiency in smart building applications and industrial monitoring.
+
+4. **Hybrid AC-DC Energy Storage System**: An integrated storage solution combining AC and DC elements to offer greater flexibility and resilience in managing energy flow in ports or data centers.
+
+5. **DC Charging Infrastructure for Electric Vehicles (EVs)**: Dedicated infrastructure for fast-charging EVs using direct current, aimed at reducing charging times and improving efficiency in industrial sites and building parking areas.

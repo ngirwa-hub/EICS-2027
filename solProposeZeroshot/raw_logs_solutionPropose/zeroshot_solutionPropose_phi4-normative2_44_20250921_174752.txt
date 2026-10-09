@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A centralized platform that efficiently manages power distribution and load balancing across various DC microgrids within ports, industries, data centers, and buildings.
+
+2. **Hybrid AC-DC Power Inverters**: Devices that can seamlessly convert between alternating current (AC) and direct current (DC), optimizing energy use in environments where both types of systems are present, particularly useful in industrial settings.
+
+3. **Portable DC Energy Stations**: Mobile units designed to provide temporary DC power solutions for emergency situations or rapid deployment needs within ports and data centers, ensuring minimal downtime during maintenance or unforeseen outages.
+
+4. **DC Power Quality Analyzer**: A tool that monitors the quality of DC power supply, detecting anomalies and improving reliability in critical infrastructure like data centers where consistent power is crucial.
+
+5. **Building Integrated Photovoltaic-DC Systems**: Solar panels integrated directly into building materials (e.g., windows or facades) designed to generate and supply DC power on-site, reducing dependence on external AC grids and enhancing sustainability.

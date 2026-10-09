@@ -1,0 +1,9 @@
+1. **DC Power Distribution System**: A network designed specifically for distributing DC power efficiently across large facilities like ports and industrial plants, reducing energy loss compared to AC systems.
+
+2. **Integrated DC Lighting Control**: An advanced lighting system that operates directly on DC, allowing for improved energy efficiency and reduced conversion losses in buildings and data centers.
+
+3. **DC-Powered HVAC System**: A heating, ventilation, and air conditioning (HVAC) solution using DC power, optimizing energy use and operational efficiency in commercial buildings and industrial settings.
+
+4. **Renewable Energy Integration Hub**: A platform that facilitates the seamless integration of solar panels and wind turbines with existing DC infrastructure in ports and industries to maximize renewable usage.
+
+5. **DC Microgrid Management Software**: An intelligent software solution for managing and optimizing DC microgrids, ensuring stable operation and efficient energy distribution across data centers and urban buildings.

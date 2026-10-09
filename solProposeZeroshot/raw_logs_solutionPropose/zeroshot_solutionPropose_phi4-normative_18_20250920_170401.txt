@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System: Advanced control software for optimizing energy distribution in DC microgrids within ports and industrial sites, enhancing efficiency and reliability.**
+
+2. **DC Cooling Solutions for Data Centers: Innovative cooling technologies that leverage direct current systems for more efficient thermal management in data centers, reducing energy consumption significantly.**
+
+3. **Building Integrated Photovoltaics (BIPV) with DC Output: Solar panels integrated into building materials that provide direct current output, streamlining the use of renewable energy directly where it is consumed.**
+
+4. **DC-Powered Electric Vehicle Charging Infrastructure: Fast-charging stations using DC technology to power electric vehicles in ports and urban areas, facilitating quicker transitions to sustainable transport solutions.**
+
+5. **Resilient DC Power Architecture for Critical Facilities: A robust system design that ensures continuous power supply to essential services like hospitals or emergency response units during disruptions, utilizing direct current technologies.**

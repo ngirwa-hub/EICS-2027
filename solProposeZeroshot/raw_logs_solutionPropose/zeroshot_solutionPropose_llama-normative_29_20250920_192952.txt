@@ -1,0 +1,5 @@
+1. Solar Powered Ports: Harnessing solar energy for port operations and reducing dependence on non-renewable sources. 
+2. Energy Efficient Industry: Using DC motors and drives in manufacturing processes to reduce energy consumption and emissions.
+3. Efficient Cooling Systems: Implementing DC cooling systems in data centers to improve energy efficiency, reduce environmental impact, and ensure stable operations.
+4. LED Lighting for Buildings: Switching to DC LED lights in buildings to save energy, reduce maintenance costs, and minimize light pollution.
+5. Efficient HVAC Systems: Utilizing DC-powered heating, ventilation, and air conditioning systems to increase energy efficiency and reduce energy consumption in buildings.

@@ -1,0 +1,9 @@
+1. **DC Power Distribution Panels**: Compact and efficient panels designed to distribute DC power across different applications within ports, industries, data centers, and buildings.
+
+2. **DC-Optimized Lighting Systems**: LED lighting systems that operate directly on DC power, enhancing energy efficiency by reducing conversion losses typically associated with AC lighting systems.
+
+3. **Integrated DC Cooling Solutions**: Direct current cooling technologies for machinery and data centers that improve energy efficiency by eliminating the need for AC-DC conversions in cooling processes.
+
+4. **Battery Management Systems (BMS) for DC Integration**: Advanced BMS specifically designed to manage storage solutions seamlessly within a DC infrastructure, improving reliability and performance of stored energy.
+
+5. **DC Renewable Energy Interface Modules**: Modular systems that facilitate the integration of renewable energy sources such as solar panels and wind turbines directly into a DC network, optimizing energy capture and distribution.

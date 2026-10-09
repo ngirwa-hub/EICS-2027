@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A platform for managing and optimizing the operation of DC microgrids within ports and industrial facilities, ensuring efficient energy distribution and resilience against outages.
+
+2. **DC Power Quality Monitoring**: A system designed to continuously assess the quality of DC power supply in data centers and buildings, helping maintain optimal performance and prevent equipment damage.
+
+3. **Hybrid Energy Storage System (HESS) for DC Networks**: Combines different storage technologies such as batteries and supercapacitors tailored for DC systems, enhancing energy efficiency and reliability across sectors like industry and ports.
+
+4. **DC Load Management Platform**: A software solution enabling intelligent control over DC loads in buildings and data centers to maximize energy savings by shifting or shedding non-critical loads during peak demand periods.
+
+5. **Wireless Power Transfer (WPT) for DC Applications**: Utilizes inductive coupling technology to transfer power wirelessly in environments such as ports, reducing the need for extensive wiring infrastructure and enhancing flexibility.

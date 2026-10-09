@@ -1,0 +1,9 @@
+Solution 1: Direct Current Arc Fault Detection and Mitigation System for Ports: A system designed to protect port infrastructure from dangerous electrical arcs caused by DC faults, ensuring safety and preventing costly damage.
+
+Solution 2: DC Grid-tied Energy Storage for Data Centers: Battery storage systems integrated with data center DC grids, providing backup power and improving grid stability during peak demand or outages.
+
+Solution 3: DC Microgrid Control and Optimization for Buildings: A smart control system that manages building-integrated DC microgrids, optimizing energy distribution and minimizing losses while ensuring stable operation.
+
+Solution 4: High-Voltage DC Transmission Cables for Industry: Advanced cables capable of transmitting high amounts of power at high voltages in industrial settings, reducing transmission losses and improving efficiency.
+
+Solution 5: DC Load Management System for Ports: A system that intelligently manages the distribution of electrical load within port infrastructure, optimizing energy usage and minimizing costs during peak demand periods.

@@ -1,0 +1,14 @@
+1. **DC-Powered Port Machinery:**
+   An initiative to electrify port machinery and equipment using direct current systems, reducing reliance on diesel generators and cutting emissions for a cleaner operation.
+
+2. **Industrial Process Integration Unit:**
+   A unit designed to seamlessly integrate various industrial processes with DC power sources, enhancing efficiency by minimizing conversion losses and improving process control.
+
+3. **Data Center Thermal Management System:**
+   An innovative system employing direct current technologies to optimize the cooling infrastructure of data centers, significantly reducing energy consumption associated with thermal management.
+
+4. **DC-Integrated Building Automation Systems:**
+   A holistic solution that uses DC power for home automation systems in buildings, improving energy efficiency by reducing conversion losses and enabling advanced monitoring features.
+
+5. **Renewable DC Power Hub:**
+   Establishing a centralized DC hub within buildings or industrial facilities to manage diverse renewable sources like solar panels, optimizing local generation use before converting excess to AC if needed.

@@ -1,0 +1,5 @@
+1. DC-Based Wireless Power Transfer (WPT) System: Enables contactless power delivery within ports and buildings, reducing cabling and improving flexibility for mobile equipment and automated guided vehicles.
+2. High-Efficiency DC Power Distribution Units (PDU): Optimized DC PDUs minimize losses and provide precise power management for data centers and industrial facilities, improving overall energy efficiency.
+3. DC-Native Building Energy Management System (BEMS): A BEMS designed specifically for DC buildings, enabling granular control and optimization of DC power usage across various loads and renewable sources.
+4. Modular DC Power Architectures: Allows for scalable and adaptable power systems in industrial settings and data centers, facilitating future expansion and reconfiguration without significant downtime.
+5. DC-Based Microgrid Controller with Predictive Analytics: A sophisticated controller that utilizes real-time data and predictive algorithms to optimize DC microgrid operation in ports and buildings, improving reliability and reducing peak demand.

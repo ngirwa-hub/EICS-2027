@@ -1,0 +1,9 @@
+1. **DC Microgrid for Ports**: A localized grid infrastructure that uses DC power distribution at ports to improve efficiency and reduce energy losses from frequent conversions between AC and DC.
+
+2. **Industrial Process Integration System**: A framework enabling seamless integration of various industrial equipment operating on DC, reducing conversion steps and optimizing energy usage.
+
+3. **Data Center Cooling with DC-Powered Systems**: Implementation of direct current-based cooling systems in data centers to enhance efficiency by directly interfacing with DC power sources used for IT equipment.
+
+4. **DC-Efficient Lighting Solutions for Buildings**: Utilization of LED lighting solutions designed specifically for DC operation, reducing conversion losses and improving energy efficiency in buildings.
+
+5. **DC-Powered Smart Building Systems**: Integration of smart building technologies that operate on DC power, enabling better control over energy usage and enhancing sustainability in residential and commercial spaces.

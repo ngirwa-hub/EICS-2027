@@ -1,0 +1,5 @@
+1. Solar PV System: An innovative solar photovoltaic system that optimizes energy generation in ports and industry sectors by providing customized DC solutions based on the specific needs of each application.
+2. Smart Grid Solution: A cutting-edge smart grid solution that enables efficient energy management in data centers and buildings, integrating various DC technologies to reduce energy consumption and costs.
+3. DC Microgrids for Resilient Power Supply: A comprehensive DC microgrid system that supports reliable power supply in ports, industry, data centers, and buildings during grid outages or emergencies.
+4. Efficient Lighting System: An efficient lighting system utilizing DC technology to reduce energy consumption and carbon footprint in ports, industrial facilities, data centers, and residential buildings.
+5. Electric Vehicle Charging Infrastructure: A sustainable electric vehicle charging infrastructure using DC technologies in ports, industrial zones, data centers, and parking lots to support the shift toward zero-emission transportation solutions.

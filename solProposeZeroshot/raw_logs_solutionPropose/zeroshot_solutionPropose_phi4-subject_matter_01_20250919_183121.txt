@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A centralized control platform that optimizes the operation and integration of various renewable energy sources in DC microgrids at ports, industries, data centers, and buildings, ensuring efficient power distribution and reliability.
+
+2. **High-Efficiency DC Power Inverters**: Advanced inverters designed to convert DC to AC with minimal losses for applications requiring compatibility with existing AC infrastructure, crucial for gradual transition phases in industrial settings.
+
+3. **DC-Powered Electric Vehicle Charging Stations**: Infrastructure for charging electric vehicles using direct current, reducing energy conversion losses and enabling faster charging times at ports and commercial buildings.
+
+4. **Thermal Energy Storage Systems Linked to DC Grids**: Utilizes excess renewable energy stored as thermal energy to balance supply and demand in DC grids within data centers, enhancing overall system efficiency and resilience.
+
+5. **DC-Optimized Lighting Solutions**: LED lighting systems that operate directly on DC power from the grid or local generation sources, reducing conversion losses and improving energy efficiency in buildings and industrial facilities.

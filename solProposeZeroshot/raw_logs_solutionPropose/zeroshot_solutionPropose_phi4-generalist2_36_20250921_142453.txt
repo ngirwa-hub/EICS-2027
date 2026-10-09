@@ -1,0 +1,9 @@
+1. **DC-Powered Electric Vehicles (EV) Charging Stations**: Infrastructure for fast-charging electric vehicles using direct current, reducing charging time and improving efficiency at ports and urban locations.
+
+2. **DC-based Renewable Energy Management System**: A system that optimizes the integration of solar panels or wind turbines with DC networks, enhancing energy management in industrial settings by minimizing conversion losses.
+
+3. **DC Lighting Systems for Data Centers**: Implementation of lighting systems powered directly by DC sources to improve energy efficiency and reduce power conversion losses in data centers.
+
+4. **Thermal Energy Storage using Phase Change Materials (PCMs) in Buildings**: Utilizing PCMs for thermal energy storage that operates on a DC system, providing efficient temperature regulation without additional AC conversions.
+
+5. **DC Microgrid Controllers for Smart Building Integration**: Advanced controllers that manage the distribution of power within buildings, allowing seamless integration and optimization of multiple DC sources like solar panels or battery systems.

@@ -1,0 +1,7 @@
+Here are some additional DC solutions, relevant to the Shift2DC project’s focus areas (ports, industry, data centers, and buildings), that weren't previously listed:
+
+1. DC Power Distribution Units (PDUs): Intelligent DC PDUs manage and distribute DC power within a facility, offering remote monitoring, load balancing, and fault isolation.
+2. DC-Based Lighting Systems: Direct DC lighting eliminates AC-DC conversion for lighting loads, improving efficiency and reducing heat generation in buildings and industrial settings.
+3. DC Fast Charging Infrastructure: Dedicated DC fast charging systems for electric vehicles within ports and industrial complexes, minimizing energy losses and enabling quicker charging.
+4. DC-Native Building Management Systems (BMS): A BMS designed to natively handle DC power, enabling more efficient control and optimization of building energy usage.
+5. DC Microgrid Control Software: Specialized software to manage and optimize the operation of DC microgrids, including load forecasting, energy dispatch, and grid stability control.

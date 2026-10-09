@@ -1,0 +1,14 @@
+1. Solution Title: DC Grid Integration for Ports:
+   A system that enables the integration of multiple DC sources like solar panels and wind turbines into port infrastructure, increasing energy independence and reducing emissions.
+
+2. Solution Title: Industrial DC Distribution:
+   A solution optimizing power distribution within industries using direct current, leading to improved energy efficiency and reduced transmission losses.
+
+3. Solution Title: Data Center DC Power Backup:
+   An efficient backup power supply system for data centers using batteries charged by DC sources, ensuring constant uptime while minimizing energy conversion losses.
+
+4. Solution Title: Building Energy Management System (BEMS) in DC:
+   A smart building energy management system that uses direct current to control and optimize the energy consumption of various building loads, increasing efficiency and reducing costs.
+
+5. Solution Title: Modular DC Microgrid for Buildings:
+   A scalable, modular microgrid solution for buildings that combines solar panels, battery storage, and DC-powered appliances to create a self-sustaining energy system capable of meeting demand while reducing reliance on the grid.

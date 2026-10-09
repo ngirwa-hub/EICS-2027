@@ -1,0 +1,5 @@
+1. DC Microgrids for Ports: A decentralized energy system that optimizes the use of renewable energy sources, reduces greenhouse gas emissions and provides resilient power supply in case of disruptions.
+2. DC Lighting System for Industry: An energy-efficient lighting system that utilizes LED lights connected directly to DC systems, reducing energy consumption by up to 80% compared to traditional AC lighting.
+3. DC Air Conditioning Systems for Buildings: A cooling system that uses direct current to provide precise control over temperature and humidity, resulting in higher energy efficiency and reduced energy demand.
+4. DC Pumps and Fans for Data Centers: An efficient pump and fan system designed for direct current use, reducing energy consumption and improving operational reliability.
+5. Smart Grids with DC Power: An intelligent power grid that utilizes direct current distribution to optimize energy flow, reduce transmission losses, and enhance grid stability.

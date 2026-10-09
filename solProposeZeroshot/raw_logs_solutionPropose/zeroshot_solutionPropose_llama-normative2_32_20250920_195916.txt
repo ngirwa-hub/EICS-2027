@@ -1,0 +1,5 @@
+1. DC Microgrids for Ports: A system that enables energy-efficient and locally controlled power distribution within port facilities, reducing reliance on centralized grid systems.
+2. PV-Diesel Hybrid Systems for Industry: An energy solution that combines photovoltaic (PV) solar technology with diesel generators to provide stable and reliable power supply in industrial settings.
+3. DC Cooling Systems for Data Centers: A cooling solution that utilizes direct current (DC) for data center cooling, improving energy efficiency and reducing carbon footprint.
+4. Energy-Efficient Lighting for Buildings: An LED lighting system powered by DC technology, providing improved energy savings and longer lifespans compared to traditional AC lighting systems.
+5. EV Charging Stations for Public Transport: A network of DC charging stations designed specifically for electric vehicles (EVs) in public transportation areas, promoting sustainable transportation solutions.

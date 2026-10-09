@@ -1,0 +1,5 @@
+1. DC-Based Power Distribution Units (PDUs): Intelligent DC PDUs manage power distribution within DC microgrids, providing metering, remote control, and load balancing capabilities.
+2. Wireless DC Power Transfer Systems: Enables contactless power delivery to devices within a DC grid, particularly useful in ports and data centers for robotics and other mobile equipment.
+3. DC-Native Energy Management Systems (EMS): An EMS specifically designed for DC grids optimizes energy usage, predicts demand, and integrates renewable sources with enhanced efficiency.
+4. DC Fault Current Limiters: These devices, beyond circuit breakers, precisely limit fault currents in DC systems, reducing stress on components and improving overall system resilience.
+5. Modular DC Power Architectures: Standardized, scalable DC power modules allow for flexible and adaptable power system designs in industrial settings and buildings.

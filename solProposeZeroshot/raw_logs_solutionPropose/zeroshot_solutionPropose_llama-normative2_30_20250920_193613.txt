@@ -1,0 +1,5 @@
+1. Advanced Power Electronics for Grid Integration: A solution that utilizes advanced power electronics to efficiently convert and manage AC and DC power in the grid, improving energy storage capacity and reducing energy losses.
+2. Microgrids for Ports: A system that enables ports to operate autonomously by connecting multiple sources of generation, storage, and load within a localized network, promoting energy independence and reducing reliance on centralized grid systems.
+3. Efficient DC Lighting Systems: A solution that replaces traditional AC lighting systems with efficient DC lighting solutions, offering better color rendition, longer lifespans, and reduced energy consumption.
+4. Industrial DC Motors: A system of DC motors specifically designed for industrial applications, providing high efficiency, improved speed control, and increased reliability compared to traditional AC motors.
+5. DC Cooling Systems for Data Centers: An innovative cooling solution that utilizes direct current to optimize the temperature and humidity control within data centers, reducing energy consumption while maintaining optimal operating conditions for IT equipment.

@@ -1,0 +1,5 @@
+1. Solar PV Tracking System: A system that optimizes solar panel orientation and tracking based on the position of the sun, improving energy production efficiency.
+2. Grid-connected Battery Storage for Ports: A system that integrates battery storage directly with the grid in ports, providing backup power during outages and reducing reliance on fossil fuels.
+3. DC Lighting System for Industries: An LED-based lighting system that uses DC power for efficient and sustainable illumination in industrial settings.
+4. Smart DC HVAC System for Data Centers: A sophisticated heating, ventilation, and air conditioning system that utilizes DC technology to optimize energy consumption and reduce environmental impact.
+5. DC Elevator System for Buildings: An elevator system that uses DC power for improved efficiency, reduced energy consumption, and quieter operation in buildings.

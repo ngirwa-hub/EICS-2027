@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A centralized control platform for managing and optimizing the performance of DC microgrids in ports, industries, data centers, and buildings by integrating various DC energy resources.
+
+2. **High-Efficiency DC Transformers**: Specialized transformers designed to operate on high-voltage DC systems, enabling efficient power distribution across long distances with reduced losses compared to traditional AC transformers.
+
+3. **DC Power Interface for Electric Vehicles (EVs)**: A direct current charging infrastructure specifically tailored for electric vehicles at ports and industrial sites, facilitating faster charging times and eliminating the need for AC-DC conversion.
+
+4. **Integrated DC Renewable Energy Management**: A system that seamlessly integrates renewable energy sources such as solar panels and wind turbines directly into DC grids within data centers and buildings, optimizing energy capture and usage efficiency.
+
+5. **Advanced Thermal Management for DC Systems**: Innovative cooling solutions tailored to address the heat dissipation challenges in high-power DC applications commonly found in industrial settings and large-scale data centers.

@@ -1,0 +1,5 @@
+1. Solar DC Inverter: A device that converts solar energy into direct current and feeds it into the DC grid for power distribution in ports, data centers, buildings, or industrial applications.
+2. Efficient DC Motor Drives: An innovative motor control system that optimizes energy consumption and performance in port handling equipment, industrial machinery, or building automation systems.
+3. Grid-Friendly DC Power System: A design approach for utilizing renewable DC sources such as wind, hydro, or tidal power to balance the grid's load distribution while ensuring stable supply in data centers and buildings.
+4. DC Microgrids for Industrial Applications: A system that enables local energy production, storage, and consumption within industrial facilities to reduce dependence on traditional grids and enhance resilience.
+5. Energy Efficient DC LED Lighting System: An LED lighting solution designed specifically for use in ports, data centers, buildings, or industrial environments that minimizes energy consumption while maintaining high-quality illumination.

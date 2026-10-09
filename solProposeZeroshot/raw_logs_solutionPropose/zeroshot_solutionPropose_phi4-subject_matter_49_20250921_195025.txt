@@ -1,0 +1,14 @@
+1. **DC Microgrid Management System:**
+   A centralized platform for monitoring and controlling DC microgrids in ports, industries, data centers, and buildings, optimizing energy distribution and enhancing system reliability through real-time analytics.
+
+2. **DC Solar Inverter Optimization:**
+   Advanced inverters designed specifically for DC integration that maximize the efficiency of solar panels by directly converting sunlight to DC power, reducing conversion losses and improving overall renewable energy utilization.
+
+3. **Hybrid AC/DC Power Architecture:**
+   A system architecture that seamlessly integrates both AC and DC components within industrial facilities and data centers, allowing flexible operation modes and optimizing energy usage based on real-time demands.
+
+4. **DC Power Distribution Units (PDUs):**
+   Specialized PDUs for managing DC power distribution in buildings and data centers, enhancing energy efficiency by minimizing conversion steps and enabling direct connection to DC-powered devices.
+
+5. **Advanced Insulation Materials:**
+   Development of high-performance insulation materials specifically designed for DC cables, addressing challenges like dielectric breakdown and extending the lifespan of infrastructure in harsh environments such as ports.

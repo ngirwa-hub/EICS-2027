@@ -1,0 +1,5 @@
+1. High-efficiency DC Power Supply: A system that utilizes DC power supplies with higher efficiency than traditional AC-DC converters, reducing energy losses and costs in data centers and industry.
+2. DC Fault Current Limiter: A device that protects DC systems from overcurrent conditions caused by faults or surges, ensuring reliable operation of critical infrastructure in ports, buildings, and data centers.
+3. DC Grid Connection System: A solution for connecting renewable energy sources like solar and wind to DC grids, enabling efficient integration and reducing grid congestion issues in port operations and building management systems.
+4. Modular DC Microgrid: An adaptable and flexible system that enables the creation of smaller-scale microgrids within industrial sites or buildings, providing greater control over energy consumption and costs.
+5. DC Pantograph Converter: A device that converts high-voltage direct current to low-voltage AC for efficient distribution in data centers and industrial applications, reducing power losses and improving efficiency.

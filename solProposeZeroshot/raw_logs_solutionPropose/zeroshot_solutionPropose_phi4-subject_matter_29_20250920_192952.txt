@@ -1,0 +1,9 @@
+1. **DC Microgrid Control System**: An advanced control system for managing power distribution and balancing loads in DC microgrids, enhancing efficiency and reliability within port facilities, industrial complexes, data centers, and buildings.
+
+2. **Integrated DC Lighting Solutions**: Energy-efficient lighting systems designed to operate directly on low-voltage DC, reducing conversion losses and improving energy savings in environments such as ports, industries, data centers, and office buildings.
+
+3. **DC-Powered Electric Vehicle Chargers**: High-efficiency charging stations that utilize direct current for faster charging of electric vehicles at ports, industrial sites, and urban infrastructure hubs without the need for AC-DC conversion.
+
+4. **DC Renewable Energy Forecasting Tool**: A software tool designed to predict renewable energy generation in DC systems, optimizing power management strategies across sectors like ports, industry, data centers, and buildings by integrating solar and wind resources more effectively.
+
+5. **Advanced Thermal Management Systems for DC Equipment**: Innovative cooling solutions specifically tailored for DC equipment, addressing thermal challenges in high-power applications such as industrial machinery, data center servers, and building HVAC systems operating on direct current.

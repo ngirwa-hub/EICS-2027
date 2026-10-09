@@ -1,0 +1,14 @@
+1. **DC Microgrid Control System: Port and industry-specific energy management tools**  
+   These systems optimize the distribution and usage of power within a direct current microgrid setup, enhancing efficiency in sectors like ports and industrial facilities.
+
+2. **DC Renewable Integration Module: Seamless integration of renewable sources into DC networks**  
+   This module facilitates the incorporation of solar panels or wind turbines directly into DC grids for buildings and data centers, maximizing renewable energy utilization without complex AC conversion processes.
+
+3. **High-Efficiency Power Inverters for Industry:** Advanced inverters to convert high-voltage DC efficiently within industrial settings  
+   These inverters provide a reliable method of converting DC power to meet various voltage and current requirements in industrial applications, improving efficiency and reducing losses.
+
+4. **DC Cooling Solutions for Data Centers: Innovative cooling methods tailored for direct current systems**  
+   Using DC-based cooling technologies that leverage the inherent characteristics of DC power can enhance energy efficiency and reduce operational costs in data center environments.
+
+5. **Energy Management Software for Smart Buildings:** Tailored software solutions for optimizing DC power usage in buildings  
+   This tool aids in managing and monitoring DC power consumption within smart buildings, enabling more effective energy use strategies and supporting sustainability goals.

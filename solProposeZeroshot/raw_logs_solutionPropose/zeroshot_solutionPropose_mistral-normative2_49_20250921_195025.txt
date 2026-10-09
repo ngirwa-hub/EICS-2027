@@ -1,0 +1,9 @@
+Solution 1: DC Grid Interconnection for Ports: A system that allows multiple DC sources in a port to be connected and managed, improving efficiency and reducing losses during energy exchange between vessels and the grid.
+
+Solution 2: Modular DC Power Distribution for Buildings: Pre-fabricated, flexible DC power modules for buildings that simplify installation and maintenance, reduce installation costs, and provide scalable power solutions.
+
+Solution 3: DC Microgrids for Offshore Wind Farms in Industry: Decentralized DC microgrids for offshore wind farms that minimize AC-DC conversion losses, increase system efficiency, and improve grid stability during energy exchange with the main grid.
+
+Solution 4: DC Battery Storage Systems for Data Centers: Direct current (DC) battery storage systems for data centers to store excess renewable energy, reduce conversion losses, and provide fast response backup power.
+
+Solution 5: DC Power-over-Ethernet (PoE) for Smart Building Controls: Utilizing DC power distribution over the existing Ethernet cabling infrastructure in buildings to simplify power management for smart building controls and lighting systems, while reducing conversion losses.

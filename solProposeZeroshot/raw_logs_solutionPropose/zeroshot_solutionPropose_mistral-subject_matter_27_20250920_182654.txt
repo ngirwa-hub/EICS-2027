@@ -1,0 +1,14 @@
+1. Solution Title: DC Grid Tie Inverter for Ports:
+   A power conversion system that enables connection of renewable energy sources (RES) such as solar or wind to the port's DC grid, ensuring seamless integration and power supply.
+
+2. Solution Title: DC Microgrids for Industry:
+   An on-site power generation and distribution system using DC power for industrial loads, providing higher efficiency, reduced losses, and improved reliability compared to AC systems.
+
+3. Solution Title: DC Battery Energy Storage Systems (BESS) for Data Centers:
+   A storage solution that uses DC energy storage systems instead of traditional AC-based systems, improving efficiency, reducing conversion losses, and providing faster response times for power regulation.
+
+4. Solution Title: DC Building Automation System (BAS):
+   An intelligent system that controls various building services such as lighting, HVAC, and appliances using direct current, enhancing energy efficiency and reducing electromagnetic interference.
+
+5. Solution Title: DC Residential Energy Management Systems (REMS):
+   A home energy management system designed to manage and optimize the use of DC power from renewable sources in residential buildings, improving grid stability and reducing costs for consumers.

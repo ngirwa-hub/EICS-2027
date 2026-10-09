@@ -1,0 +1,125 @@
+row_id,base_model,variant_id,model,solution_title,explanation,iteration,timestamp,truncated,condition,is_duplicate
+mistral_generalist_00_b1,mistral,mistral_generalist,generalist,DC Power Distribution Networks for Ports:,DC Power Distribution Networks for Ports:,0,20250919_182504,no,zeroshot,no
+mistral_generalist_00_b2,mistral,mistral_generalist,generalist,DC Grid-Connected Wind Turbines for Industry:,DC Grid-Connected Wind Turbines for Industry:,0,20250919_182504,no,zeroshot,no
+mistral_generalist_00_b3,mistral,mistral_generalist,generalist,DC Energy Management Systems for Data Centers:,DC Energy Management Systems for Data Centers:,0,20250919_182504,no,zeroshot,no
+mistral_generalist_00_b4,mistral,mistral_generalist,generalist,DC Microgrids for Buildings:,DC Microgrids for Buildings:,0,20250919_182504,no,zeroshot,no
+mistral_generalist_00_b5,mistral,mistral_generalist,generalist,DC Charging Stations for Electric Vehicles in Ports and Buildings:,DC Charging Stations for Electric Vehicles in Ports and Buildings:,0,20250919_182504,no,zeroshot,no
+mistral_normative2_01_b1,mistral,mistral_normative2,normative2,DC Grid Tie Inverters for Ports:,DC Grid Tie Inverters for Ports:,1,20250919_183121,no,zeroshot,no
+mistral_normative2_01_b2,mistral,mistral_normative2,normative2,DC Power Distribution Systems for Industry:,DC Power Distribution Systems for Industry:,1,20250919_183121,no,zeroshot,no
+mistral_normative2_01_b3,mistral,mistral_normative2,normative2,DC Microgrids for Data Centers:,DC Microgrids for Data Centers:,1,20250919_183121,no,zeroshot,no
+mistral_normative2_01_b4,mistral,mistral_normative2,normative2,Building-Integrated Photovoltaic Systems for Buildings:,Building-Integrated Photovoltaic Systems for Buildings:,1,20250919_183121,no,zeroshot,no
+mistral_normative2_01_b5,mistral,mistral_normative2,normative2,Energy Storage Modules for DC-based Homes and Buildings:,Energy Storage Modules for DC-based Homes and Buildings:,1,20250919_183121,no,zeroshot,no
+llama_subject_matter2_02_b1,llama,llama_subject_matter2,subject_matter2,Smart Grid Integration for Ports,Smart Grid Integration for Ports,2,20250919_184126,no,zeroshot,no
+llama_subject_matter2_02_b2,llama,llama_subject_matter2,subject_matter2,Hybrid Energy Systems for Industry,Hybrid Energy Systems for Industry,2,20250919_184126,no,zeroshot,no
+llama_subject_matter2_02_b3,llama,llama_subject_matter2,subject_matter2,High-Efficiency Data Center Cooling,High-Efficiency Data Center Cooling,2,20250919_184126,no,zeroshot,no
+llama_subject_matter2_02_b4,llama,llama_subject_matter2,subject_matter2,Microgrids for Resilient Building Systems,Microgrids for Resilient Building Systems,2,20250919_184126,no,zeroshot,no
+llama_subject_matter2_02_b5,llama,llama_subject_matter2,subject_matter2,DC Lighting Systems for Efficient Illumination,DC Lighting Systems for Efficient Illumination,2,20250919_184126,no,zeroshot,no
+mistral_normative_02_b1,mistral,mistral_normative,normative,DC Microgrid Control System for Ports,DC Microgrid Control System for Ports,2,20250919_184126,no,zeroshot,no
+mistral_normative_02_b2,mistral,mistral_normative,normative,DC Grid-tied Energy Storage for Industry,DC Grid-tied Energy Storage for Industry,2,20250919_184126,no,zeroshot,no
+mistral_normative_02_b3,mistral,mistral_normative,normative,Modular DC Power Distribution Units for Data Centers,Modular DC Power Distribution Units for Data Centers,2,20250919_184126,no,zeroshot,no
+mistral_normative_02_b4,mistral,mistral_normative,normative,Integrated DC Lighting Solutions for Buildings,Integrated DC Lighting Solutions for Buildings,2,20250919_184126,no,zeroshot,no
+mistral_normative_02_b5,mistral,mistral_normative,normative,DC Vehicle Charging Stations for Building Infrastructure,DC Vehicle Charging Stations for Building Infrastructure,2,20250919_184126,no,zeroshot,no
+mistral_subject_matter_07_b1,mistral,mistral_subject_matter,subject_matter,DC Grid Tie Inverters for Ports:,DC Grid Tie Inverters for Ports:,7,20250920_065638,no,zeroshot,no
+mistral_subject_matter_07_b2,mistral,mistral_subject_matter,subject_matter,High-Power DC Battery Energy Storage Systems for Industry:,High-Power DC Battery Energy Storage Systems for Industry:,7,20250920_065638,no,zeroshot,no
+mistral_subject_matter_07_b3,mistral,mistral_subject_matter,subject_matter,DC Microgrids for Data Centers:,DC Microgrids for Data Centers:,7,20250920_065638,no,zeroshot,no
+mistral_subject_matter_07_b4,mistral,mistral_subject_matter,subject_matter,DC Distribution Boards for Buildings:,DC Distribution Boards for Buildings:,7,20250920_065638,no,zeroshot,no
+mistral_subject_matter_07_b5,mistral,mistral_subject_matter,subject_matter,DC-AC Power Conversion Efficiency Optimization Tools for Industry:,DC-AC Power Conversion Efficiency Optimization Tools for Industry:,7,20250920_065638,no,zeroshot,no
+mistral_subject_matter_11_b1,mistral,mistral_subject_matter,subject_matter,DC Grid Fault Detection and Isolation System for Ports,DC Grid Fault Detection and Isolation System for Ports,11,20250920_072821,no,zeroshot,no
+mistral_subject_matter_11_b4,mistral,mistral_subject_matter,subject_matter,Modular Energy Storage System for Industry,Modular Energy Storage System for Industry,11,20250920_072821,no,zeroshot,no
+mistral_subject_matter_11_b5,mistral,mistral_subject_matter,subject_matter,DC Microgrid Control and Optimization for Data Centers,DC Microgrid Control and Optimization for Data Centers,11,20250920_072821,no,zeroshot,no
+mistral_subject_matter_11_b6,mistral,mistral_subject_matter,subject_matter,Smart Building Energy Management System for Buildings,Smart Building Energy Management System for Buildings,11,20250920_072821,no,zeroshot,no
+mistral_subject_matter_11_b7,mistral,mistral_subject_matter,subject_matter,DC Distribution Transformer for Buildings,DC Distribution Transformer for Buildings,11,20250920_072821,no,zeroshot,no
+mistral_subject_matter_12_b1,mistral,mistral_subject_matter,subject_matter,High Voltage Direct Current (HVDC) Transmission Systems for Ports:,High Voltage Direct Current (HVDC) Transmission Systems for Ports:,12,20250920_073511,no,zeroshot,no
+mistral_subject_matter_12_b2,mistral,mistral_subject_matter,subject_matter,DC Power Distribution in Industrial Facilities:,DC Power Distribution in Industrial Facilities:,12,20250920_073511,no,zeroshot,no
+mistral_subject_matter_12_b3,mistral,mistral_subject_matter,subject_matter,DC Microgrids for Data Centers:,DC Microgrids for Data Centers:,12,20250920_073511,no,zeroshot,no
+mistral_subject_matter_12_b4,mistral,mistral_subject_matter,subject_matter,Building Integrated Photovoltaic (BIPV) Systems for Buildings:,Building Integrated Photovoltaic (BIPV) Systems for Buildings:,12,20250920_073511,no,zeroshot,no
+mistral_subject_matter_12_b5,mistral,mistral_subject_matter,subject_matter,DC Load Management in Residential Buildings:,DC Load Management in Residential Buildings:,12,20250920_073511,no,zeroshot,no
+mistral_generalist_17_b1,mistral,mistral_generalist,generalist,DC Grid Tie Inverters for Ports:,DC Grid Tie Inverters for Ports:,17,20250920_110516,no,zeroshot,no
+mistral_generalist_17_b2,mistral,mistral_generalist,generalist,DC Distribution Systems for Industry:,DC Distribution Systems for Industry:,17,20250920_110516,no,zeroshot,no
+mistral_generalist_17_b3,mistral,mistral_generalist,generalist,DC Power Supply for Data Centers:,DC Power Supply for Data Centers:,17,20250920_110516,no,zeroshot,no
+mistral_generalist_17_b4,mistral,mistral_generalist,generalist,DC Microgrids for Buildings:,DC Microgrids for Buildings:,17,20250920_110516,no,zeroshot,no
+mistral_generalist_17_b5,mistral,mistral_generalist,generalist,DC-DC Bidirectional Chargers for Electric Vehicles in Buildings:,DC-DC Bidirectional Chargers for Electric Vehicles in Buildings:,17,20250920_110516,no,zeroshot,no
+mistral_normative_19_b1,mistral,mistral_normative,normative,Direct Current (DC) Shore Power System for Ports,Direct Current (DC) Shore Power System for Ports,19,20250920_171542,no,zeroshot,no
+mistral_normative_19_b4,mistral,mistral_normative,normative,Modular DC Power Distribution Units for Industry,Modular DC Power Distribution Units for Industry,19,20250920_171542,no,zeroshot,no
+mistral_normative_19_b5,mistral,mistral_normative,normative,DC Microgrids for Data Centers,DC Microgrids for Data Centers,19,20250920_171542,no,zeroshot,no
+mistral_normative_19_b6,mistral,mistral_normative,normative,Smart DC Energy Management for Buildings,Smart DC Energy Management for Buildings,19,20250920_171542,no,zeroshot,no
+mistral_normative_19_b7,mistral,mistral_normative,normative,Power-over-Ethernet (PoE) Systems for Building Automation,Power-over-Ethernet (PoE) Systems for Building Automation,19,20250920_171542,no,zeroshot,no
+mistral_subject_matter2_19_b1,mistral,mistral_subject_matter2,subject_matter2,High Voltage Direct Current (HVDC) Transmission for Offshore Wind Farms:,High Voltage Direct Current (HVDC) Transmission for Offshore Wind Farms:,19,20250920_171542,no,zeroshot,no
+mistral_subject_matter2_19_b2,mistral,mistral_subject_matter2,subject_matter2,DC Microgrids for Ports:,DC Microgrids for Ports:,19,20250920_171542,no,zeroshot,no
+mistral_subject_matter2_19_b3,mistral,mistral_subject_matter2,subject_matter2,DC Distribution System for Industrial Facilities:,DC Distribution System for Industrial Facilities:,19,20250920_171542,no,zeroshot,no
+mistral_subject_matter2_19_b4,mistral,mistral_subject_matter2,subject_matter2,DC Energy Storage for Data Centers:,DC Energy Storage for Data Centers:,19,20250920_171542,no,zeroshot,no
+mistral_subject_matter2_19_b5,mistral,mistral_subject_matter2,subject_matter2,Smart Building Energy Management System (BEMS):,Smart Building Energy Management System (BEMS):,19,20250920_171542,no,zeroshot,no
+mistral_generalist2_21_b1,mistral,mistral_generalist2,generalist2,DC Grid Tie Inverters for Ports:,DC Grid Tie Inverters for Ports:,21,20250920_173832,no,zeroshot,no
+mistral_generalist2_21_b2,mistral,mistral_generalist2,generalist2,Energy Management Systems for Industry:,Energy Management Systems for Industry:,21,20250920_173832,no,zeroshot,no
+mistral_generalist2_21_b3,mistral,mistral_generalist2,generalist2,DC Microgrids for Buildings:,DC Microgrids for Buildings:,21,20250920_173832,no,zeroshot,no
+mistral_generalist2_21_b4,mistral,mistral_generalist2,generalist2,DC Load Banks for Data Centers:,DC Load Banks for Data Centers:,21,20250920_173832,no,zeroshot,no
+mistral_generalist2_21_b5,mistral,mistral_generalist2,generalist2,Smart DC Distribution Boards for Buildings:,Smart DC Distribution Boards for Buildings:,21,20250920_173832,no,zeroshot,no
+mistral_generalist2_30_b1,mistral,mistral_generalist2,generalist2,DC Charging Stations for Ports:,DC Charging Stations for Ports:,30,20250920_193613,no,zeroshot,no
+mistral_generalist2_30_b2,mistral,mistral_generalist2,generalist2,DC Energy Optimization in Industry:,DC Energy Optimization in Industry:,30,20250920_193613,no,zeroshot,no
+mistral_generalist2_30_b3,mistral,mistral_generalist2,generalist2,DC Microgrids for Data Centers:,DC Microgrids for Data Centers:,30,20250920_193613,no,zeroshot,no
+mistral_generalist2_30_b4,mistral,mistral_generalist2,generalist2,DC Energy Distribution in Buildings:,DC Energy Distribution in Buildings:,30,20250920_193613,no,zeroshot,no
+mistral_generalist2_30_b5,mistral,mistral_generalist2,generalist2,DC Load Management Systems for Buildings:,DC Load Management Systems for Buildings:,30,20250920_193613,no,zeroshot,no
+mistral_subject_matter_31_b1,mistral,mistral_subject_matter,subject_matter,High Voltage Direct Current (HVDC) Grid Tie Inverters for Ports:,High Voltage Direct Current (HVDC) Grid Tie Inverters for Ports:,31,20250920_194217,no,zeroshot,no
+mistral_subject_matter_31_b2,mistral,mistral_subject_matter,subject_matter,DC-based Energy Storage Systems for Data Centers:,DC-based Energy Storage Systems for Data Centers:,31,20250920_194217,no,zeroshot,no
+mistral_subject_matter_31_b3,mistral,mistral_subject_matter,subject_matter,DC Microgrids for Industrial Applications:,DC Microgrids for Industrial Applications:,31,20250920_194217,no,zeroshot,no
+mistral_subject_matter_31_b4,mistral,mistral_subject_matter,subject_matter,Smart DC Distribution Systems for Buildings:,Smart DC Distribution Systems for Buildings:,31,20250920_194217,no,zeroshot,no
+mistral_subject_matter_31_b5,mistral,mistral_subject_matter,subject_matter,DC Charging Infrastructure for Electric Vehicles in Ports:,DC Charging Infrastructure for Electric Vehicles in Ports:,31,20250920_194217,no,zeroshot,no
+mistral_normative2_32_b1,mistral,mistral_normative2,normative2,Modular Direct Current Power Distribution Systems for Buildings,Modular Direct Current Power Distribution Systems for Buildings,32,20250920_195916,no,zeroshot,no
+mistral_normative2_32_b2,mistral,mistral_normative2,normative2,DC Microgrids for Ports,DC Microgrids for Ports,32,20250920_195916,no,zeroshot,no
+mistral_normative2_32_b3,mistral,mistral_normative2,normative2,Direct Current Arc Fault Protection for Industry,Direct Current Arc Fault Protection for Industry,32,20250920_195916,no,zeroshot,no
+mistral_normative2_32_b4,mistral,mistral_normative2,normative2,DC Energy Efficient Lighting Solutions for Buildings,DC Energy Efficient Lighting Solutions for Buildings,32,20250920_195916,no,zeroshot,no
+mistral_normative2_32_b5,mistral,mistral_normative2,normative2,DC Power Management Systems for Data Centers,DC Power Management Systems for Data Centers,32,20250920_195916,no,zeroshot,no
+llama_normative2_33_b1,llama,llama_normative2,normative2,Modular Microgrids for Ports,Modular Microgrids for Ports,33,20250920_230239,no,zeroshot,no
+llama_normative2_33_b3,llama,llama_normative2,normative2,DC-based Elevator System for Industry Buildings,DC-based Elevator System for Industry Buildings,33,20250920_230239,no,zeroshot,no
+llama_normative2_33_b4,llama,llama_normative2,normative2,Energy Efficient Lighting System for Data Centers,Energy Efficient Lighting System for Data Centers,33,20250920_230239,no,zeroshot,no
+llama_normative2_33_b5,llama,llama_normative2,normative2,EV Charging Stations for Building Parking Lots,EV Charging Stations for Building Parking Lots,33,20250920_230239,no,zeroshot,no
+mistral_subject_matter_34_b1,mistral,mistral_subject_matter,subject_matter,Direct Current Power Distribution Units (DC-PDUs) for Buildings:,Direct Current Power Distribution Units (DC-PDUs) for Buildings:,34,20250921_134937,no,zeroshot,no
+mistral_subject_matter_34_b2,mistral,mistral_subject_matter,subject_matter,DC Microgrids for Ports:,DC Microgrids for Ports:,34,20250921_134937,no,zeroshot,no
+mistral_subject_matter_34_b3,mistral,mistral_subject_matter,subject_matter,High-Voltage Direct Current (HVDC) Transmission for Industry:,High-Voltage Direct Current (HVDC) Transmission for Industry:,34,20250921_134937,no,zeroshot,no
+mistral_subject_matter_34_b4,mistral,mistral_subject_matter,subject_matter,DC Bus Systems for Data Centers:,DC Bus Systems for Data Centers:,34,20250921_134937,no,zeroshot,no
+mistral_subject_matter_34_b5,mistral,mistral_subject_matter,subject_matter,On-Site Renewable Energy Integration Inverters for Buildings:,On-Site Renewable Energy Integration Inverters for Buildings:,34,20250921_134937,no,zeroshot,no
+llama_generalist_38_b1,llama,llama_generalist,generalist,Intelligent Power Distribution System,Intelligent Power Distribution System,38,20250921_144114,no,zeroshot,no
+llama_generalist_38_b2,llama,llama_generalist,generalist,DC-DC Converter for Hybrid Systems,DC-DC Converter for Hybrid Systems,38,20250921_144114,no,zeroshot,no
+llama_generalist_38_b3,llama,llama_generalist,generalist,Modular Microgrids,Modular Microgrids,38,20250921_144114,no,zeroshot,no
+llama_generalist_38_b4,llama,llama_generalist,generalist,Advanced DC Grid Monitoring,Advanced DC Grid Monitoring,38,20250921_144114,no,zeroshot,no
+llama_generalist_38_b5,llama,llama_generalist,generalist,Flexible DC Converter Topologies,Flexible DC Converter Topologies,38,20250921_144114,no,zeroshot,no
+mistral_normative_40_b1,mistral,mistral_normative,normative,"DC Grid-tied Energy Storage System (for Ports, Industry, Data Centers, Buildings)","DC Grid-tied Energy Storage System (for Ports, Industry, Data Centers, Buildings)",40,20250921_151346,no,zeroshot,no
+mistral_normative_40_b2,mistral,mistral_normative,normative,"DC Microgrid Control and Management System (for Ports, Industry, Buildings)","DC Microgrid Control and Management System (for Ports, Industry, Buildings)",40,20250921_151346,no,zeroshot,no
+mistral_normative_40_b3,mistral,mistral_normative,normative,"DC Power Quality Conditioner (for Data Centers, Buildings)","DC Power Quality Conditioner (for Data Centers, Buildings)",40,20250921_151346,no,zeroshot,no
+mistral_normative_40_b4,mistral,mistral_normative,normative,"DC Solar Tracking System (for Ports, Industry, Buildings)","DC Solar Tracking System (for Ports, Industry, Buildings)",40,20250921_151346,no,zeroshot,no
+mistral_normative_40_b5,mistral,mistral_normative,normative,DC Building Integration Solutions (for Buildings),DC Building Integration Solutions (for Buildings),40,20250921_151346,no,zeroshot,no
+mistral_normative_41_b1,mistral,mistral_normative,normative,Direct Current Distribution Networks for Ports:,Direct Current Distribution Networks for Ports:,41,20250921_165552,no,zeroshot,no
+mistral_normative_41_b2,mistral,mistral_normative,normative,High-Power DC Transmission Systems for Industry:,High-Power DC Transmission Systems for Industry:,41,20250921_165552,no,zeroshot,no
+mistral_normative_41_b3,mistral,mistral_normative,normative,On-Site Solar Energy Conversion for Data Centers:,On-Site Solar Energy Conversion for Data Centers:,41,20250921_165552,no,zeroshot,no
+mistral_normative_41_b4,mistral,mistral_normative,normative,Building Integrated Photovoltaic Systems (BIPV) for Buildings:,Building Integrated Photovoltaic Systems (BIPV) for Buildings:,41,20250921_165552,no,zeroshot,no
+mistral_normative_41_b5,mistral,mistral_normative,normative,DC Microgrids for Energy Independence in Buildings:,DC Microgrids for Energy Independence in Buildings:,41,20250921_165552,no,zeroshot,no
+mistral_subject_matter_42_b1,mistral,mistral_subject_matter,subject_matter,DC High Voltage Breaker for Industry and Ports:,DC High Voltage Breaker for Industry and Ports:,42,20250921_170431,no,zeroshot,no
+mistral_subject_matter_42_b2,mistral,mistral_subject_matter,subject_matter,DC Grid-Tied Energy Storage for Buildings:,DC Grid-Tied Energy Storage for Buildings:,42,20250921_170431,no,zeroshot,no
+mistral_subject_matter_42_b3,mistral,mistral_subject_matter,subject_matter,DC Microgrid Controller for Data Centers:,DC Microgrid Controller for Data Centers:,42,20250921_170431,no,zeroshot,no
+mistral_subject_matter_42_b4,mistral,mistral_subject_matter,subject_matter,DC Distribution Automation for Ports:,DC Distribution Automation for Ports:,42,20250921_170431,no,zeroshot,no
+mistral_subject_matter_42_b5,mistral,mistral_subject_matter,subject_matter,DC Building Energy Management System (BEMS):,DC Building Energy Management System (BEMS):,42,20250921_170431,no,zeroshot,no
+mistral_generalist_43_b1,mistral,mistral_generalist,generalist,High Voltage Direct Current (HVDC) Grid Tie Inverters for Ports:,High Voltage Direct Current (HVDC) Grid Tie Inverters for Ports:,43,20250921_174010,no,zeroshot,no
+mistral_generalist_43_b2,mistral,mistral_generalist,generalist,DC Distribution Systems for Industry:,DC Distribution Systems for Industry:,43,20250921_174010,no,zeroshot,no
+mistral_generalist_43_b3,mistral,mistral_generalist,generalist,DC Microgrids for Buildings:,DC Microgrids for Buildings:,43,20250921_174010,no,zeroshot,no
+mistral_generalist_43_b4,mistral,mistral_generalist,generalist,DC Battery Energy Storage Systems for Data Centers:,DC Battery Energy Storage Systems for Data Centers:,43,20250921_174010,no,zeroshot,no
+mistral_generalist_43_b5,mistral,mistral_generalist,generalist,"DC Charging Stations for Electric Vehicles in Ports, Buildings, and Industry:","DC Charging Stations for Electric Vehicles in Ports, Buildings, and Industry:",43,20250921_174010,no,zeroshot,no
+mistral_normative_44_b1,mistral,mistral_normative,normative,Direct Current Transmission (DCT) Systems for Ports:,Direct Current Transmission (DCT) Systems for Ports:,44,20250921_174752,no,zeroshot,no
+mistral_normative_44_b2,mistral,mistral_normative,normative,DC Microgrids for Industrial Applications:,DC Microgrids for Industrial Applications:,44,20250921_174752,no,zeroshot,no
+mistral_normative_44_b3,mistral,mistral_normative,normative,Modular DC Energy Storage Units for Data Centers:,Modular DC Energy Storage Units for Data Centers:,44,20250921_174752,no,zeroshot,no
+mistral_normative_44_b4,mistral,mistral_normative,normative,DC-powered Electric Vehicle Charging Stations for Buildings:,DC-powered Electric Vehicle Charging Stations for Buildings:,44,20250921_174752,no,zeroshot,no
+mistral_normative_44_b5,mistral,mistral_normative,normative,Building Automation Systems with Integrated DC Power Management:,Building Automation Systems with Integrated DC Power Management:,44,20250921_174752,no,zeroshot,no
+mistral_normative_45_b1,mistral,mistral_normative,normative,Modular Direct Current Power Distribution System (for ports),Modular Direct Current Power Distribution System (for ports),45,20250921_175529,no,zeroshot,no
+mistral_normative_45_b2,mistral,mistral_normative,normative,High-Power DC Motor Drives (for industry),High-Power DC Motor Drives (for industry),45,20250921_175529,no,zeroshot,no
+mistral_normative_45_b3,mistral,mistral_normative,normative,DC Microgrids with Energy Storage (for data centers),DC Microgrids with Energy Storage (for data centers),45,20250921_175529,no,zeroshot,no
+mistral_normative_45_b4,mistral,mistral_normative,normative,Direct Current Lighting Solutions (for buildings),Direct Current Lighting Solutions (for buildings),45,20250921_175529,no,zeroshot,no
+mistral_normative_45_b5,mistral,mistral_normative,normative,"DC Renewable Energy Concentrator (for ports, industry, data centers, and buildings)","DC Renewable Energy Concentrator (for ports, industry, data centers, and buildings)",45,20250921_175529,no,zeroshot,no
+mistral_normative_47_b1,mistral,mistral_normative,normative,High Voltage DC Transmission System for Ports,High Voltage DC Transmission System for Ports,47,20250921_191737,no,zeroshot,no
+mistral_normative_47_b2,mistral,mistral_normative,normative,Smart Grid Management for Industry,Smart Grid Management for Industry,47,20250921_191737,no,zeroshot,no
+mistral_normative_47_b3,mistral,mistral_normative,normative,Onsite Solar Power Generation and DC Microgrids for Buildings,Onsite Solar Power Generation and DC Microgrids for Buildings,47,20250921_191737,no,zeroshot,no
+mistral_normative_47_b4,mistral,mistral_normative,normative,Energy Storage Solutions for Data Centers (Battery-Based V2G),Energy Storage Solutions for Data Centers (Battery-Based V2G),47,20250921_191737,no,zeroshot,no
+mistral_normative_47_b5,mistral,mistral_normative,normative,DC Distribution Network for Building Renovations,DC Distribution Network for Building Renovations,47,20250921_191737,no,zeroshot,no
+mistral_subject_matter_49_b1,mistral,mistral_subject_matter,subject_matter,High Voltage Direct Current (HVDC) Grid Tie Inverter:,High Voltage Direct Current (HVDC) Grid Tie Inverter:,49,20250921_195025,no,zeroshot,no
+mistral_subject_matter_49_b2,mistral,mistral_subject_matter,subject_matter,DC Microgrid Controller:,DC Microgrid Controller:,49,20250921_195025,no,zeroshot,no
+mistral_subject_matter_49_b3,mistral,mistral_subject_matter,subject_matter,Direct Current Arc Fault Detection and Mitigation System:,Direct Current Arc Fault Detection and Mitigation System:,49,20250921_195025,no,zeroshot,no
+mistral_subject_matter_49_b4,mistral,mistral_subject_matter,subject_matter,DC-AC Power Converter for Energy Storage:,DC-AC Power Converter for Energy Storage:,49,20250921_195025,no,zeroshot,no
+mistral_subject_matter_49_b5,mistral,mistral_subject_matter,subject_matter,DC Integrated Solar Tracking System:,DC Integrated Solar Tracking System:,49,20250921_195025,no,zeroshot,no

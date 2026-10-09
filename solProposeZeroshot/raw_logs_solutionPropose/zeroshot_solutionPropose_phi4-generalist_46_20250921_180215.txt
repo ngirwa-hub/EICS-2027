@@ -1,0 +1,9 @@
+1. **DC Microgrid Controllers:** Devices that manage power distribution within a DC microgrid in ports and industrial settings, enhancing efficiency and reliability by optimizing energy flow between various sources and loads.
+
+2. **DC-AC Hybrid Inverters:** Systems designed for data centers and buildings that can seamlessly convert DC to AC when needed while maximizing the use of available DC energy from renewable sources or storage systems.
+
+3. **Energy Management Software for DC Systems:** A software platform that monitors, controls, and optimizes the performance of DC networks in industries and data centers, improving energy efficiency and reducing operational costs.
+
+4. **DC-Powered Electric Vehicle (EV) Charging Stations:** Charging stations designed to provide direct current power to electric vehicles at ports and buildings, increasing charging speed and compatibility with renewable energy sources.
+
+5. **Thermal Energy Storage for DC Systems:** Solutions that integrate thermal storage into DC networks in industries or data centers to balance energy loads, improve efficiency, and utilize excess renewable energy effectively by storing it as heat.

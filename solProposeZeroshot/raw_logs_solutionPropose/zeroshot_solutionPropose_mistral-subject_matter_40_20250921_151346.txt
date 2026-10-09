@@ -1,0 +1,9 @@
+Solution 1: DC Grid Fault Current Limiter (GFL): A device that limits the fault current in a DC grid during a short-circuit event, reducing the risk of damage and improving system safety in ports, industry, data centers, and buildings.
+
+Solution 2: DC Power Distribution Unit (PDU): A modular power distribution system for data centers that provides direct current power to servers and other equipment, offering more efficient power distribution and improved reliability.
+
+Solution 3: DC Microgrid Controller (DMC): An intelligent controller for DC microgrids in buildings, ports, and industry that optimizes the operation of distributed energy resources (DERs) for maximum efficiency and stability.
+
+Solution 4: DC Renewable Energy Integration System (DRES): A system that facilitates the integration of renewable energy sources into DC grids in ports, industry, and buildings, improving grid resilience and reducing carbon emissions.
+
+Solution 5: DC Bus Tie Inverter (BTI): A device that connects AC and DC power systems in ports or industry, enabling seamless integration between traditional AC equipment and emerging DC technologies, thereby promoting interoperability.

@@ -1,0 +1,9 @@
+1. **DC Microgrid Infrastructure**: A network configuration that integrates various DC energy sources and loads within ports or industrial facilities, enhancing efficiency by minimizing conversions between AC and DC.
+
+2. **Integrated Renewable Energy Management System**: Software platform designed for optimizing the integration of solar panels and wind turbines with existing DC infrastructure in data centers, ensuring maximum renewable usage and reliability.
+
+3. **DC-Powered HVAC Systems**: Heating, ventilation, and air conditioning systems powered directly from DC sources, reducing energy losses associated with AC conversions and improving efficiency in buildings.
+
+4. **Industrial Process Equipment Adaptation Kits**: Solutions for retrofitting existing industrial machinery to operate on DC power, facilitating smoother integration into DC microgrids and enhancing overall process efficiency.
+
+5. **DC Optimized Lighting Systems**: Energy-efficient lighting solutions designed to operate directly from DC sources, cutting down energy losses in buildings and improving the sustainability of lighting infrastructure.

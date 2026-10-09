@@ -1,0 +1,9 @@
+Solution 1: Direct Current Grid Tie Inverter (DC-GT): A device that converts excess DC power from renewable energy sources in ports, industry, data centers, and buildings into AC power for grid connection, enhancing grid integration and efficiency.
+
+Solution 2: Power Electronics Interface for DC Microgrids (PEIDM): A system designed to manage and optimize the operation of multiple DC loads and distributed energy resources within microgrids in ports, industry, data centers, and buildings, promoting flexibility and reliability.
+
+Solution 3: Bidirectional DC-DC Converter for Energy Sharing (Bidir-DC2DC): Allows for energy exchange between DC sources of different voltage levels in ports, industry, data centers, and buildings, facilitating energy sharing and reducing overall power losses.
+
+Solution 4: Smart DC Load Management System (SDCLMS): An intelligent system that dynamically manages and optimizes the distribution of DC power to various loads within ports, industry, data centers, and buildings, ensuring efficient use and minimizing peak demand.
+
+Solution 5: Building Integrated Photovoltaic-DC Systems (BIPV-DC): Combines solar panels with building facades or roofs in a direct current configuration for ports, industry, data centers, and buildings, reducing energy losses during conversion and enhancing aesthetics.

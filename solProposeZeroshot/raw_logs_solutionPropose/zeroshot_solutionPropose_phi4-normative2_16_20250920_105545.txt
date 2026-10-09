@@ -1,0 +1,9 @@
+1. **DC Microgrid Control System**: A centralized management system for coordinating various DC-powered assets in ports, industries, data centers, and buildings. This facilitates efficient energy distribution and integration with renewable sources.
+
+2. **DC Lighting Infrastructure**: Specialized lighting systems designed for DC operation to reduce energy conversion losses and enhance efficiency in industrial environments, data centers, and large commercial buildings.
+
+3. **Integrated DC Cooling Solutions**: Innovative cooling technologies that use direct current to power refrigeration units within data centers and industries, reducing overall energy consumption and improving thermal management.
+
+4. **DC-Powered Electric Vehicle (EV) Charging Stations**: Fast-charging stations using DC technology for ports and industrial areas, enabling quicker charging of EVs and supporting green transportation initiatives.
+
+5. **Hybrid Renewable Energy Systems with DC Integration**: A solution that combines solar panels, wind turbines, and battery storage systems optimized to work within a DC infrastructure, enhancing energy reliability and sustainability in various sectors like buildings and industries.

@@ -1,0 +1,9 @@
+Solution 1: Modular Direct Current Distribution System for Buildings: A flexible and scalable DC distribution system designed specifically for buildings, allowing for easy integration of renewable energy sources and efficient power management within the building.
+
+Solution 2: High-Voltage Direct Current Underwater Cables (HVDC UWC) for Ports: Submarine cables that transmit electricity in DC form, reducing energy losses during long-distance transmission between offshore wind farms and the mainland grid, suitable for port applications.
+
+Solution 3: On-Site Renewable Energy Microgrids for Industry: Decentralized power generation systems consisting of various renewable energy sources connected to a local DC microgrid, providing self-sufficient and reliable power supply for industrial operations.
+
+Solution 4: Direct Current Arc Fault Detection in Data Centers: A system designed to quickly identify and isolate arc faults in DC data center equipment, improving safety, reducing downtime, and maintaining optimal performance of the facility.
+
+Solution 5: Energy Storage Integration for Buildings: A system that integrates battery storage directly with DC power systems within buildings, eliminating AC-DC conversion losses and providing grid stability while meeting peak demand.

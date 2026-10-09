@@ -1,0 +1,5 @@
+1. DC Power Distribution Units (PDUs): Intelligent PDUs manage and distribute DC power within a facility, providing monitoring, control, and fault isolation capabilities. These are critical for scalability and reliability in DC systems.
+2. Dynamic Voltage Sag Mitigation: DC-based dynamic voltage sag mitigation systems utilize ultracapacitors or batteries to quickly compensate for voltage dips, essential for sensitive industrial equipment and data center loads.
+3. DC-Native Load Management System: A software platform optimizing DC load profiles, shifting non-critical loads during peak generation or periods of grid stress, improving overall system efficiency.
+4. DC-Based Microgrid Controller: A centralized controller managing multiple DC sources (solar, wind, storage) and loads, optimizing power flow and ensuring grid stability within a port or industrial complex.
+5. High-Efficiency DC Lighting Systems: LED lighting directly powered by DC eliminates AC-DC conversion losses, reducing energy consumption and heat generation in buildings and industrial environments.

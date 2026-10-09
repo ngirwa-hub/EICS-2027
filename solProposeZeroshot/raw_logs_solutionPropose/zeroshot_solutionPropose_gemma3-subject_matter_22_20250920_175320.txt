@@ -1,0 +1,5 @@
+1. DC Power Distribution Units (PDUs): Intelligent PDUs manage and distribute DC power within facilities, offering features like remote monitoring, load balancing, and surge protection.
+2. DC-Native Energy Management Systems (EMS): These EMS are specifically designed to optimize DC power usage, leveraging DC characteristics for improved efficiency and control in buildings and data centers.
+3. Standardized DC Power Profiles: Defining standard voltage and current profiles for different application types within industry and ports to ensure interoperability and reduce design complexity.
+4. DC Fault Current Limiters: Devices that actively limit fault currents in DC systems, reducing stress on equipment and improving safety, particularly crucial in industrial settings.
+5. DC-Based Microgrid Controller: A sophisticated controller to manage and optimize the operation of DC microgrids, integrating renewable energy sources and energy storage for increased resilience and efficiency in ports and buildings.

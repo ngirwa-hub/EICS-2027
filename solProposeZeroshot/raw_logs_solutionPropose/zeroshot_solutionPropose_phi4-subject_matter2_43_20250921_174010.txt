@@ -1,0 +1,9 @@
+1. **DC Microgrid Control System**: An advanced control platform that manages and optimizes the operation of DC microgrids, ensuring efficient energy distribution and integration with renewable sources in ports, industries, data centers, and buildings.
+
+2. **DC Power Quality Monitoring Device**: A tool designed to continuously assess and report on the quality of power within DC networks, crucial for maintaining reliability and performance across various sectors like ports and industrial facilities.
+
+3. **Integrated Renewable Energy Management System (I-REMS)**: A comprehensive system that integrates solar PV, wind turbines, and battery storage directly into DC grids, optimizing renewable energy use in data centers and buildings while reducing reliance on AC systems.
+
+4. **DC-Powered Electric Vehicle Charging Stations**: Infrastructure for charging electric vehicles using direct current, enhancing energy efficiency and supporting sustainable transportation solutions at ports and industrial sites.
+
+5. **Smart Inverter Technology for DC Integration**: Innovations in inverter design that facilitate seamless integration of renewable sources into existing DC networks, improving the adaptability and resilience of power systems in diverse environments like data centers and buildings.

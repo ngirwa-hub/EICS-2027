@@ -1,0 +1,11 @@
+1. Ports
+   - High-Power DC Trains: A system that uses modular DC traction systems to power high-speed trains in port terminals, reducing energy consumption and emissions.
+    
+2. Industry
+   - Smart Manufacturing DC Networks: An automated DC network that connects manufacturing equipment and enables real-time data exchange for optimized production processes.
+    
+3. Data Centers
+   - Efficient Cooling DC System: A customized DC cooling system designed to reduce energy consumption and improve heat dissipation in data centers.
+    
+4. Buildings
+   - DC Lighting Retrofits: An efficient DC lighting retrofit solution that reduces energy consumption, improves light quality, and extends bulb lifespan in buildings.

@@ -1,0 +1,5 @@
+1. Solar Tracking System: A system that optimizes solar panel orientation based on weather and seasonal changes to maximize energy production in ports, industry, data centers, and buildings.
+2. Efficient Lighting: An LED lighting solution for data centers and buildings that reduces energy consumption and maintenance costs while improving quality and longevity.
+3. Energy Management System: A comprehensive software platform that integrates and optimizes energy usage in ports, industry, data centers, and buildings through real-time monitoring, control, and analysis.
+4. Building Integration: A solution for seamlessly integrating renewable energy systems with existing building infrastructure to optimize energy management in port facilities, industrial plants, data centers, and commercial buildings.
+5. Smart Grid Interface: A device that enables DC power distribution networks to interface with traditional AC power grids, facilitating the integration of DC technologies into existing grid infrastructure in ports, industry, data centers, and buildings.

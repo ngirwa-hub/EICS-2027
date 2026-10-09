@@ -1,0 +1,5 @@
+1. High-Efficiency DC Compressors: DC compressors with high efficiency ratings for use in HVAC systems in buildings, reducing energy consumption and noise levels.
+2. Portable DC Power Supplies: Lightweight, portable DC power supplies for emergency response situations in ports or other critical infrastructure locations.
+3. DC Fault Current Limiters: Devices that limit the current flow during fault conditions in industrial systems to prevent damage to equipment and reduce downtime.
+4. DC Busbar Systems for Data Centers: Modular, high-performance DC busbar systems for data centers, providing improved power distribution efficiency and resiliency.
+5. Integrated DC Power Distribution System for Smart Grids: A system that integrates DC power distribution with smart grid technologies to optimize energy management in buildings and industry sectors.

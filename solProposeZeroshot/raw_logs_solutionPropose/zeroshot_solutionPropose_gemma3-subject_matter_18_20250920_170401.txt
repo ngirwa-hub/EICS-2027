@@ -1,0 +1,5 @@
+1. DC-Based Microgrid Management System: Software platform for real-time monitoring, control, and optimization of DC microgrids, incorporating predictive analytics and fault management.
+2. Modular DC Power Distribution Units (PDUs): Standardized, scalable DC PDUs for efficient power delivery and management within industrial facilities and data centers, improving flexibility and reducing installation costs.
+3. High-Efficiency DC Motor Drives: Direct DC motor drives eliminating AC-DC-AC conversion stages, significantly increasing motor efficiency and reducing harmonic distortion in industrial applications.
+4. DC Fast Charging Infrastructure for Ports: Dedicated DC fast charging stations optimized for electric vehicle fleets within port environments, minimizing charging time and grid impact.
+5. DC-Native Building Energy Management System (BEMS): A BEMS designed specifically for DC buildings, enabling optimized energy usage and integration of on-site renewable generation without AC conversion.

@@ -1,0 +1,9 @@
+1. **DC Power Distribution Platform:** A unified platform for optimizing and managing DC power distribution within ports, industries, data centers, and buildings, improving efficiency and reducing energy losses.
+
+2. **DC Microgrid Management System:** An intelligent control system tailored for coordinating multiple DC microgrids across sectors to enhance reliability, adaptability, and integration of renewable sources.
+
+3. **Energy Storage Integration Module:** A module designed to seamlessly integrate various types of energy storage solutions with existing DC systems in ports and industries, facilitating efficient energy management and load balancing.
+
+4. **DC-Based Heat Recovery System:** A system for recovering waste heat from industrial processes or data center operations using DC technologies, improving overall energy efficiency by harnessing thermal energy for heating purposes.
+
+5. **Advanced Monitoring and Control Interface for DC Systems:** An interface providing comprehensive real-time monitoring and control of DC power systems, enabling predictive maintenance and operational optimization across various sectors such as ports, industry, and buildings.

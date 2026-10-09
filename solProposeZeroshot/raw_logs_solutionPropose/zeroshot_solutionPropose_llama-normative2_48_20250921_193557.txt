@@ -1,0 +1,5 @@
+1. Solar PV Systems: Ports and Industry - Integration of solar photovoltaic systems into the power supply chain in ports and industry sectors, reducing reliance on fossil fuels.
+2. Energy Management System (EMS): Buildings - An EMS that optimizes energy consumption and management in buildings by integrating DC solutions for automated lighting, HVAC, and other smart building systems.
+3. Microgrids: Data Centers - Development of microgrids within data centers to ensure uninterrupted power supply and reduce dependence on traditional power grids.
+4. Electric Vehicle Charging Stations: Ports and Buildings - Deployment of DC fast-charging stations for electric vehicles at ports and in buildings, promoting sustainable transportation and reducing emissions.
+5. Fuel Cell Technology: Industry - Adoption of fuel cell technology in industrial processes to reduce greenhouse gas emissions and produce clean energy.

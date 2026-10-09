@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: An advanced control platform for managing and optimizing power distribution within DC microgrids at ports, industries, data centers, and buildings. It enhances efficiency by balancing loads and integrating renewable energy sources seamlessly.
+
+2. **DC Power Quality Monitoring Device**: A device designed to continuously monitor and ensure the quality of DC power in various applications such as ports and industrial settings. This helps prevent disruptions caused by voltage fluctuations or harmonics in the DC network.
+
+3. **High-Capacity DC Battery Storage**: Large-scale battery systems specifically optimized for DC operations, providing energy storage solutions that improve resilience and reduce reliance on AC-DC conversions, particularly beneficial for data centers and building energy management.
+
+4. **Modular DC UPS Systems**: Uninterruptible Power Supply (UPS) systems designed to operate directly with DC power sources, offering efficient backup solutions without unnecessary conversion losses in industries and data centers where uptime is critical.
+
+5. **Integrated DC Renewable Energy Interface**: A solution that facilitates the direct integration of renewable energy generation like solar panels or wind turbines into DC grids, optimizing energy capture and reducing conversion steps in ports and industrial applications.

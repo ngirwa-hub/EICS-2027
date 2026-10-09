@@ -1,0 +1,5 @@
+1. Fast Charging DC Battery System: A high-power charging system designed specifically for DC batteries used in port and industrial applications, reducing the charging time required and increasing overall efficiency.
+2. DC Microgrids for Ports: Integration of DC microgrids to power and manage energy usage in ports, optimizing efficiency and reducing reliance on traditional grid systems.
+3. High-DC Power Density Solutions: DC power electronics technology that maximizes the amount of electricity that can be stored or transmitted within a given space, making it an efficient solution for data centers and industrial applications.
+4. Smart Grid for Buildings: Implementation of DC-based smart grids in buildings, allowing for energy storage, local distribution, and optimal usage of renewable energy sources like solar panels and wind turbines.
+5. DC Power Supply Systems for Electric Vehicles: Increasing the adoption of electric vehicles by providing efficient and reliable DC power supply systems that minimize charging times and enhance overall performance.

@@ -1,0 +1,9 @@
+1. **DC Microgrid Infrastructure**: Implementing a dedicated microgrid infrastructure for ports, industries, data centers, and buildings that uses direct current (DC) power distribution, reducing reliance on traditional AC grids and enhancing energy efficiency.
+
+2. **Integrated DC Lighting System**: Developing lighting solutions powered directly by DC sources to improve efficiency in data centers and commercial buildings, minimizing energy conversion losses associated with AC-DC conversions.
+
+3. **DC-Powered Cooling Systems**: Designing cooling systems for industries and data centers that operate on DC power, optimizing energy usage and reducing operational costs by bypassing inefficient AC-DC transformations.
+
+4. **Renewable Energy Integration Module**: A platform facilitating seamless integration of renewable sources like solar PV into existing DC networks within ports and industrial areas, maximizing the use of clean energy and minimizing conversion losses.
+
+5. **DC-Powered Electric Vehicle Chargers**: Establishing fast-charging stations for electric vehicles at ports and commercial buildings that operate directly on DC power, streamlining charging processes, and leveraging local renewable energy sources.

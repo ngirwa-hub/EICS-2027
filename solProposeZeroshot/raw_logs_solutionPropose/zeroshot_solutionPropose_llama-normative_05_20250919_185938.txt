@@ -1,0 +1,5 @@
+1. Smart Grid DC Power: A system that uses DC power in smart grids, increasing efficiency and reducing energy losses.
+2. Modular Energy Storage: A modular energy storage solution designed for DC systems, allowing for scalable and flexible energy storage options.
+3. Advanced Grid Integration: An advanced grid integration system that allows DC systems to connect seamlessly with existing AC grids and facilitate power exchange between different regions.
+4. Efficient DC Microgrids: A system that optimizes the use of DC microgrids, reducing energy waste and increasing overall efficiency in buildings, data centers, ports, and industry.
+5. Enhanced Power Quality: An enhanced power quality solution that improves the consistency and reliability of DC power systems, ensuring stable and reliable power delivery to connected devices.

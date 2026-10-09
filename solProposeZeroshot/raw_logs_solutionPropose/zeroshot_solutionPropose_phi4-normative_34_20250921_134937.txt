@@ -1,0 +1,9 @@
+1. **DC Microgrid Control Systems**: Advanced control systems for managing and optimizing the distribution of DC power within microgrids at ports, industries, data centers, and buildings, ensuring efficient energy use and system reliability.
+
+2. **DC Cooling Solutions**: Innovative cooling technologies using direct current to efficiently manage thermal loads in high-density environments like data centers and industrial processes, reducing dependency on traditional AC-driven cooling systems.
+
+3. **DC-Powered Electric Vehicle Charging Stations**: Fast-charging stations for electric vehicles powered directly by DC sources, enabling rapid charging times and integration into existing port infrastructures, enhancing sustainability.
+
+4. **Integrated Renewable Energy Sources (IRESS)**: Systems that integrate various renewable energy sources (solar, wind) with DC grids in ports, industries, data centers, and buildings to enhance energy self-sufficiency and reduce carbon footprints.
+
+5. **DC Power Distribution Management Software**: Intelligent software platforms for the management of DC power distribution networks across sectors like ports and industries, improving energy efficiency through real-time monitoring and predictive analytics.

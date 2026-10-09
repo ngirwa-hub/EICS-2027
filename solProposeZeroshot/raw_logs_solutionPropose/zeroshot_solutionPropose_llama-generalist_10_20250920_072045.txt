@@ -1,0 +1,5 @@
+1. DC Solar Power System for Ports: A renewable energy system that uses solar panels to generate electricity for port operations, reducing reliance on fossil fuels and lowering emissions.
+2. Energy-Efficient DC Lighting for Industry: LED lighting systems powered by DC sources offer higher energy efficiency and longer lifespans compared to traditional AC lighting, reducing maintenance costs and energy consumption in industrial settings.
+3. High-Efficiency DC Pumps for Data Centers: DC pumps can increase efficiency in data center cooling systems, as they do not suffer from the energy losses associated with AC-DC power conversion like traditional AC pumps.
+4. Smart DC Grid System for Buildings: A system that manages local energy generation and consumption using DC technology to optimize energy usage, reduce waste, and increase autonomy in building operations.
+5. Modular DC Microgrids for Ports and Industry: Enabling smaller-scale microgrids within port and industrial facilities, this solution can increase resilience and self-sufficiency by integrating renewable energy sources with energy storage and management systems.

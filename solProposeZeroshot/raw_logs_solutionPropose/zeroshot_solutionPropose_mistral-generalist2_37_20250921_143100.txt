@@ -1,0 +1,11 @@
+1. Solution Title: Modular DC Power Distribution for Buildings: A system that provides a flexible, scalable, and easy-to-install DC power distribution network in buildings, reducing installation costs and increasing energy efficiency.
+
+2. Solution Title: DC Load Management System for Data Centers: An advanced system that optimizes the distribution of power to various loads within data centers using DC voltage, improving efficiency and reducing losses.
+
+3. Solution Title: DC Grid Tie Inverters for Industry: Devices that convert excess industrial DC power into AC power for feeding back into the grid, maximizing energy recovery and promoting sustainability.
+
+4. Solution Title: DC Port Terminal Solutions: Integrated systems designed to handle high-power DC charging of electric vessels at ports, providing faster charging times and improved efficiency compared to AC systems.
+
+5. Solution Title: DC Microgrid Control Systems for Ports: Advanced control systems that enable the management of DC microgrids within ports, ensuring stable and efficient operation in various operational scenarios.
+
+Each solution aims to address specific challenges or opportunities associated with each sector (ports, industry, data centers, buildings) by leveraging direct current technologies, thereby enhancing their sustainability, efficiency, and overall performance.

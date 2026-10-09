@@ -1,0 +1,14 @@
+1. **DC-Powered Automated Systems for Ports:**
+   Implementation of automated systems and machinery in ports powered directly by DC, enhancing energy efficiency and reducing carbon footprint by eliminating AC-DC conversion losses.
+
+2. **Industry-Specific DC Drives:**
+   Development of specialized DC motor drives tailored to industrial applications that require high precision and reliability, improving process efficiencies while minimizing energy consumption.
+
+3. **Data Center Direct Cooling Systems:**
+   Integration of direct cooling solutions powered by DC in data centers to enhance cooling efficiency and reduce reliance on conventional AC-driven systems, leading to significant energy savings.
+
+4. **DC Microgrid for Building Energy Management:**
+   Establishment of microgrids within buildings that utilize DC power for lighting, HVAC, and other electrical needs, optimizing energy use and supporting seamless integration with renewable sources.
+
+5. **Integrated DC Renewable Systems in Buildings:**
+   Systems that directly connect solar panels or wind turbines to building electrical loads via DC, bypassing AC conversion, thereby reducing losses and improving overall system efficiency.

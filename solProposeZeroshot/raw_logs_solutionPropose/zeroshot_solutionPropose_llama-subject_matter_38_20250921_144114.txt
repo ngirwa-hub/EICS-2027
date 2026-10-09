@@ -1,0 +1,9 @@
+1. High-efficiency DC Lighting: An energy-efficient lighting system that operates on DC voltage and reduces electricity consumption in ports, factories, and buildings.
+
+2. DC Microgrids for Ports: A decentralized power distribution system using DC technology, allowing ports to operate independently from the main grid and reduce dependence on fossil fuels.
+
+3. Industry-specific DC Applications: Implementing DC technologies in specific industries such as automotive manufacturing, electronics production, or paper mills, improving energy efficiency and reducing costs.
+
+4. Solar-Powered DC Systems for Data Centers: Harnessing solar energy to power data centers through DC solutions, providing cost savings and reducing carbon footprint.
+
+5. Integrated DC Power System for Buildings: An integrated DC power system that includes solar panels, batteries, and inverters, offering a more efficient and sustainable solution for buildings' energy needs.

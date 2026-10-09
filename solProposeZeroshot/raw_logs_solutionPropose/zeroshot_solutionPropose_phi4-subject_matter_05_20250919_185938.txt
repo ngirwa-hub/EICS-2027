@@ -1,0 +1,9 @@
+1. **DC Power Distribution Units**: Compact units that manage and distribute power efficiently within buildings and data centers, minimizing conversion losses by directly utilizing DC from renewable sources.
+
+2. **Integrated Solar PV-DC Systems**: Solutions combining solar photovoltaic panels with direct current systems for ports and industrial sites, enhancing energy efficiency by reducing AC-DC conversion stages.
+
+3. **Hybrid Energy Management System**: A system that integrates various renewable energy sources (solar, wind) with DC grids in industries and data centers to optimize power flow and storage, ensuring consistent supply and demand balance.
+
+4. **DC Microgrid Controllers for Ports**: Advanced controllers designed for managing DC microgrids at ports, facilitating seamless integration of multiple DC-powered systems such as cranes and electric vehicles.
+
+5. **High-Efficiency DC Charging Infrastructure**: Specialized charging infrastructure for electric vehicles in industrial areas and ports that use high-efficiency DC chargers to reduce energy losses during the charging process.

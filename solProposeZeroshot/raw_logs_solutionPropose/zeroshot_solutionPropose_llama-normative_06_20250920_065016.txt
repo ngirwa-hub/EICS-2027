@@ -1,0 +1,5 @@
+1. Solar PV Conversion System: A system that converts solar photovoltaic power into direct current, reducing energy losses and increasing efficiency in port operations.
+2. Smart Grid Integration for Ports: A solution that integrates DC grid systems with smart grids to enhance the reliability and sustainability of electricity supply to ports.
+3. Industry-Specific DC Solutions: Customized direct current solutions designed specifically for different industries within the port sector, such as manufacturing or logistics, to increase energy efficiency and reduce operational costs.
+4. Data Center DC Energy Management System: An energy management system that optimizes the use of direct current in data centers within ports, reducing energy consumption while maintaining high-performance operations.
+5. Building Automation with DC: A solution for building automation systems in port facilities to improve energy efficiency and reduce energy waste through the integration of direct current technologies.

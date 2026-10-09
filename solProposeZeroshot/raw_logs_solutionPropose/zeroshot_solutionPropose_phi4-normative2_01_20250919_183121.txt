@@ -1,0 +1,9 @@
+1. **DC-Powered Port Equipment**: Implementation of direct current-powered machinery and equipment in ports, such as cranes and vehicles, which reduces emissions by eliminating the need for onboard generators.
+
+2. **Industrially Integrated DC Power Loops**: Designing closed-loop power systems within industrial settings that utilize DC to directly supply energy to manufacturing processes, enhancing efficiency and reducing conversion losses.
+
+3. **Data Center DC Cooling Systems**: Development of direct current-based cooling solutions specifically tailored for data centers to improve energy efficiency by integrating with existing DC power supplies.
+
+4. **Residential DC Microgrids**: Creating small-scale microgrid systems in buildings that operate on DC power for local energy distribution, improving reliability and reducing dependency on traditional AC grids.
+
+5. **DC-Powered Electric Vehicle (EV) Charging Stations**: Deploying charging stations that provide direct current to electric vehicles, increasing the speed of charging and reducing conversion losses compared to AC charging methods.

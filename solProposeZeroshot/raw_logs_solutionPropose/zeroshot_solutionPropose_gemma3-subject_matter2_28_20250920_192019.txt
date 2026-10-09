@@ -1,0 +1,5 @@
+1. DC-Based Microgrid Controller: A centralized or distributed control system specifically designed to manage DC microgrids, optimizing energy flow, balancing loads, and integrating renewable sources.
+2. Modular DC Power Distribution Units (PDU): Standardized, scalable DC PDUs for efficient power distribution within buildings and industrial facilities, offering remote monitoring and management capabilities.
+3. DC-Native Energy Management System (EMS): An EMS designed from the ground up to manage DC power systems, including load forecasting, energy optimization, and predictive maintenance for DC components.
+4. High-Efficiency DC Lighting Systems: Integrated DC lighting solutions that eliminate AC-DC conversion at the point of use, reducing energy losses and improving overall system efficiency in buildings and ports.
+5. DC-Coupled Renewable Energy Harvesting System: A system designed for ports and industrial facilities to directly capture and utilize renewable energy sources (solar, wind) using DC-DC converters and battery storage, minimizing AC conversion.

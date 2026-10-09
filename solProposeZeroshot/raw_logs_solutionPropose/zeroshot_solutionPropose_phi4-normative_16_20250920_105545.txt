@@ -1,0 +1,9 @@
+1. **DC Power Management System:** A centralized platform for managing and optimizing the distribution and consumption of DC power across various sectors, ensuring efficient energy use and minimizing losses.
+
+2. **DC Renewable Energy Integration Unit:** A unit designed to facilitate seamless integration of renewable energy sources like solar panels directly into DC grids within ports, industries, data centers, and buildings, enhancing sustainability.
+
+3. **DC Cooling System for Data Centers:** An innovative cooling solution utilizing DC power to improve energy efficiency in data centers by eliminating unnecessary AC-DC conversions, leading to significant operational cost savings.
+
+4. **DC Lighting Retrofit Kits:** Kits enabling the transition of existing lighting infrastructure to direct current systems, particularly useful in industrial settings and buildings to reduce energy consumption and increase reliability.
+
+5. **Modular DC Power Supply for Industry Applications:** A flexible and scalable power supply system designed for industrial use that allows easy adaptation to varying power needs and supports high-efficiency DC operations.

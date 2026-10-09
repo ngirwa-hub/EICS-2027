@@ -1,0 +1,7 @@
+Here are five additional DC solutions relevant to the Shift2DC project's target sectors (ports, industry, data centers, buildings), not previously listed, formatted as requested:
+
+1.  DC Power Distribution Units (PDUs): Intelligent DC PDUs will manage power delivery, monitor voltage/current, and provide remote control capabilities within DC microgrids.
+2.  DC-Based Energy Management Systems (EMS): A DC EMS optimizes energy usage across facilities by coordinating renewable generation, storage, and loads within a DC environment.
+3.  DC-Native Lighting Systems: Eliminates AC-DC conversion for LED lighting, increasing efficiency and reducing heat generation within buildings and industrial facilities.
+4.  DC-Coupled Microgrid Controllers: Advanced controllers enable autonomous operation and seamless integration of multiple DC microgrids across a port or industrial park.
+5.  DC Harmonic Mitigation Filters: Active filters specifically designed to address harmonic distortion introduced by non-linear DC loads, crucial for maintaining power quality in data centers and industrial settings.

@@ -1,0 +1,9 @@
+Solution 1: Direct Current Arc Fault Detection System for Ports: A system that uses advanced sensors and algorithms to detect and isolate dangerous electrical arcs in port infrastructure, improving safety and reducing downtime.
+
+Solution 2: High-Voltage DC Grid Integration for Industry: A solution that enables the integration of high-voltage DC grids into industrial facilities, allowing for more efficient power distribution and reduced energy losses.
+
+Solution 3: Smart Load Management System for Data Centers: An intelligent system that optimizes power consumption in data centers by dynamically managing the load across multiple servers, reducing energy waste and improving efficiency.
+
+Solution 4: DC Microgrid Controller for Buildings: A controller that manages the operation of a building's distributed DC microgrid, ensuring proper power distribution and seamless integration with the main grid when necessary.
+
+Solution 5: Energy Storage System with Thermal Management for Buildings: An energy storage system that includes active thermal management to regulate temperature within buildings, improving comfort while reducing energy consumption and costs.

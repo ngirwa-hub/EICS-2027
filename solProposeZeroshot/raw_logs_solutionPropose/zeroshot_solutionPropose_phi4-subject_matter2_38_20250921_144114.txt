@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A centralized platform for optimizing and managing energy distribution in DC microgrids within ports and industries, enhancing efficiency and reliability.
+
+2. **High-Efficiency PV-to-DC Inverters**: Specialized inverters designed to convert solar power directly into DC with minimal losses, suitable for data centers and buildings seeking sustainable energy solutions.
+
+3. **DC-Powered Electric Vehicle Chargers**: Infrastructure that allows electric vehicles at ports and industry sites to be charged using direct current, reducing charging times and improving compatibility with renewable sources.
+
+4. **Integrated DC Heating Solutions**: Systems designed for industrial processes or building heating that utilize DC power directly from solar panels or wind turbines, increasing energy efficiency and reducing emissions.
+
+5. **DC-Based Smart Lighting Control**: An intelligent lighting system for buildings and ports using DC power to enhance energy savings through adaptive brightness control based on occupancy and natural light availability.

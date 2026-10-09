@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A centralized control system that optimizes the operation and integration of multiple DC power sources within microgrids at ports, industries, data centers, and buildings.
+
+2. **DC Power Quality Monitoring Device**: Equipment designed to continuously monitor and ensure the quality of DC power in terms of voltage stability, harmonic distortion, and other parameters critical for sensitive applications like data centers and industrial processes.
+
+3. **Hybrid AC-DC Transformer**: A transformer capable of converting between high-voltage AC and DC efficiently, facilitating seamless integration of renewable energy sources into existing grid infrastructure in ports and industrial areas.
+
+4. **DC Renewable Energy Integration Module**: A module designed to simplify the connection and synchronization of various renewable energy sources like solar PVs or wind turbines directly into DC grids within buildings and data centers.
+
+5. **DC Emergency Power Supply System**: A dedicated backup power system using DC storage solutions to ensure uninterrupted power supply in critical infrastructure such as hospitals, data centers, and essential industrial processes during outages.

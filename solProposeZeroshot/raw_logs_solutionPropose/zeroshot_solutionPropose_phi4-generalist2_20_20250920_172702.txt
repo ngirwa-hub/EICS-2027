@@ -1,0 +1,9 @@
+1. **DC Power Management System:** A centralized system designed to optimize the distribution and use of direct current within data centers or industrial facilities, enhancing energy efficiency by reducing conversion losses between AC and DC power.
+
+2. **Modular DC Distribution Panels:** Customizable panels that allow flexible integration of various DC-powered devices in buildings, promoting efficient energy usage and simplifying maintenance operations.
+
+3. **High-Efficiency DC Microinverters for Solar Arrays:** Specialized inverters that convert solar-generated DC to DC at high efficiency levels, suitable for both large-scale industrial applications and individual building rooftops.
+
+4. **Integrated DC Charging Infrastructure for Ports:** Systems designed to facilitate the rapid charging of electric vehicles or ships using direct current, supporting a shift towards electrification in port operations and reducing reliance on fossil fuels.
+
+5. **DC-based HVAC System for Buildings:** A heating, ventilation, and air conditioning system that operates directly from DC power, minimizing conversion losses and improving overall energy efficiency for residential and commercial buildings.

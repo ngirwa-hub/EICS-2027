@@ -1,0 +1,9 @@
+1. **DC Microgrid Management System**: A platform designed to optimize the operation and integration of various DC sources within a microgrid environment in ports and industrial settings, enhancing efficiency and reliability.
+
+2. **High-Efficiency DC Transformers**: These transformers enable seamless conversion between high-voltage DC systems and low-voltage DC applications, crucial for adapting existing infrastructure in data centers and buildings.
+
+3. **DC Power Quality Monitoring**: A solution that continuously assesses the quality of DC power in industrial settings to ensure stability and efficiency, thereby preventing equipment damage and downtime.
+
+4. **Portable DC Energy Modules**: Flexible modules designed for easy installation and scalability, particularly useful in ports where energy demands can fluctuate dramatically based on operations and cargo handling.
+
+5. **Integrated DC Energy Management Software**: Advanced software that provides real-time analytics and control over DC energy systems in data centers, optimizing power usage and reducing operational costs through intelligent load management.
