@@ -25,6 +25,12 @@ The workflow has three stages:
 
 ## 3. Expert-rating analysis
 
+**Evaluation materials:**
+
+- [Survey consent](<expertsRatings/Survey Consent.pdf>).
+- [Aware-condition evaluation form](<expertsRatings/Assessment of Novelty of DC Solutions.pdf>).
+- [Blind-condition evaluation form](<expertsRatings/Novelty of DC Solutions.pdf>).
+
 [`expertsRatings.ipynb`](expertsRatings/expertsRatings.ipynb) analyses the aware and blind survey workbooks: 13 consenting experts that responded to the 'DC proposal evaluation forms', comprising five aware and eight blind experts.
 
 - Prepare anonymous expert profiles and proposal-level judgeability data. Present unable-to-judge percentages alongside selected written reasons; rating analyses include only experts able to judge the corresponding proposal. Outputs saved in: `/Users/HP/Documents/EICS-2026/expertsRatings/outputs/tables/`for detailed table is: `expert_detailed_profile.tex` and summarized content is: `expert_profile_table.tex`
