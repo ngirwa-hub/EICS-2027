@@ -1,4 +1,4 @@
-# EICS 2026: DC proposal generation, initial preparations, author reviews, and expert evaluation responses analysis
+# EICS 2027: DC proposal generation, initial preparations, author reviews, and expert evaluation responses analysis
 
 The workflow has three stages: 
     - Model-variant creation and prompting, 
