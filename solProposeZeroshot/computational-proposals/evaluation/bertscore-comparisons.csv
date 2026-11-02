@@ -1,0 +1,31 @@
+comparison,proposal_index,source_clusters,reference_name,candidate_name,score_target,reference_tokens,candidate_tokens,truncated,reference_tokens_used,candidate_tokens_used,precision,recall,f1,model_type,rescale_with_baseline
+openai_reference_author_candidate,1,0,EV Charging Stations,electric vehicles charging stations,key_phrases,21,44,False,21,44,0.865113,0.881575,0.873266,roberta-large,False
+openai_reference_author_candidate,1,0,EV Charging Stations,electric vehicles charging stations,objective_description,87,92,False,87,92,0.913535,0.917385,0.915456,roberta-large,False
+openai_reference_author_candidate,2,"1,2,4",Building Integrated Photovoltaic Systems | Integrated Renewable Energy Management System | Intelligent Building Management System,Intelligent Building Energy Management System (IBEMS),key_phrases,70,48,False,70,48,0.848938,0.850758,0.849847,roberta-large,False
+openai_reference_author_candidate,2,"1,2,4",Building Integrated Photovoltaic Systems | Integrated Renewable Energy Management System | Intelligent Building Management System,Intelligent Building Energy Management System (IBEMS),objective_description,276,118,False,276,118,0.887313,0.865224,0.876129,roberta-large,False
+openai_reference_author_candidate,3,"5,7",Solar PV Tracking System | Solar Power for Ports,solar PV tracking and power systems,key_phrases,48,32,False,48,32,0.900779,0.861566,0.880736,roberta-large,False
+openai_reference_author_candidate,3,"5,7",Solar PV Tracking System | Solar Power for Ports,solar PV tracking and power systems,objective_description,179,109,False,179,109,0.914321,0.885443,0.899651,roberta-large,False
+openai_reference_author_candidate,4,6,Battery Storage Hybrid Systems,battery energy storage systems,key_phrases,18,46,False,18,46,0.845629,0.874406,0.859777,roberta-large,False
+openai_reference_author_candidate,4,6,Battery Storage Hybrid Systems,battery energy storage systems,objective_description,92,101,False,92,101,0.937078,0.941139,0.939104,roberta-large,False
+openai_reference_author_candidate,5,3,LED Lighting Systems,LED lighting systems,key_phrases,22,51,False,22,51,0.854625,0.87489,0.864639,roberta-large,False
+openai_reference_author_candidate,5,3,LED Lighting Systems,LED lighting systems,objective_description,95,95,False,95,95,0.906001,0.90924,0.907618,roberta-large,False
+source_reference_openai_candidate,1,0,Charging Stations,EV Charging Stations,key_phrases,124,21,False,124,21,0.896835,0.827823,0.860948,roberta-large,False
+source_reference_openai_candidate,1,0,Charging Stations,EV Charging Stations,objective_description,210,87,False,210,87,0.914243,0.882296,0.897986,roberta-large,False
+source_reference_openai_candidate,2,1,Building Integrated,Building Integrated Photovoltaic Systems,key_phrases,274,29,False,274,29,0.894371,0.810254,0.850237,roberta-large,False
+source_reference_openai_candidate,2,1,Building Integrated,Building Integrated Photovoltaic Systems,objective_description,314,98,False,314,98,0.908403,0.871432,0.889534,roberta-large,False
+source_reference_openai_candidate,3,2,Integrated Renewable Energy Management System (I-REMS),Integrated Renewable Energy Management System,key_phrases,144,24,False,144,24,0.903723,0.817722,0.858574,roberta-large,False
+source_reference_openai_candidate,3,2,Integrated Renewable Energy Management System (I-REMS),Integrated Renewable Energy Management System,objective_description,163,89,False,163,89,0.913937,0.90101,0.907428,roberta-large,False
+source_reference_openai_candidate,4,3,Led Lighting,LED Lighting Systems,key_phrases,309,22,False,309,22,0.903791,0.7884,0.842162,roberta-large,False
+source_reference_openai_candidate,4,3,Led Lighting,LED Lighting Systems,objective_description,499,95,False,499,95,0.89189,0.847027,0.86888,roberta-large,False
+source_reference_openai_candidate,5,4,Intelligent Building Management System,Intelligent Building Management System,key_phrases,124,19,False,124,19,0.889905,0.821938,0.854572,roberta-large,False
+source_reference_openai_candidate,5,4,Intelligent Building Management System,Intelligent Building Management System,objective_description,274,89,False,274,89,0.907925,0.877581,0.892495,roberta-large,False
+source_reference_openai_candidate,6,5,Solar PV Tracking System,Solar PV Tracking System,key_phrases,92,25,False,92,25,0.915119,0.8609,0.887182,roberta-large,False
+source_reference_openai_candidate,6,5,Solar PV Tracking System,Solar PV Tracking System,objective_description,475,92,False,475,92,0.892561,0.852959,0.872311,roberta-large,False
+source_reference_openai_candidate,7,6,Battery Storage,Battery Storage Hybrid Systems,key_phrases,125,18,False,125,18,0.875827,0.812014,0.842714,roberta-large,False
+source_reference_openai_candidate,7,6,Battery Storage,Battery Storage Hybrid Systems,objective_description,408,92,False,408,92,0.898342,0.852497,0.874819,roberta-large,False
+source_reference_openai_candidate,8,7,Solar Power,Solar Power for Ports,key_phrases,255,24,False,255,24,0.887473,0.794366,0.838342,roberta-large,False
+source_reference_openai_candidate,8,7,Solar Power,Solar Power for Ports,objective_description,994,87,True,512,87,0.870238,0.813312,0.840813,roberta-large,False
+openai_reference_author_candidate,MEAN,ALL,ALL,ALL,key_phrases,,,False,,,0.863017,0.868639,0.865653,roberta-large,False
+openai_reference_author_candidate,MEAN,ALL,ALL,ALL,objective_description,,,False,,,0.91165,0.903686,0.907591,roberta-large,False
+source_reference_openai_candidate,MEAN,ALL,ALL,ALL,key_phrases,,,False,,,0.895881,0.816677,0.854342,roberta-large,False
+source_reference_openai_candidate,MEAN,ALL,ALL,ALL,objective_description,,,True,,,0.899692,0.862264,0.880533,roberta-large,False

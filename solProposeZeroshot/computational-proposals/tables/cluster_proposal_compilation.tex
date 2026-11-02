@@ -1,0 +1,56 @@
+
+\begingroup
+\small
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.2}
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+
+\begin{longtable}{@{}
+>{\raggedright\arraybackslash}p{0.08\linewidth}
+>{\raggedright\arraybackslash}p{0.39\linewidth}
+>{\raggedright\arraybackslash}p{\dimexpr0.43\linewidth-6\tabcolsep\relax}
+>{\raggedright\arraybackslash}p{0.10\linewidth}
+@{}}
+\caption{Mapping of eight source clusters to OpenAI-cleaned proposals
+and five author-consolidated proposals in the intended workflow.}
+\label{tab:cluster_proposal_compilation}\\
+\toprule
+Cluster ID & OpenAI-cleaned proposal & Author-consolidated proposal & Final ID \\
+\midrule
+\endfirsthead
+
+\caption[]{Proposal mapping in the intended workflow (continued).}\\
+\toprule
+Cluster ID & OpenAI-cleaned proposal & Author-consolidated proposal & Final ID \\
+\midrule
+\endhead
+
+\midrule
+\multicolumn{4}{r}{\footnotesize Continued on the next page}\\
+\endfoot
+
+\bottomrule
+\multicolumn{4}{@{}p{\linewidth}@{}}{
+\footnotesize
+\textit{Key:} Cluster IDs follow the source clustering output.
+Each OpenAI proposal represents one source cluster.
+Merged cells identify the clusters contributing to each final authored
+proposal; P1--P5 identify those final proposals.
+Rows are grouped by final proposal. The noise cluster ($-1$) is excluded.
+}\\
+\endlastfoot
+0 & EV Charging Stations & electric vehicles charging stations & P1 \\
+\midrule
+1 & Building Integrated Photovoltaic Systems & \multirow[t]{3}{=}{Intelligent Building Energy Management System (IBEMS)} & \multirow[t]{3}{=}{P2} \\*
+2 & Integrated Renewable Energy Management System &  &  \\*
+4 & Intelligent Building Management System &  &  \\
+\midrule
+5 & Solar PV Tracking System & \multirow[t]{2}{=}{solar PV tracking system} & \multirow[t]{2}{=}{P3} \\*
+7 & Solar Power for Ports &  &  \\
+\midrule
+6 & Battery Storage Hybrid Systems & battery energy storage systems & P4 \\
+\midrule
+3 & LED Lighting Systems & LED lighting systems & P5 \\
+\end{longtable}
+\endgroup

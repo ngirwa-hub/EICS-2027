@@ -11,7 +11,7 @@
 ## description: The Intelligent Building Energy Management System (IBEMS) integrates advanced energy management and automation with building-integrated photovoltaics (BIPV) and renewable energy management to optimize energy use and generate on-site DC electricity. It combines real-time monitoring, intelligent controls, and integrated renewable generation or storage to improve energy efficiency, self-sufficiency, and sustainability while reducing costs and emissions in buildings.
 
 # solution: combined_solution (cluster 5, 7)
-## solution name: solar PV tracking and power systems
+## solution name: solar PV tracking system
 ## key_phrases: Solar PV Tracking System | Solar Tracking System | Solar PV Tracking | Solar PV Tracking System for Ports | Solar PV Tracker | Solar-Powered Ports.
 ## objective: To maximize solar energy generation and support sustainable operations through photovoltaic power systems and intelligent tracking or orientation technologies.
 ## description: The solutions combine solar photovoltaic power deployment with advanced tracking and orientation systems to increase renewable electricity generation. They include solar installations for ports and related infrastructure, alongside sensors, algorithms, and control technologies that adjust panel positioning based on the sun’s movement, weather, and seasonal conditions. Together, these systems improve energy yield, support cleaner operations, and reduce reliance on fossil-fuel-based power.
