@@ -8,6 +8,8 @@ The workflow has three stages:
 
 The proposal workflow proceeds from **cluster summaries → eight OpenAI-cleaned proposals → five author-consolidated proposals**, with BERTScore comparisons between the successive versions.
 
+Throughout the workflow, all sentence-embedding tasks use `BAAI/bge-large-en-v1.5`, including semantic-similarity screening, proposal clustering, and semantic-diversity analysis.
+
 ## 1. Model variants and prompting
 
 - Use the definitions in [`modelfiles/`](modelfiles/) to create the generalist, normative, and subject-matter variants in Ollama. The prompting script addresses 24 variants: two configurations per role across Llama-Pro, Mistral, Phi-4, and Gemma 3:12B.
@@ -20,8 +22,8 @@ The proposal workflow proceeds from **cluster summaries → eight OpenAI-cleaned
 [`solProposeZeroshot.ipynb`](solProposeZeroshot/solProposeZeroshot.ipynb) documents the preparation workflow:
 
 - Retain complete 50-iteration variant groups, clean titles and explanations, and retain at most five proposals per variant and iteration.
-- Screen proposals against the 11 existing solutions using `BAAI/bge-large-en-v1.5` embeddings and maximum cosine similarity; retain scores below `0.60`.
-- Cluster retained proposals using HDBSCAN and prepare labels, key phrases, summaries, titles, and explanations in [`cluster_summaries_zeroshot.csv`](solProposeZeroshot/clustering_zeroshot/cluster_summaries_zeroshot.csv).
+- Screen proposals against the 11 existing solutions using embeddings and maximum cosine similarity; retain scores below `0.60`.
+- Cluster retained proposal embeddings using HDBSCAN and prepare labels, key phrases, summaries, titles, and explanations in [`cluster_summaries_zeroshot.csv`](solProposeZeroshot/clustering_zeroshot/cluster_summaries_zeroshot.csv).
 - Use [`generation/workflow.py`](solProposeZeroshot/computational-proposals/generation/workflow.py) with [`instructions.md`](solProposeZeroshot/computational-proposals/generation/instructions.md) to structure the eight non-noise clusters into [`eight-proposals.md`](solProposeZeroshot/computational-proposals/generation/eight-proposals.md). Each cleaned proposal represents one cluster and contains a name, key phrases, objective, and description. 
 - Consolidate related OpenAI-cleaned proposals into five final proposals in [`author-final.md`](solProposeZeroshot/author-final.md), retaining their source-cluster memberships.
 - Generate the [proposal-mapping table](solProposeZeroshot/computational-proposals/tables/cluster_proposal_compilation.tex), showing source-cluster IDs, OpenAI-cleaned proposal names, author-consolidated proposal names, and final proposal IDs. Merged cells identify combined proposals.
@@ -38,7 +40,7 @@ Generation scripts, instructions, generated proposals, evaluation files, and the
 
 ### Semantic diversity across model variants and temperatures
 
-[`solProposeZeroshot.ipynb`](solProposeZeroshot/solProposeZeroshot.ipynb) also compares the semantic content of the model variants' outputs. Using all cleaned proposals before similarity screening, it combines proposal titles and available explanations into one text per variant and iteration: 1,200 outputs across 24 variants and 50 iterations. Texts are embedded using `BAAI/bge-large-en-v1.5`. Each variant comparison reports the mean cosine distance across all 50 × 50 output pairs.
+[`solProposeZeroshot.ipynb`](solProposeZeroshot/solProposeZeroshot.ipynb) also compares the semantic content of the model variants' outputs. Using all cleaned proposals before similarity screening, it combines proposal titles and available explanations into one text per variant and iteration: 1,200 outputs across 24 variants and 50 iterations. Each output text is embedded, and each variant comparison reports the mean cosine distance across all 50 × 50 output pairs.
 
 The role-specific temperature pairs are Generalist: `0.75`/`0.80`, Normative: `0.85`/`0.90`, and Subject-matter: `0.65`/`0.70`.
 
