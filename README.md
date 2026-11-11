@@ -56,7 +56,7 @@ The analysis contains 84 comparisons in total. The [saved distance CSV](solPropo
 
 **Evaluation materials:**
 
-- [Survey consent] (<Has been omitted at this stage of manuscript review since it contains identifiers of the researchers. It will be provided later>). 
+- Survey consent -->> Has been omitted at this stage of manuscript review since it contains identifiers of the researchers, and the review is double blind. 
 - [Aware-condition evaluation form](<expertsRatings/Assessment of Novelty of DC Solutions.pdf>).
 - [Blind-condition evaluation form](<expertsRatings/Novelty of DC Solutions.pdf>).
 
